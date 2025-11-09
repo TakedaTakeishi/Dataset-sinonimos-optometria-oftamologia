@@ -1,0 +1,252 @@
+ACR: 
+1) Arteria central de la retina. 
+2) Atrofia coriorretiniana
+AD / ADD: Adición
+AM: 
+1) Agujero macular. 
+2) Astigmatismo mixto
+AML: Agujero macular laminar o lamelar (anglicismo)
+AO / AAOO: Ambos ojos
+AR: 
+1) Autorrefractómetro. 
+2) Artritis reumatoide
+ARPE: Acute retinal pigment epithelitis en inglés (epitelitis pigmentaria retiniana aguda)
+AV CAE / @: 
+1) Agudeza visual con agujero estenopeico. 
+2) Agudeza visual con estenopeica
+AV CC / CSC: Agudeza visual con su corrección
+AVC: 
+1) Agudeza visual cercana. 
+2) Accidente vascular cerebral
+AXL: Axial length en inglés (longitud axial)
+AZOOR: Acute zonal occult outer retinopathy en inglés (retinopatia externa oculta zonal aguda)
+
+BUT: Break-up time en inglés (tiempo de ruptura lagrimal)
+
+C/D: Copa/Disco (excavación papilar)
+CC: 
+1) Con corrección óptica. 
+2) Cuerpo ciliar
+CDVA: Corrected distance visual acuity en inglés (agudeza visual lejana con corrección)
+CE: 
+1) Cuerpo extraño. 
+2) Cerclaje escleral
+CIL / CYL: Cilindro / astigmatismo
+CIN: Corneo-conjunctival intraepithelial neoplasia en inglés (neoplasia córneo-conjuntival intraepitelial)
+CIVA: Corrected intermediate visual acuity en inglés (agudeza visual intermedia con corrección)
+CMIG: Cirugía mínimamente invasiva de glaucoma (MIGS en inglés)
+CNVA: Corrected near visual acuity en inglés (agudeza visual cercana con corrección)
+CPI: 
+1) Coriorretinitis placoide incesante. 
+2) Coroiditis punctata interna
+CRSC / CSC: Coriorretinopatía serosa central
+CSA: 
+1) Catarata subcapsular anterior. 
+2) Ciclosporina A
+CT: Cover test en inglés
+
+DALK: Deep anterior lamelar keratoplasty en inglés (queratoplastia laminar anterior profunda)
+DCCT: Diabetes control and complications trial en inglés (ensayo clínico sobre control y complicaciones de la diabetes)
+DCIVA: Distance-corrected intermediate visual acuity en inglés (agudeza visual intermedia con la corrección lejana)
+DCNVA: Distance-corrected near visual acuity en inglés (agudeza visual cercana con la corrección lejana)
+DCPP / DEPP / DPMP / DPP: Distrofia corneal endotelial polimorfa posterior
+DCR-EX / DCR-C: Dacriocistorrinostomía externa o clásica
+DCR-L / DCR TC LD: Dacriocistorrinostomía láser / dacriocistorrinostomía transcanalicular con láser diodo
+DIMS: Defocus incorporated multiple segments en inglés (lentes de desenfoque periférico)
+DMAEn / DMAEne / DMAEnv: 
+1) Degeneración macular asociada a la edad neovascular. 
+2) Degeneración macular asociada a la edad neovascular exudativa. 
+3) Degeneración macular asociada a la edad neovascular
+DMBA / DMBE: Distrofia de la membrana basal anterior o epitelial de la córnea
+DMEK: Descemet membrane endothelial keratoplasty en inglés (queratoplastia endotelial de membrana de Descemet)
+DNE / DNS: Desprendimiento del neuroepitelio o neurosensorial de la retina
+DP: 
+1) Dioptría prismática. 
+2) Diámetro pupilar. 
+3) Distancia pupilar
+DRIL: Disorganization of retinal inner layers en inglés (desorganización-desestructuración de las capas internas de la retina)
+DSAEK: Descemet stripping with automated endothelial keratoplasty en inglés (queratoplastia endotelial automatizada con pelado de membrana de Descemet)
+DSO: Descemet stripping only en inglés (solo descemetorrexis)
+DVC / DVI: Desprendimiento de vítreo completo / incompleto
+DWEK: Descemetorhexis without endothelial keratoplasty en inglés (descemetorrexis sin queratoplastia endotelial)
+
+E / EST: Agujero estenopeico
+EA: 
+1) Exudado algodonoso. 
+2) Exploración con anestesia
+EDOF IOL: Extended depth of focus intraocular lens en inglés (lente intraocular de profundidad de foco extendida)
+EE: 
+1) Espolón escleral. 
+2) Equivalente esférico
+EIOI: Enfermedad inflamatoria orbitaria idiopática (anteriormente conocida como pseudotumor inflamatorio de la órbita)
+EL: 
+1) Endoláser. 
+2) Exploración con linterna
+EM: 
+1) Edema macular. 
+2) Esclerosis múltiple
+EMC / EMQ: Edema macular cistoide o quístico
+EP / E/P: Excavación papilar / cociente excavación-papila
+
+F / FENI: Fenilefrina
+FACO / FE: Facoemulsificación
+FE: 
+1) Función del elevador. 
+2) Fijación excéntrica
+FFM: Fundus flavimaculatus (enfermedad de Stargardt)
+
+GDX: Polarimetria láser (Carl Zeiss Meditec AG)
+GP / GPG: Glaucoma pigmentario
+GPEX / GPSX: Glaucoma pseudoexfoliativo
+
+
+HRT: Heidelberg Retina Tomograph en inglés (láser confocal de barrido de Heidelberg Engineering GmbH)
+HS: Herpes simple/x
+HSV: Herpes simple/x virus en inglés
+
+IC: 
+1) Insuficiencia de convergencia. 
+2) Iridociclectomía
+ICE: Iridocorneal endothelial syndrome en inglés (síndrome endotelial iridocorneal)
+ICG: Indocyanine green en inglés (verde de indocianina)
+ICL: Implantable collamer lens en inglés (lente fáquica implantable de colágeno)
+ICV: Índice de campo visual (VFI en inglés)
+IFIS: Intraoperative floppy iris syndrome en inglés (síndrome de iris flácido intraoperatorio)
+IOL: Intraocular lens en inglés (lente intraocular)
+IPCL: Implantable phakic contact lens en inglés (lente fáquica implantable de cámara posterior)
+IRMA: Intraretinal microvascular abnormality en inglés (anomalía microvascular intrarretiniana)
+ISNT: Regla anatómica de distribución normal de la capa de fibras nerviosas en el anillo neurorretiniano (de mayor a menor grosor): inferior > superior > nasal > temporal
+IVT: Intravítreo / Inyección intravítrea
+
+KC: Keratoconus en inglés (queratocono)
+KR: Queratotomía (keratotomy en inglés) radial
+
+LASEK: Laser-assisted subepithelial keratectomy en inglés (queratectomía subepitelial asistida con láser)
+LASIK: Laser-assisted in situ keratomileusis en inglés (queratomileusis in situ asistida con láser)
+LCRPG / LCRGP: Lente de contacto rígida permeable al gas / gas permeable
+LHON: Leber’s hereditary optic neuropathy en inglés (neuropatía óptica hereditaria de Leber)
+
+MA: 
+1) Membrana amniótica. 
+2) Microaneurisma
+MacTel: Macular telangiectasia en inglés (telangiectasia macular)
+MAPE: Myopic acquired progressive esotropia en inglés (esotropia progresiva adquirida miópica)
+MIGS: Minimally invasive glaucoma surgery (cirugía mínimamente invasiva de glaucoma)
+MT: 
+1) Malla trabecular. 
+2) Macular thickness en inglés (espesor o grosor macular)
+
+NIC: Neoplasia intraepitelial conjuntival (CIN en inglés)
+NIKBUT: Non invasive Keratograph® break-up time en inglés (tiempo de ruptura lagrimal no invasivo en Keratograph®)
+NM: 
+1) No mejora. 
+2) Nistagmus manifiesto
+NO: 
+1) Nervio óptico. 
+2) Neuritis / neuropatía óptica
+
+OCT: Optical coherence tomography en inglés (tomografía de coherencia óptica)
+OCTA: Optical coherence tomography angiography en inglés (OCTA o angiografía por tomografía de coherencia óptica)
+OD: Ojo derecho (oculus dexter en latín)
+OI: 
+1) Ojo izquierdo. 
+2) Oblicuo inferior
+ORT: Outer retinal tubulation en inglés (tubulación de la retina externa)
+OS: 
+1) Oculus sinister en latín (ojo izquierdo). 
+2) Oblicuo superior. 
+3) Oftalmía simpática
+OU: Oculus uterque en latín (ambos ojos)
+OVLA/B: Obstrucción de la vía lagrimal alta/baja
+
+PAR: Proliferación angiomatosa retiniana (RAP en inglés)
+PEX / PSX: Pseudoexfoliación
+PFC / PSFC: Pseudofaquia correcta
+PFRC / PRFC /PFC: Panfotorretinocoagulación / panrretinofotocoagulación con láser argón / Panfotocoagulación
+ph: Pinhole en inglés (agujero estenopeico)
+PIC: Punctate inner coroidopathy en inglés (coroidopatía / coroiditis punctata interna)
+PIOU: Párpado inferior de ambos ojos (oculus uterque en latín)
+PK: Precipitados queráticos (keratic en inglés)
+PKE: Precipitados querato-(keratic en inglés)-endoteliales
+PKP: Penetrating keratoplasty en inglés (queratoplastia penetrante)
+PL: 
+1) Percepción de luz. 
+2) Punto lagrimal
+POM: 
+1) Pomada. 
+2) Parálisis Oculomotora
+PP: 
+1) Polo posterior. 
+2) Pars plana
+PRGF: Plasma rich in growth factors en inglés (plasma rico en factores de crecimiento)
+PSOU: Párpado superior de ambos ojos (oculus uterque en latín)
+PTK: Phototherapeutic keratectomy en inglés (queratectomía fototerapéutica)
+PUK: Peripheral ulcerative keratitis en inglés (queratitis ulcerativa periférica)
+PVE: 
+1) Pulso venoso espontáneo. 
+2) Potenciales visuales evocados
+
+Q 2/4/6/8/12/24: Cada 2/4/6/8/12 horas/semanas
+QC: 
+1) Queratocono. 
+2) Queratoconjuntivitis
+QCS: Queratoconjuntivitis seca / sicca
+QP / QPP: Queratoplastia penetrante
+QPS: Queratitis punteada / punctata superficial
+QUP: Queratitis ulcerativa periférica (PUK en inglés)
+
+RAP: Retinal angiomatous proliferation en inglés (proliferación angiomatosa retiniana)
+RB / Rb: Retinoblastoma
+RCD: Relación / ratio copa-disco
+REOZA: Retinopatía externa oculta zonal aguda (AZOOR en inglés)
+REP: Relación / ratio excavación-papila
+RNFL: Retinal nerve fiber layer en inglés (capa de fibras nerviosas retinianas)
+ROP: Retinopathy of prematurity en inglés (retiniopatía de la prematuridad)
+RPE: Retinal pigment epithelium en inglés (epitelio pigmentario de la retina)
+RS: 
+1) Recto superior. 
+2) Refracción subjetiva
+
+SALK: Superficial anterior lamellar keratoplasty en inglés (queratoplastia laminar anterior superficial)
+SC: 
+1) Sin corrección óptica. 
+2) Sin células (tyndall negativo)
+SCP: Subcapsular posterior (catarata)
+SD/Sd: Síndrome
+SIRE: Shallow,irregular retinal pigment epithelium (RPE) elevation en inglés (elevación plana e irregular del epitelio pigmentario de la retina)
+SLT: Selective laser trabeculoplasty en inglés (trabeculoplastia láser selectiva)
+SMPBE: Síndrome de múltiples puntos blancos evanescentes (MEWDS en inglés)
+SP: 
+1) Sinequia posterior. 
+2) Segmento posterior
+SPF / SPL: Sindrome párpado flácido o laxo
+SPH: Sphere en inglés (esfera o defecto esférico en graduación óptica)
+SXE: P/seudoxantoma elástico
+
+TA / Ta: Tonometría de aplanamiento de Goldmann
+TBC: 
+1) Trabeculectomía. 
+2) Tuberculosis.
+TBUT: Tear break-up time en inglés (tiempo de ruptura de la película lagrimal)
+TCO: Tomografía de coherencia óptica (OCT en inglés)
+TSL: Trabeculoplastia selectiva láser (SLT en inglés)
+
+UDVA: Uncorrected distance visual acuity en inglés (agudeza visual lejana sin corrección)
+UIVA: Uncorrected intermediate visual acuity en inglés (agudeza visual intermedia sin corrección)
+UNTI: Síndrome uveítis-nefritis tubulointersticial (TINU en inglés)
+UNVA: Uncorrected near visual acuity en inglés (agudeza visual cercana sin corrección)
+
+VCP: Vasculopatía coroidea polipoidea (PCV en inglés)
+VEGF: Vascular endothelial growth factor en inglés (factor de crecimiento endotelial vascular)
+VFI: Visual field index en inglés (índice de campo visual)
+VHS: Virus herpes simple/x
+VI: 
+1) Visión intermedia. 
+2) Verde indocianina
+VL: 
+1) Visión de lejos. 
+2) Vía lagrimal
+VMA: Vitreomacular adhesion en inglés (adhesión vitreomacular)
+VMT: Vitreomacular traction en inglés (tracción vitreomacular)
+VPH / VPHP: Vítreo primario hiperplásico / vítreo primario hiperplásico persistente
+VRIAN: Síndrome de vasculitis retiniana idiopática,aneurismas y neurorretinitis (IRVAN en inglés)
