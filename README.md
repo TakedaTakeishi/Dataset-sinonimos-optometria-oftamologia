@@ -8,7 +8,7 @@
 
 Dataset completo de terminología médica especializada en oftalmología y optometría, creado como parte del proyecto de **Buscador Avanzado de Términos Optométricos** para la asignatura de Ingeniería de Software para Sistemas Inteligentes (ISSI) en la **ESCOM - Instituto Politécnico Nacional**.
 
-Este dataset proporciona una estructura completa de sinónimos, siglas, acrónimos y sus expansiones en el dominio oftalmológico, diseñado para sistemas de búsqueda, expansión de consultas, y aplicaciones de procesamiento de lenguaje natural (PLN) en el ámbito médico.
+Este dataset proporciona una estructura de sinónimos, siglas, acrónimos y sus expansiones en el dominio oftalmológico, diseñado para sistemas de búsqueda, expansión de consultas, y aplicaciones de procesamiento de lenguaje natural (PLN) en el ámbito médico.
 
 ## 🎯 Características Principales
 
