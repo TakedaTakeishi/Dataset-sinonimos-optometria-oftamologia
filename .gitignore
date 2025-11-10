@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.bak
+*.log
+a_modificar.txt
+*.old
+
+# Scripts de desarrollo (no distribuir)
+crear_siglas_medicas.py
+generar_lista_id.py
+generar_indice_invertido.py
+refine_filter_and_update.py
+filter_and_group.py
+remove_duplicates.py
+
+# Archivos intermedios
+siglas_medicas.json
+siglas_multiples.txt
