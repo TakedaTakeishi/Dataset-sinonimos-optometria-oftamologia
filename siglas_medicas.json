@@ -1,0 +1,934 @@
+{
+  "A/V": [
+    "A/V",
+    "Relación arteriola vénula",
+    "Relación arteriola-vénula",
+    "Relación arteriola/vénula"
+  ],
+  "ACR": [
+    "ACR",
+    "Arteria central de la retina"
+  ],
+  "ACR-2": [
+    "ACR",
+    "Atrofia coriorretiniana"
+  ],
+  "AML": [
+    "AML",
+    "Agujero macular lamelar",
+    "Agujero macular laminar"
+  ],
+  "ARPE": [
+    "ARPE",
+    "Acute retinal pigment epithelitis",
+    "epitelitis pigmentaria retiniana aguda"
+  ],
+  "AXL": [
+    "AXL",
+    "Axial length",
+    "longitud axial"
+  ],
+  "AZOOR": [
+    "AZOOR",
+    "Acute zonal occult outer retinopathy",
+    "retinopatia externa oculta zonal aguda"
+  ],
+  "AD": [
+    "AD",
+    "ADD",
+    "Adición"
+  ],
+  "AAOO": [
+    "AAOO",
+    "AO",
+    "Ambos ojos"
+  ],
+  "AV CC": [
+    "AV CC",
+    "CSC",
+    "Agudeza visual Corrección",
+    "Corrección de Agudeza Visual"
+  ],
+  "AM": [
+    "AM",
+    "Agujero macular"
+  ],
+  "AM-2": [
+    "AM",
+    "Astigmatismo mixto"
+  ],
+  "AR": [
+    "AR",
+    "Autorrefractómetro"
+  ],
+  "AR-2": [
+    "AR",
+    "Artritis reumatoide"
+  ],
+  "@": [
+    "@",
+    "AV CAE",
+    "Agudeza visual con agujero estenopeico"
+  ],
+  "@-2": [
+    "@",
+    "AV CAE",
+    "Agudeza visual con estenopeica"
+  ],
+  "AVC": [
+    "AVC",
+    "Agudeza visual cercana"
+  ],
+  "AVC-2": [
+    "AVC",
+    "Accidente vascular cerebra"
+  ],
+  "BUT": [
+    "BUT",
+    "Break-up time",
+    "tiempo de ruptura lagrimal"
+  ],
+  "C/D": [
+    "C/D",
+    "Copa Disco",
+    "Copa-Disco",
+    "Copa/Disco"
+  ],
+  "CC": [
+    "CC",
+    "Con corrección óptica"
+  ],
+  "CC-2": [
+    "CC",
+    "Cuerpo ciliar"
+  ],
+  "CDVA": [
+    "CDVA",
+    "Corrected distance visual acuity",
+    "agudeza visual lejana con corrección"
+  ],
+  "CE": [
+    "CE",
+    "Cuerpo extraño"
+  ],
+  "CE-2": [
+    "CE",
+    "Cerclaje escleral"
+  ],
+  "CIL": [
+    "CIL",
+    "CYL",
+    "Cilindro or astigmatismo"
+  ],
+  "CIN": [
+    "CIN",
+    "Corneo-conjunctival intraepithelial neoplasia",
+    "neoplasia córneo-conjuntival intraepitelial"
+  ],
+  "CIVA": [
+    "CIVA",
+    "Corrected intermediate visual acuity",
+    "agudeza visual intermedia con corrección"
+  ],
+  "CMIG": [
+    "CMIG",
+    "Cirugía mínimamente invasiva de glaucoma",
+    "MIGS"
+  ],
+  "CNVA": [
+    "CNVA",
+    "Corrected near visual acuity",
+    "agudeza visual cercana con corrección"
+  ],
+  "CPI": [
+    "CPI",
+    "Coriorretinitis placoide incesante"
+  ],
+  "CPI-2": [
+    "CPI",
+    "Coroiditis punctata interna"
+  ],
+  "CRSC": [
+    "CRSC",
+    "CSC",
+    "Coriorretinopatía serosa central"
+  ],
+  "CSA": [
+    "CSA",
+    "Catarata subcapsular anterior"
+  ],
+  "CSA-2": [
+    "CSA",
+    "Ciclosporina A"
+  ],
+  "CT": [
+    "CT",
+    "Cover test"
+  ],
+  "DALK": [
+    "DALK",
+    "Deep anterior lamelar keratoplasty",
+    "queratoplastia laminar anterior profunda"
+  ],
+  "DCCT": [
+    "DCCT",
+    "Diabetes control and complications trial",
+    "ensayo clínico sobre control y complicaciones de la diabetes"
+  ],
+  "DCIVA": [
+    "DCIVA",
+    "Distance-corrected intermediate visual acuity",
+    "agudeza visual intermedia con la corrección lejana"
+  ],
+  "DCNVA": [
+    "DCNVA",
+    "Distance-corrected near visual acuity",
+    "agudeza visual cercana con la corrección lejana"
+  ],
+  "DCPP": [
+    "DCPP",
+    "DEPP",
+    "DPMP",
+    "DPP",
+    "Distrofia corneal endotelial polimorfa posterior"
+  ],
+  "DCR-C": [
+    "DCR-C",
+    "DCR-EX",
+    "Dacriocistorrinostomía clásica",
+    "Dacriocistorrinostomía externa"
+  ],
+  "DCR TC LD": [
+    "DCR TC LD",
+    "DCR-L",
+    "Dacriocistorrinostomía láser or dacriocistorrinostomía transcanalicular con láser diodo"
+  ],
+  "DIMS": [
+    "DIMS",
+    "Defocus incorporated multiple segments",
+    "lentes de desenfoque periférico"
+  ],
+  "DMAEn": [
+    "DMAEn",
+    "DMAEne",
+    "DMAEnv",
+    "Degeneración macular asociada a la edad neovascular"
+  ],
+  "DMAEn-2": [
+    "DMAEn",
+    "DMAEne",
+    "DMAEnv",
+    "Degeneración macular asociada a la edad neovascular exudativa"
+  ],
+  "DMBA": [
+    "DMBA",
+    "DMBE",
+    "Distrofia de la membrana basal anterior",
+    "Distrofia de la membrana basal epitelial de la córnea"
+  ],
+  "DMEK": [
+    "DMEK",
+    "Descemet membrane endothelial keratoplasty",
+    "queratoplastia endotelial de membrana de Descemet"
+  ],
+  "DNE": [
+    "DNE",
+    "DNS",
+    "Desprendimiento del neuroepitelio",
+    "Desprendimiento neurosensorial de la retina"
+  ],
+  "DP": [
+    "DP",
+    "Dioptría prismática"
+  ],
+  "DP-2": [
+    "DP",
+    "Diámetro pupilar."
+  ],
+  "DP-3": [
+    "DP",
+    "Distancia pupilar"
+  ],
+  "DRIL": [
+    "DRIL",
+    "Disorganization of retinal inner layers",
+    "desorganización-desestructuración de las capas internas de la retina"
+  ],
+  "DSAEK": [
+    "DSAEK",
+    "Descemet stripping with automated endothelial keratoplasty",
+    "queratoplastia endotelial automatizada con pelado de membrana de Descemet"
+  ],
+  "DSO": [
+    "DSO",
+    "Descemet stripping only",
+    "solo descemetorrexis"
+  ],
+  "DVC": [
+    "DVC",
+    "DVI",
+    "Desprendimiento de vítreo completo or incompleto"
+  ],
+  "DWEK": [
+    "DWEK",
+    "Descemetorhexis without endothelial keratoplasty",
+    "descemetorrexis sin queratoplastia endotelial"
+  ],
+  "E": [
+    "E",
+    "EST",
+    "Agujero estenopeico"
+  ],
+  "EA": [
+    "EA",
+    "Exudado algodonoso"
+  ],
+  "EA-2": [
+    "EA",
+    "Exploración con anestesia"
+  ],
+  "EDOF IOL": [
+    "EDOF IOL",
+    "Extended depth of focus intraocular lens",
+    "lente intraocular de profundidad de foco extendida"
+  ],
+  "EE": [
+    "EE",
+    "Espolón escleral"
+  ],
+  "EE-2": [
+    "EE",
+    "Equivalente esférico"
+  ],
+  "EIOI": [
+    "EIOI",
+    "Enfermedad inflamatoria orbitaria idiopática",
+    "pseudotumor inflamatorio de la órbita"
+  ],
+  "EL": [
+    "EL",
+    "Endoláser"
+  ],
+  "EL-2": [
+    "EL",
+    "Exploración con linterna"
+  ],
+  "EM": [
+    "EM",
+    "Edema macular"
+  ],
+  "EM-2": [
+    "EM",
+    "Esclerosis múltiple"
+  ],
+  "EMC": [
+    "EMC",
+    "EMQ",
+    "Edema macular cistoide",
+    "Edema macular quístico"
+  ],
+  "E/P": [
+    "E/P",
+    "EP",
+    "Excavación papilar or cociente excavación-papila"
+  ],
+  "F": [
+    "F",
+    "FENI",
+    "Fenilefrina"
+  ],
+  "FACO": [
+    "FACO",
+    "FE",
+    "Facoemulsificación"
+  ],
+  "FE": [
+    "FE",
+    "Función del elevador"
+  ],
+  "FE-2": [
+    "FE",
+    "Fijación excéntrica"
+  ],
+  "FFM": [
+    "FFM",
+    "Fundus flavimaculatus",
+    "enfermedad de Stargardt"
+  ],
+  "GDX": [
+    "GDX",
+    "Carl Zeiss Meditec AG",
+    "Polarimetria láser"
+  ],
+  "GP": [
+    "GP",
+    "GPG",
+    "Glaucoma pigmentario"
+  ],
+  "GPEX": [
+    "GPEX",
+    "GPSX",
+    "Glaucoma pseudoexfoliativo"
+  ],
+  "HRT": [
+    "HRT",
+    "Heidelberg Retina Tomograph",
+    "láser confocal de barrido de Heidelberg Engineering GmbH"
+  ],
+  "HS": [
+    "HS",
+    "Herpes simple"
+  ],
+  "HSV": [
+    "HSV",
+    "Herpes simple virus"
+  ],
+  "IC": [
+    "IC",
+    "Insuficiencia de convergencia"
+  ],
+  "IC-2": [
+    "IC",
+    "Iridociclectomía"
+  ],
+  "ICE": [
+    "ICE",
+    "Iridocorneal endothelial syndrome",
+    "síndrome endotelial iridocorneal"
+  ],
+  "ICG": [
+    "ICG",
+    "Indocyanine green",
+    "verde de indocianina"
+  ],
+  "ICL": [
+    "ICL",
+    "Implantable collamer lens",
+    "lente fáquica implantable de colágeno"
+  ],
+  "ICV": [
+    "ICV",
+    "VFI",
+    "Índice de campo visual"
+  ],
+  "IFIS": [
+    "IFIS",
+    "Intraoperative floppy iris syndrome",
+    "síndrome de iris flácido intraoperatorio"
+  ],
+  "IOL": [
+    "IOL",
+    "Intraocular lens",
+    "lente intraocular"
+  ],
+  "IPCL": [
+    "IPCL",
+    "Implantable phakic contact lens",
+    "lente fáquica implantable de cámara posterior"
+  ],
+  "IRMA": [
+    "IRMA",
+    "Intraretinal microvascular abnormality",
+    "anomalía microvascular intrarretiniana"
+  ],
+  "IVT": [
+    "IVT",
+    "Intravítreo or Inyección intravítrea"
+  ],
+  "KC": [
+    "KC",
+    "Keratoconus",
+    "queratocono"
+  ],
+  "KR": [
+    "KR",
+    "Queratotomí radial",
+    "keratotomy radial"
+  ],
+  "LASEK": [
+    "LASEK",
+    "Laser-assisted subepithelial keratectomy",
+    "queratectomía subepitelial asistida con láser"
+  ],
+  "LASIK": [
+    "LASIK",
+    "Laser-assisted in situ keratomileusis",
+    "queratomileusis in situ asistida con láser"
+  ],
+  "LCRGP": [
+    "LCRGP",
+    "LCRPG",
+    "Lente de contacto rígida permeable al gas or gas permeable"
+  ],
+  "LHON": [
+    "LHON",
+    "Leber’s hereditary optic neuropathy",
+    "neuropatía óptica hereditaria de Leber"
+  ],
+  "MA": [
+    "MA",
+    "Membrana amniótica"
+  ],
+  "MA-2": [
+    "MA",
+    "Microaneurisma"
+  ],
+  "MacTel": [
+    "MacTel",
+    "Macular telangiectasia",
+    "telangiectasia macular"
+  ],
+  "MAPE": [
+    "MAPE",
+    "Myopic acquired progressive esotropia",
+    "esotropia progresiva adquirida miópica"
+  ],
+  "MIGS": [
+    "MIGS",
+    "Minimally invasive glaucoma surgery",
+    "cirugía mínimamente invasiva de glaucoma"
+  ],
+  "MT": [
+    "MT",
+    "Malla trabecular"
+  ],
+  "MT-2": [
+    "MT",
+    "Macular thickness",
+    "espesor macular",
+    "grosor macular"
+  ],
+  "NIC": [
+    "NIC",
+    "CIN",
+    "Neoplasia intraepitelial conjuntival"
+  ],
+  "NIKBUT": [
+    "NIKBUT",
+    "Non invasive Keratograph break-up time",
+    "tiempo de ruptura lagrimal no invasivo en Keratograph"
+  ],
+  "NM": [
+    "NM",
+    "No mejora"
+  ],
+  "NM-2": [
+    "NM",
+    "Nistagmus manifiesto"
+  ],
+  "NO": [
+    "NO",
+    "Nervio óptico"
+  ],
+  "NO-2": [
+    "NO",
+    "Neuritis or neuropatía óptica"
+  ],
+  "OCT": [
+    "OCT",
+    "Optical coherence tomography",
+    "tomografía de coherencia óptica"
+  ],
+  "OCTA": [
+    "OCTA",
+    "Optical coherence tomography angiography",
+    "angiografía por tomografía de coherencia óptica"
+  ],
+  "OD": [
+    "OD",
+    "Ojo derecho",
+    "oculus dexter"
+  ],
+  "OI": [
+    "OI",
+    "Ojo izquierdo"
+  ],
+  "OI-2": [
+    "OI",
+    "Oblicuo inferior"
+  ],
+  "ORT": [
+    "ORT",
+    "Outer retinal tubulation",
+    "tubulación de la retina externa"
+  ],
+  "OS": [
+    "OS",
+    "Oculus sinister",
+    "ojo izquierdo"
+  ],
+  "OS-2": [
+    "OS",
+    "Oblicuo superior."
+  ],
+  "OS-3": [
+    "OS",
+    "Oftalmía simpática"
+  ],
+  "OU": [
+    "OU",
+    "Oculus uterque en latín",
+    "ambos ojos"
+  ],
+  "OVLA": [
+    "OVLA",
+    "Obstrucción de la vía lagrimal alta"
+  ],
+  "OVLB": [
+    "OVLB",
+    "Obstrucción de la vía lagrimal baja"
+  ],
+  "PAR": [
+    "PAR",
+    "Proliferación angiomatosa retiniana",
+    "RAP"
+  ],
+  "PEX": [
+    "PEX",
+    "PSX",
+    "Pseudoexfoliación"
+  ],
+  "PFC": [
+    "PFC",
+    "PSFC",
+    "Pseudofaquia correcta"
+  ],
+  "PFC-2": [
+    "PFC",
+    "PFRC",
+    "PRFC",
+    "Panfotorretinocoagulación or panrretinofotocoagulación con láser argón or Panfotocoagulación"
+  ],
+  "ph": [
+    "ph",
+    "Pinhole",
+    "agujero estenopeico"
+  ],
+  "PIC": [
+    "PIC",
+    "Punctate inner coroidopathy",
+    "coroidopatía or coroiditis punctata interna"
+  ],
+  "PIOU": [
+    "PIOU",
+    "Párpado inferior de ambos ojos",
+    "oculus uterque"
+  ],
+  "PSOU": [
+    "PSOU",
+    "Párpado superior de ambos ojos",
+    "oculus uterque"
+  ],
+  "PK": [
+    "PK",
+    "Precipitados queráticos",
+    "keratic"
+  ],
+  "PKE": [
+    "PKE",
+    "Precipitados keratic endoteliales",
+    "Precipitados keratic-endoteliales",
+    "Precipitados querato endoteliales",
+    "Precipitados querato-endoteliales"
+  ],
+  "PKP": [
+    "PKP",
+    "Penetrating keratoplasty",
+    "queratoplastia penetrante"
+  ],
+  "PL": [
+    "PL",
+    "Percepción de luz"
+  ],
+  "PL-2": [
+    "PL",
+    "Punto lagrimal"
+  ],
+  "POM": [
+    "POM",
+    "Pomada"
+  ],
+  "POM-2": [
+    "POM",
+    "Parálisis Oculomotora"
+  ],
+  "PP": [
+    "PP",
+    "Polo posterior"
+  ],
+  "PP-2": [
+    "PP",
+    "Pars plana"
+  ],
+  "PRGF": [
+    "PRGF",
+    "Plasma rich in growth factors",
+    "plasma rico en factores de crecimiento"
+  ],
+  "PTK": [
+    "PTK",
+    "Phototherapeutic keratectomy",
+    "queratectomía fototerapéutica"
+  ],
+  "PUK": [
+    "PUK",
+    "Peripheral ulcerative keratitis",
+    "queratitis ulcerativa periférica"
+  ],
+  "PVE": [
+    "PVE",
+    "Pulso venoso espontáneo"
+  ],
+  "PVE-2": [
+    "PVE",
+    "Potenciales visuales evocados"
+  ],
+  "Q": [
+    "Q",
+    "cada"
+  ],
+  "QC": [
+    "QC",
+    "Queratocono"
+  ],
+  "QC-2": [
+    "QC",
+    "Queratoconjuntivitis"
+  ],
+  "QCS": [
+    "QCS",
+    "Queratoconjuntivitis seca or sicca"
+  ],
+  "QP": [
+    "QP",
+    "QPP",
+    "Queratoplastia penetrante"
+  ],
+  "QPS": [
+    "QPS",
+    "Queratitis punteada or punctata superficial"
+  ],
+  "QUP": [
+    "QUP",
+    "PUK",
+    "Queratitis ulcerativa periférica"
+  ],
+  "RAP": [
+    "RAP",
+    "Retinal angiomatous proliferation",
+    "proliferación angiomatosa retiniana"
+  ],
+  "RB": [
+    "RB",
+    "Rb",
+    "Retinoblastoma"
+  ],
+  "RCD": [
+    "RCD",
+    "Relación or ratio copa-disco"
+  ],
+  "REOZA": [
+    "REOZA",
+    "AZOOR",
+    "Retinopatía externa oculta zonal aguda"
+  ],
+  "REP": [
+    "REP",
+    "Relación or ratio excavación-papila"
+  ],
+  "RNFL": [
+    "RNFL",
+    "Retinal nerve fiber layer",
+    "capa de fibras nerviosas retinianas"
+  ],
+  "ROP": [
+    "ROP",
+    "Retinopathy of prematurity",
+    "retiniopatía de la prematuridad"
+  ],
+  "RPE": [
+    "RPE",
+    "Retinal pigment epithelium",
+    "epitelio pigmentario de la retina"
+  ],
+  "RS": [
+    "RS",
+    "Recto superior"
+  ],
+  "RS-2": [
+    "RS",
+    "Refracción subjetiva"
+  ],
+  "SALK": [
+    "SALK",
+    "Superficial anterior lamellar keratoplasty",
+    "queratoplastia laminar anterior superficial"
+  ],
+  "SC": [
+    "SC",
+    "Sin corrección óptica"
+  ],
+  "SC-2": [
+    "SC",
+    "Sin células",
+    "tyndall negativo"
+  ],
+  "SCP": [
+    "SCP",
+    "Subcapsular posterior",
+    "catarata"
+  ],
+  "SD": [
+    "SD",
+    "Sd",
+    "Síndrome"
+  ],
+  "SIRE": [
+    "SIRE",
+    "RPE elevation",
+    "Shallow",
+    "elevacion RPE",
+    "elevación plana e irregular del epitelio pigmentario de la retina",
+    "irregular retinal pigment epithelium elevation"
+  ],
+  "SLT": [
+    "SLT",
+    "Selective laser trabeculoplasty",
+    "trabeculoplastia láser selectiva"
+  ],
+  "SMPBE": [
+    "SMPBE",
+    "MEWDS",
+    "Síndrome de múltiples puntos blancos evanescentes"
+  ],
+  "SP": [
+    "SP",
+    "Sinequia posterior"
+  ],
+  "SP-2": [
+    "SP",
+    "Segmento posterior"
+  ],
+  "SPF": [
+    "SPF",
+    "SPL",
+    "Sindrome párpado flácido",
+    "Sindrome párpado flácido laxo"
+  ],
+  "SPH": [
+    "SPH",
+    "Sphere",
+    "defecto esférico en graduación óptica",
+    "esfera"
+  ],
+  "PEX-2": [
+    "PEX",
+    "SXE",
+    "Pseudoxantoma elástico"
+  ],
+  "TA": [
+    "TA",
+    "Ta",
+    "Tonometría de aplanamiento de Goldmann"
+  ],
+  "TBC": [
+    "TBC",
+    "Trabeculectomía"
+  ],
+  "TBC-2": [
+    "TBC",
+    "Tuberculosis"
+  ],
+  "TBUT": [
+    "TBUT",
+    "Tear break-up time",
+    "tiempo de ruptura de la película lagrimal"
+  ],
+  "TCO": [
+    "TCO",
+    "OCT",
+    "Tomografía de coherencia óptica"
+  ],
+  "TSL": [
+    "TSL",
+    "SLT",
+    "Trabeculoplastia selectiva láser"
+  ],
+  "UDVA": [
+    "UDVA",
+    "Uncorrected distance visual acuity",
+    "agudeza visual lejana sin corrección"
+  ],
+  "UIVA": [
+    "UIVA",
+    "Uncorrected intermediate visual acuity",
+    "agudeza visual intermedia sin corrección"
+  ],
+  "UNTI": [
+    "UNTI",
+    "Síndrome uveítis-nefritis tubulointersticial",
+    "TINU"
+  ],
+  "UNVA": [
+    "UNVA",
+    "Uncorrected near visual acuity",
+    "agudeza visual cercana sin corrección"
+  ],
+  "VCP": [
+    "VCP",
+    "PCV",
+    "Vasculopatía coroidea polipoidea"
+  ],
+  "VEGF": [
+    "VEGF",
+    "Vascular endothelial growth factor",
+    "factor de crecimiento endotelial vascular"
+  ],
+  "VFI": [
+    "VFI",
+    "Visual field index",
+    "índice de campo visual"
+  ],
+  "VHS": [
+    "VHS",
+    "Virus herpes simple",
+    "Virus herpes simplex"
+  ],
+  "VI": [
+    "VI",
+    "Visión intermedia"
+  ],
+  "VI-2": [
+    "VI",
+    "Verde indocianina"
+  ],
+  "VL": [
+    "VL",
+    "Visión de lejos"
+  ],
+  "VL-2": [
+    "VL",
+    "Vía lagrimal"
+  ],
+  "VMA": [
+    "VMA",
+    "Vitreomacular adhesion",
+    "adhesión vitreomacular"
+  ],
+  "VMT": [
+    "VMT",
+    "Vitreomacular traction",
+    "tracción vitreomacular"
+  ],
+  "VPH": [
+    "VPH",
+    "VPHP",
+    "Vítreo primario hiperplásico or vítreo primario hiperplásico persistente"
+  ],
+  "VRIAN": [
+    "VRIAN",
+    "IRVAN",
+    "Síndrome de vasculitis retiniana idiopática",
+    "aneurismas y neurorretinitis"
+  ]
+}

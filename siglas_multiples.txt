@@ -144,7 +144,7 @@ MT: Malla trabecular
 MT: Macular thickness, espesor macular, grosor macular
 
 NIC: Neoplasia intraepitelial conjuntival, CIN
-NIKBUT: Non invasive Keratograph break-up time, tiempo de ruptura lagrimal no invasivo en Keratograph®
+NIKBUT: Non invasive Keratograph break-up time, tiempo de ruptura lagrimal no invasivo en Keratograph
 NM: No mejora
 NM: Nistagmus manifiesto
 NO: Nervio óptico

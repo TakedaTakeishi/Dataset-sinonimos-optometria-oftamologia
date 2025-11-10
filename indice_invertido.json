@@ -1,0 +1,9986 @@
+{
+  "5-Fluorouracilo": {
+    "concept_ids": [
+      "C0371"
+    ],
+    "is_ambiguous": false
+  },
+  "5FU": {
+    "concept_ids": [
+      "C0371"
+    ],
+    "is_ambiguous": false
+  },
+  "@": {
+    "concept_ids": [
+      "C0015",
+      "C0016"
+    ],
+    "is_ambiguous": true
+  },
+  "A/V": {
+    "concept_ids": [
+      "C0001"
+    ],
+    "is_ambiguous": false
+  },
+  "AA": {
+    "concept_ids": [
+      "C0372"
+    ],
+    "is_ambiguous": false
+  },
+  "AAF": {
+    "concept_ids": [
+      "C0373"
+    ],
+    "is_ambiguous": false
+  },
+  "AAOO": {
+    "concept_ids": [
+      "C0009"
+    ],
+    "is_ambiguous": false
+  },
+  "AC/A": {
+    "concept_ids": [
+      "C0374"
+    ],
+    "is_ambiguous": false
+  },
+  "ACG": {
+    "concept_ids": [
+      "C0375"
+    ],
+    "is_ambiguous": false
+  },
+  "ACI": {
+    "concept_ids": [
+      "C0285"
+    ],
+    "is_ambiguous": false
+  },
+  "ACR": {
+    "concept_ids": [
+      "C0002",
+      "C0003"
+    ],
+    "is_ambiguous": true
+  },
+  "ACV": {
+    "concept_ids": [
+      "C0376"
+    ],
+    "is_ambiguous": false
+  },
+  "AD": {
+    "concept_ids": [
+      "C0008"
+    ],
+    "is_ambiguous": false
+  },
+  "ADD": {
+    "concept_ids": [
+      "C0008"
+    ],
+    "is_ambiguous": false
+  },
+  "ADO": {
+    "concept_ids": [
+      "C0377"
+    ],
+    "is_ambiguous": false
+  },
+  "AF": {
+    "concept_ids": [
+      "C0378"
+    ],
+    "is_ambiguous": false
+  },
+  "AFB": {
+    "concept_ids": [
+      "C0379"
+    ],
+    "is_ambiguous": false
+  },
+  "AFG": {
+    "concept_ids": [
+      "C0380"
+    ],
+    "is_ambiguous": false
+  },
+  "AG": {
+    "concept_ids": [
+      "C0381"
+    ],
+    "is_ambiguous": false
+  },
+  "AGF": {
+    "concept_ids": [
+      "C0382"
+    ],
+    "is_ambiguous": false
+  },
+  "AHC": {
+    "concept_ids": [
+      "C0383"
+    ],
+    "is_ambiguous": false
+  },
+  "AHS": {
+    "concept_ids": [
+      "C0384"
+    ],
+    "is_ambiguous": false
+  },
+  "AIAMC": {
+    "concept_ids": [
+      "C0385"
+    ],
+    "is_ambiguous": false
+  },
+  "AII": {
+    "concept_ids": [
+      "C0386"
+    ],
+    "is_ambiguous": false
+  },
+  "AIJ": {
+    "concept_ids": [
+      "C0387"
+    ],
+    "is_ambiguous": false
+  },
+  "AINES": {
+    "concept_ids": [
+      "C0201"
+    ],
+    "is_ambiguous": false
+  },
+  "AIT": {
+    "concept_ids": [
+      "C0388"
+    ],
+    "is_ambiguous": false
+  },
+  "AL": {
+    "concept_ids": [
+      "C0389"
+    ],
+    "is_ambiguous": false
+  },
+  "AM": {
+    "concept_ids": [
+      "C0011",
+      "C0012"
+    ],
+    "is_ambiguous": true
+  },
+  "AMC": {
+    "concept_ids": [
+      "C0390"
+    ],
+    "is_ambiguous": false
+  },
+  "AMEC": {
+    "concept_ids": [
+      "C0391"
+    ],
+    "is_ambiguous": false
+  },
+  "AMIR": {
+    "concept_ids": [
+      "C0392"
+    ],
+    "is_ambiguous": false
+  },
+  "AML": {
+    "concept_ids": [
+      "C0004"
+    ],
+    "is_ambiguous": false
+  },
+  "AMS": {
+    "concept_ids": [
+      "C0393"
+    ],
+    "is_ambiguous": false
+  },
+  "ANR": {
+    "concept_ids": [
+      "C0394"
+    ],
+    "is_ambiguous": false
+  },
+  "AO": {
+    "concept_ids": [
+      "C0009"
+    ],
+    "is_ambiguous": false
+  },
+  "APL": {
+    "concept_ids": [
+      "C0395"
+    ],
+    "is_ambiguous": false
+  },
+  "AR": {
+    "concept_ids": [
+      "C0013",
+      "C0014"
+    ],
+    "is_ambiguous": true
+  },
+  "AREDS": {
+    "concept_ids": [
+      "C0396"
+    ],
+    "is_ambiguous": false
+  },
+  "ARPE": {
+    "concept_ids": [
+      "C0005"
+    ],
+    "is_ambiguous": false
+  },
+  "AS": {
+    "concept_ids": [
+      "C0397"
+    ],
+    "is_ambiguous": false
+  },
+  "ATC": {
+    "concept_ids": [
+      "C0398"
+    ],
+    "is_ambiguous": false
+  },
+  "AUTO": {
+    "concept_ids": [
+      "C0013"
+    ],
+    "is_ambiguous": false
+  },
+  "AUTOFLUO": {
+    "concept_ids": [
+      "C0378"
+    ],
+    "is_ambiguous": false
+  },
+  "AV": {
+    "concept_ids": [
+      "C0399"
+    ],
+    "is_ambiguous": false
+  },
+  "AV CAE": {
+    "concept_ids": [
+      "C0015",
+      "C0016"
+    ],
+    "is_ambiguous": true
+  },
+  "AV CC": {
+    "concept_ids": [
+      "C0010"
+    ],
+    "is_ambiguous": false
+  },
+  "AV MC": {
+    "concept_ids": [
+      "C0400"
+    ],
+    "is_ambiguous": false
+  },
+  "AV NST": {
+    "concept_ids": [
+      "C0401"
+    ],
+    "is_ambiguous": false
+  },
+  "AV SC": {
+    "concept_ids": [
+      "C0402"
+    ],
+    "is_ambiguous": false
+  },
+  "AVC": {
+    "concept_ids": [
+      "C0017",
+      "C0018"
+    ],
+    "is_ambiguous": true
+  },
+  "AVCcc": {
+    "concept_ids": [
+      "C0403"
+    ],
+    "is_ambiguous": false
+  },
+  "AVCccl": {
+    "concept_ids": [
+      "C0404"
+    ],
+    "is_ambiguous": false
+  },
+  "AVCsc": {
+    "concept_ids": [
+      "C0405"
+    ],
+    "is_ambiguous": false
+  },
+  "AVI": {
+    "concept_ids": [
+      "C0406"
+    ],
+    "is_ambiguous": false
+  },
+  "AVIcc": {
+    "concept_ids": [
+      "C0407"
+    ],
+    "is_ambiguous": false
+  },
+  "AVIccl": {
+    "concept_ids": [
+      "C0408"
+    ],
+    "is_ambiguous": false
+  },
+  "AVIsc": {
+    "concept_ids": [
+      "C0409"
+    ],
+    "is_ambiguous": false
+  },
+  "AVL": {
+    "concept_ids": [
+      "C0410"
+    ],
+    "is_ambiguous": false
+  },
+  "AVLcc": {
+    "concept_ids": [
+      "C0411"
+    ],
+    "is_ambiguous": false
+  },
+  "AVLsc": {
+    "concept_ids": [
+      "C0412"
+    ],
+    "is_ambiguous": false
+  },
+  "AVM": {
+    "concept_ids": [
+      "C0413"
+    ],
+    "is_ambiguous": false
+  },
+  "AVMC": {
+    "concept_ids": [
+      "C0400"
+    ],
+    "is_ambiguous": false
+  },
+  "AXL": {
+    "concept_ids": [
+      "C0006"
+    ],
+    "is_ambiguous": false
+  },
+  "AZOOR": {
+    "concept_ids": [
+      "C0007",
+      "C0156"
+    ],
+    "is_ambiguous": true
+  },
+  "Aberración por curvatura de campo": {
+    "concept_ids": [
+      "C0231"
+    ],
+    "is_ambiguous": false
+  },
+  "Aberración por distorsión": {
+    "concept_ids": [
+      "C0246"
+    ],
+    "is_ambiguous": false
+  },
+  "Ablefaria": {
+    "concept_ids": [
+      "C0198"
+    ],
+    "is_ambiguous": false
+  },
+  "Accidente cerebrovascular": {
+    "concept_ids": [
+      "C0376"
+    ],
+    "is_ambiguous": false
+  },
+  "Accidente isquémico transitorio": {
+    "concept_ids": [
+      "C0388"
+    ],
+    "is_ambiguous": false
+  },
+  "Accidente vascular cerebra": {
+    "concept_ids": [
+      "C0018"
+    ],
+    "is_ambiguous": false
+  },
+  "Aceite de silicona": {
+    "concept_ids": [
+      "C0397"
+    ],
+    "is_ambiguous": false
+  },
+  "Acromatopsia": {
+    "concept_ids": [
+      "C0199"
+    ],
+    "is_ambiguous": false
+  },
+  "Acromatopsia ligada al cromosoma X": {
+    "concept_ids": [
+      "C0305"
+    ],
+    "is_ambiguous": false
+  },
+  "Acute retinal pigment epithelitis": {
+    "concept_ids": [
+      "C0005"
+    ],
+    "is_ambiguous": false
+  },
+  "Acute zonal occult outer retinopathy": {
+    "concept_ids": [
+      "C0007"
+    ],
+    "is_ambiguous": false
+  },
+  "Adhesión vitreomacular": {
+    "concept_ids": [
+      "C0413"
+    ],
+    "is_ambiguous": false
+  },
+  "Adición": {
+    "concept_ids": [
+      "C0008"
+    ],
+    "is_ambiguous": false
+  },
+  "Aflibercept": {
+    "concept_ids": [
+      "C0379"
+    ],
+    "is_ambiguous": false
+  },
+  "Age-Related Eye Disease Study": {
+    "concept_ids": [
+      "C0396"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza Visual": {
+    "concept_ids": [
+      "C0332"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual": {
+    "concept_ids": [
+      "C0399"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual Corrección": {
+    "concept_ids": [
+      "C0010"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual Vernier": {
+    "concept_ids": [
+      "C0200"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual cercana": {
+    "concept_ids": [
+      "C0017"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual cercana con corrección": {
+    "concept_ids": [
+      "C0403"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual cercana con la corrección lejana": {
+    "concept_ids": [
+      "C0404"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual cercana sin correción": {
+    "concept_ids": [
+      "C0405"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual con agujero estenopeico": {
+    "concept_ids": [
+      "C0015"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual con estenopeica": {
+    "concept_ids": [
+      "C0016"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual intermedia con corrección": {
+    "concept_ids": [
+      "C0407"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual intermedia con la corrección lejana": {
+    "concept_ids": [
+      "C0408"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual intermedia sin corrección": {
+    "concept_ids": [
+      "C0409"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual lejana": {
+    "concept_ids": [
+      "C0410"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual lejana con corrección": {
+    "concept_ids": [
+      "C0411"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual lejana sin corrección": {
+    "concept_ids": [
+      "C0412"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual mejor corregida": {
+    "concept_ids": [
+      "C0400"
+    ],
+    "is_ambiguous": false
+  },
+  "Agudeza visual sin corrección": {
+    "concept_ids": [
+      "C0402"
+    ],
+    "is_ambiguous": false
+  },
+  "Agujero estenopeico": {
+    "concept_ids": [
+      "C0015",
+      "C0058"
+    ],
+    "is_ambiguous": true
+  },
+  "Agujero macular": {
+    "concept_ids": [
+      "C0011"
+    ],
+    "is_ambiguous": false
+  },
+  "Agujero macular de espesor completo": {
+    "concept_ids": [
+      "C0391"
+    ],
+    "is_ambiguous": false
+  },
+  "Agujero macular lamelar": {
+    "concept_ids": [
+      "C0004"
+    ],
+    "is_ambiguous": false
+  },
+  "Agujero macular laminar": {
+    "concept_ids": [
+      "C0004"
+    ],
+    "is_ambiguous": false
+  },
+  "Alcoholización": {
+    "concept_ids": [
+      "C0202"
+    ],
+    "is_ambiguous": false
+  },
+  "Alineamiento Vernier": {
+    "concept_ids": [
+      "C0200"
+    ],
+    "is_ambiguous": false
+  },
+  "Ambliopía": {
+    "concept_ids": [
+      "C0325"
+    ],
+    "is_ambiguous": false
+  },
+  "Ambliopía por deprivación sensorial": {
+    "concept_ids": [
+      "C0204"
+    ],
+    "is_ambiguous": false
+  },
+  "Ambliopía por exanopsia": {
+    "concept_ids": [
+      "C0204"
+    ],
+    "is_ambiguous": false
+  },
+  "Amblioscopio": {
+    "concept_ids": [
+      "C0205"
+    ],
+    "is_ambiguous": false
+  },
+  "Ambos ojos": {
+    "concept_ids": [
+      "C0009"
+    ],
+    "is_ambiguous": false
+  },
+  "Amplitud de acomodación": {
+    "concept_ids": [
+      "C0372"
+    ],
+    "is_ambiguous": false
+  },
+  "Anestésico local": {
+    "concept_ids": [
+      "C0389"
+    ],
+    "is_ambiguous": false
+  },
+  "Angiofluoresceingrafía": {
+    "concept_ids": [
+      "C0380"
+    ],
+    "is_ambiguous": false
+  },
+  "Angiografía con verde indocianina": {
+    "concept_ids": [
+      "C0406"
+    ],
+    "is_ambiguous": false
+  },
+  "Angiografía fluoresceínica": {
+    "concept_ids": [
+      "C0382"
+    ],
+    "is_ambiguous": false
+  },
+  "Anillo de Zinn": {
+    "concept_ids": [
+      "C0206"
+    ],
+    "is_ambiguous": false
+  },
+  "Anillo de tensión capsular": {
+    "concept_ids": [
+      "C0398"
+    ],
+    "is_ambiguous": false
+  },
+  "Anillo neurorretiniano": {
+    "concept_ids": [
+      "C0394"
+    ],
+    "is_ambiguous": false
+  },
+  "Anillo tendinoso común": {
+    "concept_ids": [
+      "C0206"
+    ],
+    "is_ambiguous": false
+  },
+  "Anomalía microvascular intrarretiniana": {
+    "concept_ids": [
+      "C0392"
+    ],
+    "is_ambiguous": false
+  },
+  "Antagonista muscular": {
+    "concept_ids": [
+      "C0213"
+    ],
+    "is_ambiguous": false
+  },
+  "Antagonistas muscarínicos": {
+    "concept_ids": [
+      "C0207"
+    ],
+    "is_ambiguous": false
+  },
+  "Anteojos": {
+    "concept_ids": [
+      "C0278"
+    ],
+    "is_ambiguous": false
+  },
+  "Antiadrenérgico": {
+    "concept_ids": [
+      "C0355"
+    ],
+    "is_ambiguous": false
+  },
+  "Antiadrenérgicos": {
+    "concept_ids": [
+      "C0208"
+    ],
+    "is_ambiguous": false
+  },
+  "Antibióticos": {
+    "concept_ids": [
+      "C0211"
+    ],
+    "is_ambiguous": false
+  },
+  "Anticolinérgico": {
+    "concept_ids": [
+      "C0209"
+    ],
+    "is_ambiguous": false
+  },
+  "Anticolinérgicos": {
+    "concept_ids": [
+      "C0209"
+    ],
+    "is_ambiguous": false
+  },
+  "Antidiabético oral": {
+    "concept_ids": [
+      "C0377"
+    ],
+    "is_ambiguous": false
+  },
+  "Antiinflamatorio esteroideo": {
+    "concept_ids": [
+      "C0282"
+    ],
+    "is_ambiguous": false
+  },
+  "Antiinflamatorios esteroides": {
+    "concept_ids": [
+      "C0210"
+    ],
+    "is_ambiguous": false
+  },
+  "Antiinflamatorios no esteroideos": {
+    "concept_ids": [
+      "C0201"
+    ],
+    "is_ambiguous": false
+  },
+  "Antimetabolitos": {
+    "concept_ids": [
+      "C0211"
+    ],
+    "is_ambiguous": false
+  },
+  "Antimuscarínicos": {
+    "concept_ids": [
+      "C0207"
+    ],
+    "is_ambiguous": false
+  },
+  "Análogos de prostaglandinas": {
+    "concept_ids": [
+      "C0203"
+    ],
+    "is_ambiguous": false
+  },
+  "Aparato suspensorio": {
+    "concept_ids": [
+      "C0370"
+    ],
+    "is_ambiguous": false
+  },
+  "Apertura palpebral": {
+    "concept_ids": [
+      "C0212"
+    ],
+    "is_ambiguous": false
+  },
+  "Aponeurosis orbitoocular": {
+    "concept_ids": [
+      "C0225"
+    ],
+    "is_ambiguous": false
+  },
+  "Arco senil": {
+    "concept_ids": [
+      "C0277"
+    ],
+    "is_ambiguous": false
+  },
+  "Armazón": {
+    "concept_ids": [
+      "C0215"
+    ],
+    "is_ambiguous": false
+  },
+  "Arteria central de la retina": {
+    "concept_ids": [
+      "C0002"
+    ],
+    "is_ambiguous": false
+  },
+  "Arteritis de células gigantes": {
+    "concept_ids": [
+      "C0375"
+    ],
+    "is_ambiguous": false
+  },
+  "Artritis idiopática infantil": {
+    "concept_ids": [
+      "C0386"
+    ],
+    "is_ambiguous": false
+  },
+  "Artritis idiopática juvenil": {
+    "concept_ids": [
+      "C0387"
+    ],
+    "is_ambiguous": false
+  },
+  "Artritis reumatoide": {
+    "concept_ids": [
+      "C0014"
+    ],
+    "is_ambiguous": false
+  },
+  "Aspiración con aguja fina": {
+    "concept_ids": [
+      "C0373"
+    ],
+    "is_ambiguous": false
+  },
+  "Astenopia": {
+    "concept_ids": [
+      "C0272"
+    ],
+    "is_ambiguous": false
+  },
+  "Astigmatismo hipermetrópico compuesto": {
+    "concept_ids": [
+      "C0383"
+    ],
+    "is_ambiguous": false
+  },
+  "Astigmatismo hipermetrópico simple": {
+    "concept_ids": [
+      "C0384"
+    ],
+    "is_ambiguous": false
+  },
+  "Astigmatismo mixto": {
+    "concept_ids": [
+      "C0012"
+    ],
+    "is_ambiguous": false
+  },
+  "Astigmatismo miópico compuesto": {
+    "concept_ids": [
+      "C0390"
+    ],
+    "is_ambiguous": false
+  },
+  "Astigmatismo miópico simple": {
+    "concept_ids": [
+      "C0393"
+    ],
+    "is_ambiguous": false
+  },
+  "Atetosis pupilar": {
+    "concept_ids": [
+      "C0283"
+    ],
+    "is_ambiguous": false
+  },
+  "Atrofia coriorretiniana": {
+    "concept_ids": [
+      "C0003"
+    ],
+    "is_ambiguous": false
+  },
+  "Atrofia geográfica": {
+    "concept_ids": [
+      "C0381"
+    ],
+    "is_ambiguous": false
+  },
+  "Ausencia de percepción de luz": {
+    "concept_ids": [
+      "C0395"
+    ],
+    "is_ambiguous": false
+  },
+  "Autofluorescencia": {
+    "concept_ids": [
+      "C0378"
+    ],
+    "is_ambiguous": false
+  },
+  "Autorrefractómetro": {
+    "concept_ids": [
+      "C0013"
+    ],
+    "is_ambiguous": false
+  },
+  "Axial length": {
+    "concept_ids": [
+      "C0006"
+    ],
+    "is_ambiguous": false
+  },
+  "BAG": {
+    "concept_ids": [
+      "C0414"
+    ],
+    "is_ambiguous": false
+  },
+  "BI": {
+    "concept_ids": [
+      "C0415"
+    ],
+    "is_ambiguous": false
+  },
+  "BMC": {
+    "concept_ids": [
+      "C0416"
+    ],
+    "is_ambiguous": false
+  },
+  "BMPA": {
+    "concept_ids": [
+      "C0417"
+    ],
+    "is_ambiguous": false
+  },
+  "BMPP": {
+    "concept_ids": [
+      "C0418"
+    ],
+    "is_ambiguous": false
+  },
+  "BMU": {
+    "concept_ids": [
+      "C0419"
+    ],
+    "is_ambiguous": false
+  },
+  "BN": {
+    "concept_ids": [
+      "C0420"
+    ],
+    "is_ambiguous": false
+  },
+  "BPA": {
+    "concept_ids": [
+      "C0417"
+    ],
+    "is_ambiguous": false
+  },
+  "BPCA": {
+    "concept_ids": [
+      "C0421"
+    ],
+    "is_ambiguous": false
+  },
+  "BRFM": {
+    "concept_ids": [
+      "C0422"
+    ],
+    "is_ambiguous": false
+  },
+  "BS": {
+    "concept_ids": [
+      "C0423"
+    ],
+    "is_ambiguous": false
+  },
+  "BT": {
+    "concept_ids": [
+      "C0424"
+    ],
+    "is_ambiguous": false
+  },
+  "BUT": {
+    "concept_ids": [
+      "C0019"
+    ],
+    "is_ambiguous": false
+  },
+  "BX": {
+    "concept_ids": [
+      "C0425"
+    ],
+    "is_ambiguous": false
+  },
+  "Bajo anestesia general": {
+    "concept_ids": [
+      "C0414"
+    ],
+    "is_ambiguous": false
+  },
+  "Barrera hematoneural": {
+    "concept_ids": [
+      "C0216"
+    ],
+    "is_ambiguous": false
+  },
+  "Base prismática inferior": {
+    "concept_ids": [
+      "C0415"
+    ],
+    "is_ambiguous": false
+  },
+  "Base prismática nasal": {
+    "concept_ids": [
+      "C0420"
+    ],
+    "is_ambiguous": false
+  },
+  "Base prismática superior": {
+    "concept_ids": [
+      "C0423"
+    ],
+    "is_ambiguous": false
+  },
+  "Base prismática temporal": {
+    "concept_ids": [
+      "C0424"
+    ],
+    "is_ambiguous": false
+  },
+  "Bastón": {
+    "concept_ids": [
+      "C0221",
+      "C0228"
+    ],
+    "is_ambiguous": true
+  },
+  "Biomicroscopio": {
+    "concept_ids": [
+      "C0217"
+    ],
+    "is_ambiguous": false
+  },
+  "Biomicroscopía": {
+    "concept_ids": [
+      "C0416"
+    ],
+    "is_ambiguous": false
+  },
+  "Biomicroscopía de polo anterior": {
+    "concept_ids": [
+      "C0417"
+    ],
+    "is_ambiguous": false
+  },
+  "Biomicroscopía de polo posterior": {
+    "concept_ids": [
+      "C0418"
+    ],
+    "is_ambiguous": false
+  },
+  "Biomicroscopía ultrasónica": {
+    "concept_ids": [
+      "C0419"
+    ],
+    "is_ambiguous": false
+  },
+  "Biopsia": {
+    "concept_ids": [
+      "C0425"
+    ],
+    "is_ambiguous": false
+  },
+  "Blefaritis Posterior": {
+    "concept_ids": [
+      "C0301"
+    ],
+    "is_ambiguous": false
+  },
+  "Blefarocalasia": {
+    "concept_ids": [
+      "C0218"
+    ],
+    "is_ambiguous": false
+  },
+  "Blefarochalasis": {
+    "concept_ids": [
+      "C0218"
+    ],
+    "is_ambiguous": false
+  },
+  "Botox": {
+    "concept_ids": [
+      "C0363"
+    ],
+    "is_ambiguous": false
+  },
+  "Break up time": {
+    "concept_ids": [
+      "C0361"
+    ],
+    "is_ambiguous": false
+  },
+  "Break-up time": {
+    "concept_ids": [
+      "C0019"
+    ],
+    "is_ambiguous": false
+  },
+  "Buen reflejo fotomotor": {
+    "concept_ids": [
+      "C0422"
+    ],
+    "is_ambiguous": false
+  },
+  "Buena profundidad de cámara anterior": {
+    "concept_ids": [
+      "C0421"
+    ],
+    "is_ambiguous": false
+  },
+  "Bulbo ocular": {
+    "concept_ids": [
+      "C0214"
+    ],
+    "is_ambiguous": false
+  },
+  "C/D": {
+    "concept_ids": [
+      "C0020"
+    ],
+    "is_ambiguous": false
+  },
+  "C3F8": {
+    "concept_ids": [
+      "C0426"
+    ],
+    "is_ambiguous": false
+  },
+  "CA": {
+    "concept_ids": [
+      "C0427"
+    ],
+    "is_ambiguous": false
+  },
+  "CABP": {
+    "concept_ids": [
+      "C0428"
+    ],
+    "is_ambiguous": false
+  },
+  "CAE": {
+    "concept_ids": [
+      "C0429"
+    ],
+    "is_ambiguous": false
+  },
+  "CAF": {
+    "concept_ids": [
+      "C0430"
+    ],
+    "is_ambiguous": false
+  },
+  "CAP": {
+    "concept_ids": [
+      "C0431"
+    ],
+    "is_ambiguous": false
+  },
+  "CAPA": {
+    "concept_ids": [
+      "C0432"
+    ],
+    "is_ambiguous": false
+  },
+  "CAV": {
+    "concept_ids": [
+      "C0433"
+    ],
+    "is_ambiguous": false
+  },
+  "CC": {
+    "concept_ids": [
+      "C0021",
+      "C0022"
+    ],
+    "is_ambiguous": true
+  },
+  "CCB": {
+    "concept_ids": [
+      "C0434"
+    ],
+    "is_ambiguous": false
+  },
+  "CCE": {
+    "concept_ids": [
+      "C0435"
+    ],
+    "is_ambiguous": false
+  },
+  "CCG": {
+    "concept_ids": [
+      "C0223"
+    ],
+    "is_ambiguous": false
+  },
+  "CCS": {
+    "concept_ids": [
+      "C0436"
+    ],
+    "is_ambiguous": false
+  },
+  "CD": {
+    "concept_ids": [
+      "C0437"
+    ],
+    "is_ambiguous": false
+  },
+  "CDVA": {
+    "concept_ids": [
+      "C0023"
+    ],
+    "is_ambiguous": false
+  },
+  "CE": {
+    "concept_ids": [
+      "C0024",
+      "C0025"
+    ],
+    "is_ambiguous": true
+  },
+  "CEIO": {
+    "concept_ids": [
+      "C0438"
+    ],
+    "is_ambiguous": false
+  },
+  "CFNR": {
+    "concept_ids": [
+      "C0439"
+    ],
+    "is_ambiguous": false
+  },
+  "CIC": {
+    "concept_ids": [
+      "C0440"
+    ],
+    "is_ambiguous": false
+  },
+  "CICLO": {
+    "concept_ids": [
+      "C0441"
+    ],
+    "is_ambiguous": false
+  },
+  "CIL": {
+    "concept_ids": [
+      "C0026"
+    ],
+    "is_ambiguous": false
+  },
+  "CIN": {
+    "concept_ids": [
+      "C0027",
+      "C0106"
+    ],
+    "is_ambiguous": true
+  },
+  "CIP": {
+    "concept_ids": [
+      "C0442"
+    ],
+    "is_ambiguous": false
+  },
+  "CIT": {
+    "concept_ids": [
+      "C0443"
+    ],
+    "is_ambiguous": false
+  },
+  "CIVA": {
+    "concept_ids": [
+      "C0028"
+    ],
+    "is_ambiguous": false
+  },
+  "CMIG": {
+    "concept_ids": [
+      "C0029"
+    ],
+    "is_ambiguous": false
+  },
+  "CMP": {
+    "concept_ids": [
+      "C0444"
+    ],
+    "is_ambiguous": false
+  },
+  "CN": {
+    "concept_ids": [
+      "C0445"
+    ],
+    "is_ambiguous": false
+  },
+  "CNEC": {
+    "concept_ids": [
+      "C0446"
+    ],
+    "is_ambiguous": false
+  },
+  "CNVA": {
+    "concept_ids": [
+      "C0030"
+    ],
+    "is_ambiguous": false
+  },
+  "CP": {
+    "concept_ids": [
+      "C0447"
+    ],
+    "is_ambiguous": false
+  },
+  "CPG": {
+    "concept_ids": [
+      "C0448"
+    ],
+    "is_ambiguous": false
+  },
+  "CPI": {
+    "concept_ids": [
+      "C0031",
+      "C0032"
+    ],
+    "is_ambiguous": true
+  },
+  "CPY": {
+    "concept_ids": [
+      "C0449"
+    ],
+    "is_ambiguous": false
+  },
+  "CR": {
+    "concept_ids": [
+      "C0450"
+    ],
+    "is_ambiguous": false
+  },
+  "CRA": {
+    "concept_ids": [
+      "C0451"
+    ],
+    "is_ambiguous": false
+  },
+  "CRHEP": {
+    "concept_ids": [
+      "C0452"
+    ],
+    "is_ambiguous": false
+  },
+  "CRN": {
+    "concept_ids": [
+      "C0453"
+    ],
+    "is_ambiguous": false
+  },
+  "CRNM": {
+    "concept_ids": [
+      "C0454"
+    ],
+    "is_ambiguous": false
+  },
+  "CRSC": {
+    "concept_ids": [
+      "C0033"
+    ],
+    "is_ambiguous": false
+  },
+  "CS": {
+    "concept_ids": [
+      "C0455"
+    ],
+    "is_ambiguous": false
+  },
+  "CSA": {
+    "concept_ids": [
+      "C0034",
+      "C0035"
+    ],
+    "is_ambiguous": true
+  },
+  "CSC": {
+    "concept_ids": [
+      "C0010",
+      "C0033"
+    ],
+    "is_ambiguous": true
+  },
+  "CSG": {
+    "concept_ids": [
+      "C0456"
+    ],
+    "is_ambiguous": false
+  },
+  "CSP": {
+    "concept_ids": [
+      "C0457"
+    ],
+    "is_ambiguous": false
+  },
+  "CT": {
+    "concept_ids": [
+      "C0036"
+    ],
+    "is_ambiguous": false
+  },
+  "CV": {
+    "concept_ids": [
+      "C0458"
+    ],
+    "is_ambiguous": false
+  },
+  "CXL": {
+    "concept_ids": [
+      "C0459"
+    ],
+    "is_ambiguous": false
+  },
+  "CYL": {
+    "concept_ids": [
+      "C0026"
+    ],
+    "is_ambiguous": false
+  },
+  "Campimetría": {
+    "concept_ids": [
+      "C0330"
+    ],
+    "is_ambiguous": false
+  },
+  "Campo visual": {
+    "concept_ids": [
+      "C0458"
+    ],
+    "is_ambiguous": false
+  },
+  "Canal de Cloquet": {
+    "concept_ids": [
+      "C0219"
+    ],
+    "is_ambiguous": false
+  },
+  "Canal de Schlemm": {
+    "concept_ids": [
+      "C0232"
+    ],
+    "is_ambiguous": false
+  },
+  "Canal hialoideo": {
+    "concept_ids": [
+      "C0219"
+    ],
+    "is_ambiguous": false
+  },
+  "Capa de conos y bastones": {
+    "concept_ids": [
+      "C0221"
+    ],
+    "is_ambiguous": false
+  },
+  "Capa de células ganglionares": {
+    "concept_ids": [
+      "C0223"
+    ],
+    "is_ambiguous": false
+  },
+  "Capa de fibras del nervio óptico": {
+    "concept_ids": [
+      "C0220"
+    ],
+    "is_ambiguous": false
+  },
+  "Capa de fibras nerviosas": {
+    "concept_ids": [
+      "C0220"
+    ],
+    "is_ambiguous": false
+  },
+  "Capa de fibras nerviosas de la retina": {
+    "concept_ids": [
+      "C0439"
+    ],
+    "is_ambiguous": false
+  },
+  "Capa de fotorreceptores": {
+    "concept_ids": [
+      "C0221"
+    ],
+    "is_ambiguous": false
+  },
+  "Capa del epitelio pigmentario": {
+    "concept_ids": [
+      "C0222"
+    ],
+    "is_ambiguous": false
+  },
+  "Capa ganglionar": {
+    "concept_ids": [
+      "C0223"
+    ],
+    "is_ambiguous": false
+  },
+  "Capa ganglionar y Cono": {
+    "concept_ids": [
+      "C0221"
+    ],
+    "is_ambiguous": false
+  },
+  "Capa granulosa externa": {
+    "concept_ids": [
+      "C0224"
+    ],
+    "is_ambiguous": false
+  },
+  "Capa nuclear externa": {
+    "concept_ids": [
+      "C0224"
+    ],
+    "is_ambiguous": false
+  },
+  "Capsulotomía posterior con láser YAG": {
+    "concept_ids": [
+      "C0449"
+    ],
+    "is_ambiguous": false
+  },
+  "Carcinoma de células basales": {
+    "concept_ids": [
+      "C0434"
+    ],
+    "is_ambiguous": false
+  },
+  "Carcinoma de células escamosas": {
+    "concept_ids": [
+      "C0435"
+    ],
+    "is_ambiguous": false
+  },
+  "Carl Zeiss Meditec AG": {
+    "concept_ids": [
+      "C0076"
+    ],
+    "is_ambiguous": false
+  },
+  "Catarata subcapsular anterior": {
+    "concept_ids": [
+      "C0034"
+    ],
+    "is_ambiguous": false
+  },
+  "Catarata subcapsular posterior": {
+    "concept_ids": [
+      "C0457"
+    ],
+    "is_ambiguous": false
+  },
+  "Cavitación intracoroidea": {
+    "concept_ids": [
+      "C0440"
+    ],
+    "is_ambiguous": false
+  },
+  "Ceguera nocturna estacionaria congénita": {
+    "concept_ids": [
+      "C0446"
+    ],
+    "is_ambiguous": false
+  },
+  "Cerclaje escleral": {
+    "concept_ids": [
+      "C0025"
+    ],
+    "is_ambiguous": false
+  },
+  "Chalazión": {
+    "concept_ids": [
+      "C0227"
+    ],
+    "is_ambiguous": false
+  },
+  "Cicatricial ocular": {
+    "concept_ids": [
+      "C0328"
+    ],
+    "is_ambiguous": false
+  },
+  "Cicloplejía": {
+    "concept_ids": [
+      "C0441"
+    ],
+    "is_ambiguous": false
+  },
+  "Ciclosporina A": {
+    "concept_ids": [
+      "C0035"
+    ],
+    "is_ambiguous": false
+  },
+  "Cierre angular primario": {
+    "concept_ids": [
+      "C0431"
+    ],
+    "is_ambiguous": false
+  },
+  "Cierre angular primario agudo": {
+    "concept_ids": [
+      "C0432"
+    ],
+    "is_ambiguous": false
+  },
+  "Cilindro or astigmatismo": {
+    "concept_ids": [
+      "C0026"
+    ],
+    "is_ambiguous": false
+  },
+  "Cilosis": {
+    "concept_ids": [
+      "C0233"
+    ],
+    "is_ambiguous": false
+  },
+  "Cintilla óptica": {
+    "concept_ids": [
+      "C0230"
+    ],
+    "is_ambiguous": false
+  },
+  "Cirugía mínimamente invasiva de glaucoma": {
+    "concept_ids": [
+      "C0029"
+    ],
+    "is_ambiguous": false
+  },
+  "Cociente excavación-papila": {
+    "concept_ids": [
+      "C0070"
+    ],
+    "is_ambiguous": false
+  },
+  "Colimador": {
+    "concept_ids": [
+      "C0292"
+    ],
+    "is_ambiguous": false
+  },
+  "Coloboma de Fuchs": {
+    "concept_ids": [
+      "C0236"
+    ],
+    "is_ambiguous": false
+  },
+  "Con agujero estenopeico": {
+    "concept_ids": [
+      "C0429"
+    ],
+    "is_ambiguous": false
+  },
+  "Con corrección óptica": {
+    "concept_ids": [
+      "C0021"
+    ],
+    "is_ambiguous": false
+  },
+  "Con su corrección óptica": {
+    "concept_ids": [
+      "C0010"
+    ],
+    "is_ambiguous": false
+  },
+  "Con su gafa": {
+    "concept_ids": [
+      "C0456"
+    ],
+    "is_ambiguous": false
+  },
+  "Condensador": {
+    "concept_ids": [
+      "C0234"
+    ],
+    "is_ambiguous": false
+  },
+  "Conducto de Schlemm": {
+    "concept_ids": [
+      "C0232"
+    ],
+    "is_ambiguous": false
+  },
+  "Conducto hialoideo": {
+    "concept_ids": [
+      "C0219"
+    ],
+    "is_ambiguous": false
+  },
+  "Conjuntiva palpebral": {
+    "concept_ids": [
+      "C0235"
+    ],
+    "is_ambiguous": false
+  },
+  "Conjuntiva tarsa": {
+    "concept_ids": [
+      "C0235"
+    ],
+    "is_ambiguous": false
+  },
+  "Conjuntivitis papilar gigante": {
+    "concept_ids": [
+      "C0448"
+    ],
+    "is_ambiguous": false
+  },
+  "Cono": {
+    "concept_ids": [
+      "C0229"
+    ],
+    "is_ambiguous": false
+  },
+  "Cono miópico": {
+    "concept_ids": [
+      "C0236"
+    ],
+    "is_ambiguous": false
+  },
+  "Contacto iridotrabecular": {
+    "concept_ids": [
+      "C0443"
+    ],
+    "is_ambiguous": false
+  },
+  "Copa Disco": {
+    "concept_ids": [
+      "C0020"
+    ],
+    "is_ambiguous": false
+  },
+  "Copa-Disco": {
+    "concept_ids": [
+      "C0020"
+    ],
+    "is_ambiguous": false
+  },
+  "Copa/Disco": {
+    "concept_ids": [
+      "C0020"
+    ],
+    "is_ambiguous": false
+  },
+  "Coriorretiniano": {
+    "concept_ids": [
+      "C0450"
+    ],
+    "is_ambiguous": false
+  },
+  "Coriorretinitis placoide incesante": {
+    "concept_ids": [
+      "C0031"
+    ],
+    "is_ambiguous": false
+  },
+  "Coriorretinopatía central serosa": {
+    "concept_ids": [
+      "C0436"
+    ],
+    "is_ambiguous": false
+  },
+  "Coriorretinopatía hemorrágica exudativa periférica": {
+    "concept_ids": [
+      "C0452"
+    ],
+    "is_ambiguous": false
+  },
+  "Coriorretinopatía serosa central": {
+    "concept_ids": [
+      "C0033"
+    ],
+    "is_ambiguous": false
+  },
+  "Corneo-conjunctival intraepithelial neoplasia": {
+    "concept_ids": [
+      "C0027"
+    ],
+    "is_ambiguous": false
+  },
+  "Coroiditis interna punteada": {
+    "concept_ids": [
+      "C0442"
+    ],
+    "is_ambiguous": false
+  },
+  "Coroiditis multifocal con panuveítis": {
+    "concept_ids": [
+      "C0444"
+    ],
+    "is_ambiguous": false
+  },
+  "Coroiditis punctata interna": {
+    "concept_ids": [
+      "C0032"
+    ],
+    "is_ambiguous": false
+  },
+  "Coroiditis serpiginosa": {
+    "concept_ids": [
+      "C0455"
+    ],
+    "is_ambiguous": false
+  },
+  "Corrección de Agudeza Visual": {
+    "concept_ids": [
+      "C0010"
+    ],
+    "is_ambiguous": false
+  },
+  "Corrected distance visual acuity": {
+    "concept_ids": [
+      "C0023"
+    ],
+    "is_ambiguous": false
+  },
+  "Corrected intermediate visual acuity": {
+    "concept_ids": [
+      "C0028"
+    ],
+    "is_ambiguous": false
+  },
+  "Corrected near visual acuity": {
+    "concept_ids": [
+      "C0030"
+    ],
+    "is_ambiguous": false
+  },
+  "Correspondencia retiniana anómala": {
+    "concept_ids": [
+      "C0451"
+    ],
+    "is_ambiguous": false
+  },
+  "Correspondencia retiniana normal": {
+    "concept_ids": [
+      "C0453"
+    ],
+    "is_ambiguous": false
+  },
+  "Corrimiento de Purkinje": {
+    "concept_ids": [
+      "C0249"
+    ],
+    "is_ambiguous": false
+  },
+  "Corticonuclear": {
+    "concept_ids": [
+      "C0445"
+    ],
+    "is_ambiguous": false
+  },
+  "Cover test": {
+    "concept_ids": [
+      "C0036"
+    ],
+    "is_ambiguous": false
+  },
+  "Creciente escleral": {
+    "concept_ids": [
+      "C0236"
+    ],
+    "is_ambiguous": false
+  },
+  "Creciente miópico": {
+    "concept_ids": [
+      "C0236"
+    ],
+    "is_ambiguous": false
+  },
+  "Creciente temporal": {
+    "concept_ids": [
+      "C0236"
+    ],
+    "is_ambiguous": false
+  },
+  "Criptoftalmos": {
+    "concept_ids": [
+      "C0198"
+    ],
+    "is_ambiguous": false
+  },
+  "Crosslinking": {
+    "concept_ids": [
+      "C0459"
+    ],
+    "is_ambiguous": false
+  },
+  "Cruce arteriovenoso": {
+    "concept_ids": [
+      "C0433"
+    ],
+    "is_ambiguous": false
+  },
+  "Cruz de Maddox": {
+    "concept_ids": [
+      "C0237"
+    ],
+    "is_ambiguous": false
+  },
+  "Cuenta dedos": {
+    "concept_ids": [
+      "C0437"
+    ],
+    "is_ambiguous": false
+  },
+  "Cuerpo ciliar": {
+    "concept_ids": [
+      "C0022"
+    ],
+    "is_ambiguous": false
+  },
+  "Cuerpo extraño": {
+    "concept_ids": [
+      "C0024"
+    ],
+    "is_ambiguous": false
+  },
+  "Cuerpo extraño intraocular": {
+    "concept_ids": [
+      "C0438"
+    ],
+    "is_ambiguous": false
+  },
+  "Cuerpo geniculado lateral": {
+    "concept_ids": [
+      "C0238"
+    ],
+    "is_ambiguous": false
+  },
+  "Curvatura de campo": {
+    "concept_ids": [
+      "C0231"
+    ],
+    "is_ambiguous": false
+  },
+  "Cámara anterior": {
+    "concept_ids": [
+      "C0427"
+    ],
+    "is_ambiguous": false
+  },
+  "Cámara anterior de buena profundidad": {
+    "concept_ids": [
+      "C0428"
+    ],
+    "is_ambiguous": false
+  },
+  "Cámara anterior formada": {
+    "concept_ids": [
+      "C0430"
+    ],
+    "is_ambiguous": false
+  },
+  "Cámara de retinografía no midriática": {
+    "concept_ids": [
+      "C0454"
+    ],
+    "is_ambiguous": false
+  },
+  "Cámara posterior": {
+    "concept_ids": [
+      "C0447"
+    ],
+    "is_ambiguous": false
+  },
+  "Cápsula de Tenon": {
+    "concept_ids": [
+      "C0225"
+    ],
+    "is_ambiguous": false
+  },
+  "Célula bastón": {
+    "concept_ids": [
+      "C0228"
+    ],
+    "is_ambiguous": false
+  },
+  "Célula bipolar": {
+    "concept_ids": [
+      "C0226"
+    ],
+    "is_ambiguous": false
+  },
+  "Célula cono": {
+    "concept_ids": [
+      "C0229"
+    ],
+    "is_ambiguous": false
+  },
+  "Célula del cristalino": {
+    "concept_ids": [
+      "C0267"
+    ],
+    "is_ambiguous": false
+  },
+  "D": {
+    "concept_ids": [
+      "C0460"
+    ],
+    "is_ambiguous": false
+  },
+  "DALK": {
+    "concept_ids": [
+      "C0037"
+    ],
+    "is_ambiguous": false
+  },
+  "DCCT": {
+    "concept_ids": [
+      "C0038"
+    ],
+    "is_ambiguous": false
+  },
+  "DCIVA": {
+    "concept_ids": [
+      "C0039"
+    ],
+    "is_ambiguous": false
+  },
+  "DCNVA": {
+    "concept_ids": [
+      "C0040"
+    ],
+    "is_ambiguous": false
+  },
+  "DCPP": {
+    "concept_ids": [
+      "C0041"
+    ],
+    "is_ambiguous": false
+  },
+  "DCR": {
+    "concept_ids": [
+      "C0461"
+    ],
+    "is_ambiguous": false
+  },
+  "DCR TC LD": {
+    "concept_ids": [
+      "C0043"
+    ],
+    "is_ambiguous": false
+  },
+  "DCR-C": {
+    "concept_ids": [
+      "C0042"
+    ],
+    "is_ambiguous": false
+  },
+  "DCR-EN": {
+    "concept_ids": [
+      "C0462"
+    ],
+    "is_ambiguous": false
+  },
+  "DCR-EX": {
+    "concept_ids": [
+      "C0042"
+    ],
+    "is_ambiguous": false
+  },
+  "DCR-L": {
+    "concept_ids": [
+      "C0043"
+    ],
+    "is_ambiguous": false
+  },
+  "DD": {
+    "concept_ids": [
+      "C0463"
+    ],
+    "is_ambiguous": false
+  },
+  "DDS": {
+    "concept_ids": [
+      "C0464"
+    ],
+    "is_ambiguous": false
+  },
+  "DEF": {
+    "concept_ids": [
+      "C0465"
+    ],
+    "is_ambiguous": false
+  },
+  "DEHC": {
+    "concept_ids": [
+      "C0466"
+    ],
+    "is_ambiguous": false
+  },
+  "DEP": {
+    "concept_ids": [
+      "C0467"
+    ],
+    "is_ambiguous": false
+  },
+  "DEPP": {
+    "concept_ids": [
+      "C0041"
+    ],
+    "is_ambiguous": false
+  },
+  "DF": {
+    "concept_ids": [
+      "C0468"
+    ],
+    "is_ambiguous": false
+  },
+  "DGM": {
+    "concept_ids": [
+      "C0469"
+    ],
+    "is_ambiguous": false
+  },
+  "DHD": {
+    "concept_ids": [
+      "C0244"
+    ],
+    "is_ambiguous": false
+  },
+  "DIMS": {
+    "concept_ids": [
+      "C0044"
+    ],
+    "is_ambiguous": false
+  },
+  "DIP": {
+    "concept_ids": [
+      "C0470"
+    ],
+    "is_ambiguous": false
+  },
+  "DK/t": {
+    "concept_ids": [
+      "C0248"
+    ],
+    "is_ambiguous": false
+  },
+  "DMAE": {
+    "concept_ids": [
+      "C0240"
+    ],
+    "is_ambiguous": false
+  },
+  "DMAEn": {
+    "concept_ids": [
+      "C0045",
+      "C0046"
+    ],
+    "is_ambiguous": true
+  },
+  "DMAEne": {
+    "concept_ids": [
+      "C0045",
+      "C0046"
+    ],
+    "is_ambiguous": true
+  },
+  "DMAEnv": {
+    "concept_ids": [
+      "C0045",
+      "C0046"
+    ],
+    "is_ambiguous": true
+  },
+  "DMBA": {
+    "concept_ids": [
+      "C0047"
+    ],
+    "is_ambiguous": false
+  },
+  "DMBE": {
+    "concept_ids": [
+      "C0047"
+    ],
+    "is_ambiguous": false
+  },
+  "DMEK": {
+    "concept_ids": [
+      "C0048"
+    ],
+    "is_ambiguous": false
+  },
+  "DMR": {
+    "concept_ids": [
+      "C0471"
+    ],
+    "is_ambiguous": false
+  },
+  "DNE": {
+    "concept_ids": [
+      "C0049"
+    ],
+    "is_ambiguous": false
+  },
+  "DNS": {
+    "concept_ids": [
+      "C0049"
+    ],
+    "is_ambiguous": false
+  },
+  "DO": {
+    "concept_ids": [
+      "C0472"
+    ],
+    "is_ambiguous": false
+  },
+  "DP": {
+    "concept_ids": [
+      "C0050",
+      "C0051",
+      "C0052"
+    ],
+    "is_ambiguous": true
+  },
+  "DPAR": {
+    "concept_ids": [
+      "C0473"
+    ],
+    "is_ambiguous": false
+  },
+  "DPMP": {
+    "concept_ids": [
+      "C0041"
+    ],
+    "is_ambiguous": false
+  },
+  "DPP": {
+    "concept_ids": [
+      "C0041"
+    ],
+    "is_ambiguous": false
+  },
+  "DPV": {
+    "concept_ids": [
+      "C0474"
+    ],
+    "is_ambiguous": false
+  },
+  "DR": {
+    "concept_ids": [
+      "C0475"
+    ],
+    "is_ambiguous": false
+  },
+  "DRE": {
+    "concept_ids": [
+      "C0476"
+    ],
+    "is_ambiguous": false
+  },
+  "DRIL": {
+    "concept_ids": [
+      "C0053"
+    ],
+    "is_ambiguous": false
+  },
+  "DRK": {
+    "concept_ids": [
+      "C0477"
+    ],
+    "is_ambiguous": false
+  },
+  "DRR": {
+    "concept_ids": [
+      "C0478"
+    ],
+    "is_ambiguous": false
+  },
+  "DRT": {
+    "concept_ids": [
+      "C0479"
+    ],
+    "is_ambiguous": false
+  },
+  "DSAEK": {
+    "concept_ids": [
+      "C0054"
+    ],
+    "is_ambiguous": false
+  },
+  "DSNE": {
+    "concept_ids": [
+      "C0480"
+    ],
+    "is_ambiguous": false
+  },
+  "DSO": {
+    "concept_ids": [
+      "C0055"
+    ],
+    "is_ambiguous": false
+  },
+  "DTI": {
+    "concept_ids": [
+      "C0481"
+    ],
+    "is_ambiguous": false
+  },
+  "DVC": {
+    "concept_ids": [
+      "C0056"
+    ],
+    "is_ambiguous": false
+  },
+  "DVD": {
+    "concept_ids": [
+      "C0245"
+    ],
+    "is_ambiguous": false
+  },
+  "DVI": {
+    "concept_ids": [
+      "C0056"
+    ],
+    "is_ambiguous": false
+  },
+  "DVP": {
+    "concept_ids": [
+      "C0482"
+    ],
+    "is_ambiguous": false
+  },
+  "DWEK": {
+    "concept_ids": [
+      "C0057"
+    ],
+    "is_ambiguous": false
+  },
+  "Dacriocistorrinostomía": {
+    "concept_ids": [
+      "C0461"
+    ],
+    "is_ambiguous": false
+  },
+  "Dacriocistorrinostomía clásica": {
+    "concept_ids": [
+      "C0042"
+    ],
+    "is_ambiguous": false
+  },
+  "Dacriocistorrinostomía endoscópica": {
+    "concept_ids": [
+      "C0462"
+    ],
+    "is_ambiguous": false
+  },
+  "Dacriocistorrinostomía externa": {
+    "concept_ids": [
+      "C0042"
+    ],
+    "is_ambiguous": false
+  },
+  "Dacriocistorrinostomía láser or dacriocistorrinostomía transcanalicular con láser diodo": {
+    "concept_ids": [
+      "C0043"
+    ],
+    "is_ambiguous": false
+  },
+  "Daltonismo": {
+    "concept_ids": [
+      "C0239"
+    ],
+    "is_ambiguous": false
+  },
+  "Deep anterior lamelar keratoplasty": {
+    "concept_ids": [
+      "C0037"
+    ],
+    "is_ambiguous": false
+  },
+  "Defecto de transiluminación": {
+    "concept_ids": [
+      "C0481"
+    ],
+    "is_ambiguous": false
+  },
+  "Defecto pupilar aferente relativo": {
+    "concept_ids": [
+      "C0473"
+    ],
+    "is_ambiguous": false
+  },
+  "Defecto refractivo esférico hipermetrópico": {
+    "concept_ids": [
+      "C0506"
+    ],
+    "is_ambiguous": false
+  },
+  "Defecto refractivo esférico miópico": {
+    "concept_ids": [
+      "C0505"
+    ],
+    "is_ambiguous": false
+  },
+  "Defocus incorporated multiple segments": {
+    "concept_ids": [
+      "C0044"
+    ],
+    "is_ambiguous": false
+  },
+  "Degeneración macular asociada a la edad": {
+    "concept_ids": [
+      "C0240"
+    ],
+    "is_ambiguous": false
+  },
+  "Degeneración macular asociada a la edad neovascular": {
+    "concept_ids": [
+      "C0045"
+    ],
+    "is_ambiguous": false
+  },
+  "Degeneración macular asociada a la edad neovascular exudativa": {
+    "concept_ids": [
+      "C0046"
+    ],
+    "is_ambiguous": false
+  },
+  "Degeneración macular asociada con la edad": {
+    "concept_ids": [
+      "C0240"
+    ],
+    "is_ambiguous": false
+  },
+  "Degeneración macular senil": {
+    "concept_ids": [
+      "C0240"
+    ],
+    "is_ambiguous": false
+  },
+  "Degeneración marginal pelúcida": {
+    "concept_ids": [
+      "C0241"
+    ],
+    "is_ambiguous": false
+  },
+  "Demora acomodativa": {
+    "concept_ids": [
+      "C0291"
+    ],
+    "is_ambiguous": false
+  },
+  "Depresión foveal": {
+    "concept_ids": [
+      "C0468"
+    ],
+    "is_ambiguous": false
+  },
+  "Depósitos densos subretinianos": {
+    "concept_ids": [
+      "C0464"
+    ],
+    "is_ambiguous": false
+  },
+  "Depósitos retroqueráticos": {
+    "concept_ids": [
+      "C0477"
+    ],
+    "is_ambiguous": false
+  },
+  "Dermatocalasia": {
+    "concept_ids": [
+      "C0243"
+    ],
+    "is_ambiguous": false
+  },
+  "Dermatochalasis": {
+    "concept_ids": [
+      "C0243"
+    ],
+    "is_ambiguous": false
+  },
+  "Descemet membrane endothelial keratoplasty": {
+    "concept_ids": [
+      "C0048"
+    ],
+    "is_ambiguous": false
+  },
+  "Descemet stripping only": {
+    "concept_ids": [
+      "C0055"
+    ],
+    "is_ambiguous": false
+  },
+  "Descemet stripping with automated endothelial keratoplasty": {
+    "concept_ids": [
+      "C0054"
+    ],
+    "is_ambiguous": false
+  },
+  "Descemetorhexis without endothelial keratoplasty": {
+    "concept_ids": [
+      "C0057"
+    ],
+    "is_ambiguous": false
+  },
+  "Desprendimiento de epitelio pigmentario retiniano": {
+    "concept_ids": [
+      "C0467"
+    ],
+    "is_ambiguous": false
+  },
+  "Desprendimiento de retina": {
+    "concept_ids": [
+      "C0475"
+    ],
+    "is_ambiguous": false
+  },
+  "Desprendimiento de retina regmatógeno": {
+    "concept_ids": [
+      "C0478"
+    ],
+    "is_ambiguous": false
+  },
+  "Desprendimiento de retina traccional": {
+    "concept_ids": [
+      "C0479"
+    ],
+    "is_ambiguous": false
+  },
+  "Desprendimiento de vítreo completo or incompleto": {
+    "concept_ids": [
+      "C0056"
+    ],
+    "is_ambiguous": false
+  },
+  "Desprendimiento de vítreo posterior": {
+    "concept_ids": [
+      "C0482"
+    ],
+    "is_ambiguous": false
+  },
+  "Desprendimiento del neuroepitelio": {
+    "concept_ids": [
+      "C0049"
+    ],
+    "is_ambiguous": false
+  },
+  "Desprendimiento neurosensorial de la retina": {
+    "concept_ids": [
+      "C0049"
+    ],
+    "is_ambiguous": false
+  },
+  "Desprendimiento posterior de vítreo": {
+    "concept_ids": [
+      "C0474"
+    ],
+    "is_ambiguous": false
+  },
+  "Desprendimiento seroso del neuroepitelio retiniano": {
+    "concept_ids": [
+      "C0480"
+    ],
+    "is_ambiguous": false
+  },
+  "Desviación horizontal disociada": {
+    "concept_ids": [
+      "C0244"
+    ],
+    "is_ambiguous": false
+  },
+  "Desviación vertical disociada": {
+    "concept_ids": [
+      "C0245"
+    ],
+    "is_ambiguous": false
+  },
+  "Deuteranopsia": {
+    "concept_ids": [
+      "C0247"
+    ],
+    "is_ambiguous": false
+  },
+  "Deuteranopía": {
+    "concept_ids": [
+      "C0247"
+    ],
+    "is_ambiguous": false
+  },
+  "Diabetes control and complications trial": {
+    "concept_ids": [
+      "C0038"
+    ],
+    "is_ambiguous": false
+  },
+  "Diasporámetro": {
+    "concept_ids": [
+      "C0341"
+    ],
+    "is_ambiguous": false
+  },
+  "Dicrómatas": {
+    "concept_ids": [
+      "C0342"
+    ],
+    "is_ambiguous": false
+  },
+  "Diodo láser": {
+    "concept_ids": [
+      "C0295"
+    ],
+    "is_ambiguous": false
+  },
+  "Dioptría": {
+    "concept_ids": [
+      "C0460"
+    ],
+    "is_ambiguous": false
+  },
+  "Dioptría prismática": {
+    "concept_ids": [
+      "C0050"
+    ],
+    "is_ambiguous": false
+  },
+  "Diplopía": {
+    "concept_ids": [
+      "C0334"
+    ],
+    "is_ambiguous": false
+  },
+  "Disco óptico": {
+    "concept_ids": [
+      "C0472"
+    ],
+    "is_ambiguous": false
+  },
+  "Disfunción de glándulas de Meibomio": {
+    "concept_ids": [
+      "C0469"
+    ],
+    "is_ambiguous": false
+  },
+  "Disorganization of retinal inner layers": {
+    "concept_ids": [
+      "C0053"
+    ],
+    "is_ambiguous": false
+  },
+  "Dispersión espectral relativa de la luz": {
+    "concept_ids": [
+      "C0318"
+    ],
+    "is_ambiguous": false
+  },
+  "Distance-corrected intermediate visual acuity": {
+    "concept_ids": [
+      "C0039"
+    ],
+    "is_ambiguous": false
+  },
+  "Distance-corrected near visual acuity": {
+    "concept_ids": [
+      "C0040"
+    ],
+    "is_ambiguous": false
+  },
+  "Distancia interpupilar": {
+    "concept_ids": [
+      "C0470"
+    ],
+    "is_ambiguous": false
+  },
+  "Distancia margen-reflejo": {
+    "concept_ids": [
+      "C0471"
+    ],
+    "is_ambiguous": false
+  },
+  "Distancia pupilar": {
+    "concept_ids": [
+      "C0052"
+    ],
+    "is_ambiguous": false
+  },
+  "Distiquiasis": {
+    "concept_ids": [
+      "C0242"
+    ],
+    "is_ambiguous": false
+  },
+  "Distorsión de la imagen": {
+    "concept_ids": [
+      "C0246"
+    ],
+    "is_ambiguous": false
+  },
+  "Distrofia corneal endotelial polimorfa posterior": {
+    "concept_ids": [
+      "C0041"
+    ],
+    "is_ambiguous": false
+  },
+  "Distrofia de la membrana basal anterior": {
+    "concept_ids": [
+      "C0047"
+    ],
+    "is_ambiguous": false
+  },
+  "Distrofia de la membrana basal epitelial de la córnea": {
+    "concept_ids": [
+      "C0047"
+    ],
+    "is_ambiguous": false
+  },
+  "Distrofia endotelial de Fuchs": {
+    "concept_ids": [
+      "C0465"
+    ],
+    "is_ambiguous": false
+  },
+  "Distrofia endotelial hereditaria congénita": {
+    "concept_ids": [
+      "C0466"
+    ],
+    "is_ambiguous": false
+  },
+  "Distrofia macular juvenil": {
+    "concept_ids": [
+      "C0255"
+    ],
+    "is_ambiguous": false
+  },
+  "Diámetro de disco": {
+    "concept_ids": [
+      "C0463"
+    ],
+    "is_ambiguous": false
+  },
+  "Diámetro pupilar.": {
+    "concept_ids": [
+      "C0051"
+    ],
+    "is_ambiguous": false
+  },
+  "Drespendimiento de retina exudativo": {
+    "concept_ids": [
+      "C0476"
+    ],
+    "is_ambiguous": false
+  },
+  "E": {
+    "concept_ids": [
+      "C0058"
+    ],
+    "is_ambiguous": false
+  },
+  "E(T)": {
+    "concept_ids": [
+      "C0508"
+    ],
+    "is_ambiguous": false
+  },
+  "E/EF": {
+    "concept_ids": [
+      "C0488"
+    ],
+    "is_ambiguous": false
+  },
+  "E/P": {
+    "concept_ids": [
+      "C0070"
+    ],
+    "is_ambiguous": false
+  },
+  "EA": {
+    "concept_ids": [
+      "C0059",
+      "C0060"
+    ],
+    "is_ambiguous": true
+  },
+  "EBD": {
+    "concept_ids": [
+      "C0483"
+    ],
+    "is_ambiguous": false
+  },
+  "EC": {
+    "concept_ids": [
+      "C0484"
+    ],
+    "is_ambiguous": false
+  },
+  "ECC": {
+    "concept_ids": [
+      "C0487"
+    ],
+    "is_ambiguous": false
+  },
+  "EDI": {
+    "concept_ids": [
+      "C0485"
+    ],
+    "is_ambiguous": false
+  },
+  "EDOF IOL": {
+    "concept_ids": [
+      "C0061"
+    ],
+    "is_ambiguous": false
+  },
+  "EE": {
+    "concept_ids": [
+      "C0062",
+      "C0063"
+    ],
+    "is_ambiguous": true
+  },
+  "EECC": {
+    "concept_ids": [
+      "C0486"
+    ],
+    "is_ambiguous": false
+  },
+  "EFC": {
+    "concept_ids": [
+      "C0489"
+    ],
+    "is_ambiguous": false
+  },
+  "EFD": {
+    "concept_ids": [
+      "C0490"
+    ],
+    "is_ambiguous": false
+  },
+  "EICC": {
+    "concept_ids": [
+      "C0491"
+    ],
+    "is_ambiguous": false
+  },
+  "EICH": {
+    "concept_ids": [
+      "C0492"
+    ],
+    "is_ambiguous": false
+  },
+  "EIOI": {
+    "concept_ids": [
+      "C0064"
+    ],
+    "is_ambiguous": false
+  },
+  "EL": {
+    "concept_ids": [
+      "C0065",
+      "C0066"
+    ],
+    "is_ambiguous": true
+  },
+  "ELH": {
+    "concept_ids": [
+      "C0493"
+    ],
+    "is_ambiguous": false
+  },
+  "EM": {
+    "concept_ids": [
+      "C0067",
+      "C0068"
+    ],
+    "is_ambiguous": true
+  },
+  "EMC": {
+    "concept_ids": [
+      "C0069"
+    ],
+    "is_ambiguous": false
+  },
+  "EMCS": {
+    "concept_ids": [
+      "C0494"
+    ],
+    "is_ambiguous": false
+  },
+  "EMD": {
+    "concept_ids": [
+      "C0495"
+    ],
+    "is_ambiguous": false
+  },
+  "EMG": {
+    "concept_ids": [
+      "C0250"
+    ],
+    "is_ambiguous": false
+  },
+  "EMM": {
+    "concept_ids": [
+      "C0496"
+    ],
+    "is_ambiguous": false
+  },
+  "EMQ": {
+    "concept_ids": [
+      "C0069"
+    ],
+    "is_ambiguous": false
+  },
+  "EN": {
+    "concept_ids": [
+      "C0497"
+    ],
+    "is_ambiguous": false
+  },
+  "ENG": {
+    "concept_ids": [
+      "C0251"
+    ],
+    "is_ambiguous": false
+  },
+  "EOG": {
+    "concept_ids": [
+      "C0252"
+    ],
+    "is_ambiguous": false
+  },
+  "EOT": {
+    "concept_ids": [
+      "C0498"
+    ],
+    "is_ambiguous": false
+  },
+  "EP": {
+    "concept_ids": [
+      "C0070"
+    ],
+    "is_ambiguous": false
+  },
+  "EPNP": {
+    "concept_ids": [
+      "C0501"
+    ],
+    "is_ambiguous": false
+  },
+  "EPPMPA": {
+    "concept_ids": [
+      "C0499"
+    ],
+    "is_ambiguous": false
+  },
+  "EPR": {
+    "concept_ids": [
+      "C0222"
+    ],
+    "is_ambiguous": false
+  },
+  "EPRA": {
+    "concept_ids": [
+      "C0500"
+    ],
+    "is_ambiguous": false
+  },
+  "EPS": {
+    "concept_ids": [
+      "C0502"
+    ],
+    "is_ambiguous": false
+  },
+  "ERG": {
+    "concept_ids": [
+      "C0253"
+    ],
+    "is_ambiguous": false
+  },
+  "ESC": {
+    "concept_ids": [
+      "C0503"
+    ],
+    "is_ambiguous": false
+  },
+  "ESF": {
+    "concept_ids": [
+      "C0504"
+    ],
+    "is_ambiguous": false
+  },
+  "ESF+": {
+    "concept_ids": [
+      "C0506"
+    ],
+    "is_ambiguous": false
+  },
+  "ESF-": {
+    "concept_ids": [
+      "C0505"
+    ],
+    "is_ambiguous": false
+  },
+  "EST": {
+    "concept_ids": [
+      "C0058"
+    ],
+    "is_ambiguous": false
+  },
+  "ESV": {
+    "concept_ids": [
+      "C0507"
+    ],
+    "is_ambiguous": false
+  },
+  "ET": {
+    "concept_ids": [
+      "C0254"
+    ],
+    "is_ambiguous": false
+  },
+  "ETAE": {
+    "concept_ids": [
+      "C0509"
+    ],
+    "is_ambiguous": false
+  },
+  "EXF": {
+    "concept_ids": [
+      "C0510"
+    ],
+    "is_ambiguous": false
+  },
+  "EXT": {
+    "concept_ids": [
+      "C0265"
+    ],
+    "is_ambiguous": false
+  },
+  "Ecografía bidimensional": {
+    "concept_ids": [
+      "C0483"
+    ],
+    "is_ambiguous": false
+  },
+  "Edema de papila": {
+    "concept_ids": [
+      "C0326"
+    ],
+    "is_ambiguous": false
+  },
+  "Edema macular": {
+    "concept_ids": [
+      "C0067"
+    ],
+    "is_ambiguous": false
+  },
+  "Edema macular cistoide": {
+    "concept_ids": [
+      "C0069"
+    ],
+    "is_ambiguous": false
+  },
+  "Edema macular clínicamente significativo": {
+    "concept_ids": [
+      "C0494"
+    ],
+    "is_ambiguous": false
+  },
+  "Edema macular diabético": {
+    "concept_ids": [
+      "C0495"
+    ],
+    "is_ambiguous": false
+  },
+  "Edema macular microquístico": {
+    "concept_ids": [
+      "C0496"
+    ],
+    "is_ambiguous": false
+  },
+  "Edema macular quístico": {
+    "concept_ids": [
+      "C0069"
+    ],
+    "is_ambiguous": false
+  },
+  "Efecto Purkinje": {
+    "concept_ids": [
+      "C0249"
+    ],
+    "is_ambiguous": false
+  },
+  "Efecto estenopeico": {
+    "concept_ids": [
+      "C0058"
+    ],
+    "is_ambiguous": false
+  },
+  "Electromiograma": {
+    "concept_ids": [
+      "C0250"
+    ],
+    "is_ambiguous": false
+  },
+  "Electronistagmografía": {
+    "concept_ids": [
+      "C0251"
+    ],
+    "is_ambiguous": false
+  },
+  "Electrooculograma": {
+    "concept_ids": [
+      "C0252"
+    ],
+    "is_ambiguous": false
+  },
+  "Electrorretinograma": {
+    "concept_ids": [
+      "C0253"
+    ],
+    "is_ambiguous": false
+  },
+  "Elevador del párpado superior": {
+    "concept_ids": [
+      "C0502"
+    ],
+    "is_ambiguous": false
+  },
+  "Embriotoxon posterior": {
+    "concept_ids": [
+      "C0070"
+    ],
+    "is_ambiguous": false
+  },
+  "Endoforia": {
+    "concept_ids": [
+      "C0488"
+    ],
+    "is_ambiguous": false
+  },
+  "Endoláser": {
+    "concept_ids": [
+      "C0065"
+    ],
+    "is_ambiguous": false
+  },
+  "Endotelio corneal": {
+    "concept_ids": [
+      "C0257"
+    ],
+    "is_ambiguous": false
+  },
+  "Endotropia": {
+    "concept_ids": [
+      "C0254"
+    ],
+    "is_ambiguous": false
+  },
+  "Endotropia intermitente": {
+    "concept_ids": [
+      "C0508"
+    ],
+    "is_ambiguous": false
+  },
+  "Enfermedad de Graves": {
+    "concept_ids": [
+      "C0260"
+    ],
+    "is_ambiguous": false
+  },
+  "Enfermedad de Stargardt": {
+    "concept_ids": [
+      "C0255"
+    ],
+    "is_ambiguous": false
+  },
+  "Enfermedad inflamatoria orbitaria idiopática": {
+    "concept_ids": [
+      "C0064"
+    ],
+    "is_ambiguous": false
+  },
+  "Enfermedad injerto contra huésped": {
+    "concept_ids": [
+      "C0492"
+    ],
+    "is_ambiguous": false
+  },
+  "Enfermedad ocular tiroidea": {
+    "concept_ids": [
+      "C0498"
+    ],
+    "is_ambiguous": false
+  },
+  "Enoftalmia": {
+    "concept_ids": [
+      "C0256"
+    ],
+    "is_ambiguous": false
+  },
+  "Enoftalmo": {
+    "concept_ids": [
+      "C0256"
+    ],
+    "is_ambiguous": false
+  },
+  "Epicanto": {
+    "concept_ids": [
+      "C0259"
+    ],
+    "is_ambiguous": false
+  },
+  "Epicantus": {
+    "concept_ids": [
+      "C0259"
+    ],
+    "is_ambiguous": false
+  },
+  "Epitelio pigmentario de la retina": {
+    "concept_ids": [
+      "C0222"
+    ],
+    "is_ambiguous": false
+  },
+  "Epitelio posterior de la córnea": {
+    "concept_ids": [
+      "C0257"
+    ],
+    "is_ambiguous": false
+  },
+  "Epiteliopatía pigmentaria placoide multifocal posterior aguda": {
+    "concept_ids": [
+      "C0499"
+    ],
+    "is_ambiguous": false
+  },
+  "Epitelitis pigmentaria retiniana aguda": {
+    "concept_ids": [
+      "C0500"
+    ],
+    "is_ambiguous": false
+  },
+  "Equivalente esférico": {
+    "concept_ids": [
+      "C0063"
+    ],
+    "is_ambiguous": false
+  },
+  "Escala tangente de Maddox": {
+    "concept_ids": [
+      "C0237"
+    ],
+    "is_ambiguous": false
+  },
+  "Escape pupilar": {
+    "concept_ids": [
+      "C0261"
+    ],
+    "is_ambiguous": false
+  },
+  "Esclera": {
+    "concept_ids": [
+      "C0262"
+    ],
+    "is_ambiguous": false
+  },
+  "Esclerectomía profunda no perforante": {
+    "concept_ids": [
+      "C0501"
+    ],
+    "is_ambiguous": false
+  },
+  "Esclerosis múltiple": {
+    "concept_ids": [
+      "C0068"
+    ],
+    "is_ambiguous": false
+  },
+  "Esclerosis nuclear de cristalino": {
+    "concept_ids": [
+      "C0497"
+    ],
+    "is_ambiguous": false
+  },
+  "Esclerouvectomía": {
+    "concept_ids": [
+      "C0507"
+    ],
+    "is_ambiguous": false
+  },
+  "Esclerótica": {
+    "concept_ids": [
+      "C0262"
+    ],
+    "is_ambiguous": false
+  },
+  "Escotoma de supresión central": {
+    "concept_ids": [
+      "C0503"
+    ],
+    "is_ambiguous": false
+  },
+  "Escotoma fisiológico": {
+    "concept_ids": [
+      "C0263"
+    ],
+    "is_ambiguous": false
+  },
+  "Esfera o defecto esférico en graduación óptica": {
+    "concept_ids": [
+      "C0504"
+    ],
+    "is_ambiguous": false
+  },
+  "Esotropia asociada del adulto": {
+    "concept_ids": [
+      "C0509"
+    ],
+    "is_ambiguous": false
+  },
+  "Espectro visible": {
+    "concept_ids": [
+      "C0258"
+    ],
+    "is_ambiguous": false
+  },
+  "Espesor corneal central": {
+    "concept_ids": [
+      "C0487"
+    ],
+    "is_ambiguous": false
+  },
+  "Espolón escleral": {
+    "concept_ids": [
+      "C0062"
+    ],
+    "is_ambiguous": false
+  },
+  "Estrabismo divergente intermitente": {
+    "concept_ids": [
+      "C0485"
+    ],
+    "is_ambiguous": false
+  },
+  "Estrabismo incomitante y Concomitancia": {
+    "concept_ids": [
+      "C0289"
+    ],
+    "is_ambiguous": false
+  },
+  "Examen subjetivo": {
+    "concept_ids": [
+      "C0357"
+    ],
+    "is_ambiguous": false
+  },
+  "Excavación focal coroidea": {
+    "concept_ids": [
+      "C0489"
+    ],
+    "is_ambiguous": false
+  },
+  "Excavación papilar or cociente excavación-papila": {
+    "concept_ids": [
+      "C0070"
+    ],
+    "is_ambiguous": false
+  },
+  "Exoforia": {
+    "concept_ids": [
+      "C0510"
+    ],
+    "is_ambiguous": false
+  },
+  "Exoftalmo": {
+    "concept_ids": [
+      "C0264"
+    ],
+    "is_ambiguous": false
+  },
+  "Exoftalmos": {
+    "concept_ids": [
+      "C0264"
+    ],
+    "is_ambiguous": false
+  },
+  "Exotropia": {
+    "concept_ids": [
+      "C0265"
+    ],
+    "is_ambiguous": false
+  },
+  "Exploración con anestesia": {
+    "concept_ids": [
+      "C0060"
+    ],
+    "is_ambiguous": false
+  },
+  "Exploración con linterna": {
+    "concept_ids": [
+      "C0066"
+    ],
+    "is_ambiguous": false
+  },
+  "Exploración con lámpara de hendidura": {
+    "concept_ids": [
+      "C0493"
+    ],
+    "is_ambiguous": false
+  },
+  "Exploración de fondo de ojo con dilatación": {
+    "concept_ids": [
+      "C0490"
+    ],
+    "is_ambiguous": false
+  },
+  "Extended depth of focus intraocular lens": {
+    "concept_ids": [
+      "C0061"
+    ],
+    "is_ambiguous": false
+  },
+  "Externo": {
+    "concept_ids": [
+      "C0310"
+    ],
+    "is_ambiguous": false
+  },
+  "Extracción de catarata": {
+    "concept_ids": [
+      "C0484"
+    ],
+    "is_ambiguous": false
+  },
+  "Extracción extracapsular de cristalino o catarata": {
+    "concept_ids": [
+      "C0486"
+    ],
+    "is_ambiguous": false
+  },
+  "Extracción intracapsular de cristalino o catarata": {
+    "concept_ids": [
+      "C0491"
+    ],
+    "is_ambiguous": false
+  },
+  "Exudado algodonoso": {
+    "concept_ids": [
+      "C0059"
+    ],
+    "is_ambiguous": false
+  },
+  "F": {
+    "concept_ids": [
+      "C0071"
+    ],
+    "is_ambiguous": false
+  },
+  "FA": {
+    "concept_ids": [
+      "C0511"
+    ],
+    "is_ambiguous": false
+  },
+  "FACO": {
+    "concept_ids": [
+      "C0072"
+    ],
+    "is_ambiguous": false
+  },
+  "FACOVPP": {
+    "concept_ids": [
+      "C0512"
+    ],
+    "is_ambiguous": false
+  },
+  "FCC": {
+    "concept_ids": [
+      "C0513"
+    ],
+    "is_ambiguous": false
+  },
+  "FCEM": {
+    "concept_ids": [
+      "C0514"
+    ],
+    "is_ambiguous": false
+  },
+  "FCL": {
+    "concept_ids": [
+      "C0515"
+    ],
+    "is_ambiguous": false
+  },
+  "FE": {
+    "concept_ids": [
+      "C0072",
+      "C0073",
+      "C0074"
+    ],
+    "is_ambiguous": true
+  },
+  "FENI": {
+    "concept_ids": [
+      "C0071"
+    ],
+    "is_ambiguous": false
+  },
+  "FEOB": {
+    "concept_ids": [
+      "C0516"
+    ],
+    "is_ambiguous": false
+  },
+  "FFM": {
+    "concept_ids": [
+      "C0075"
+    ],
+    "is_ambiguous": false
+  },
+  "FIR": {
+    "concept_ids": [
+      "C0517"
+    ],
+    "is_ambiguous": false
+  },
+  "FL": {
+    "concept_ids": [
+      "C0518"
+    ],
+    "is_ambiguous": false
+  },
+  "FLM": {
+    "concept_ids": [
+      "C0519"
+    ],
+    "is_ambiguous": false
+  },
+  "FO": {
+    "concept_ids": [
+      "C0520"
+    ],
+    "is_ambiguous": false
+  },
+  "FP": {
+    "concept_ids": [
+      "C0521"
+    ],
+    "is_ambiguous": false
+  },
+  "FPR": {
+    "concept_ids": [
+      "C0522"
+    ],
+    "is_ambiguous": false
+  },
+  "FRCV": {
+    "concept_ids": [
+      "C0523"
+    ],
+    "is_ambiguous": false
+  },
+  "FSEPR": {
+    "concept_ids": [
+      "C0524"
+    ],
+    "is_ambiguous": false
+  },
+  "FSR": {
+    "concept_ids": [
+      "C0525"
+    ],
+    "is_ambiguous": false
+  },
+  "Facoemulsificación": {
+    "concept_ids": [
+      "C0072"
+    ],
+    "is_ambiguous": false
+  },
+  "Facoemulsificación combinada con vitrectomía pars plana": {
+    "concept_ids": [
+      "C0512"
+    ],
+    "is_ambiguous": false
+  },
+  "Factor de Coddington": {
+    "concept_ids": [
+      "C0266"
+    ],
+    "is_ambiguous": false
+  },
+  "Factor de forma": {
+    "concept_ids": [
+      "C0266"
+    ],
+    "is_ambiguous": false
+  },
+  "Factores de riesgo cardiovascular": {
+    "concept_ids": [
+      "C0523"
+    ],
+    "is_ambiguous": false
+  },
+  "Fasciculaciones del párpado": {
+    "concept_ids": [
+      "C0233"
+    ],
+    "is_ambiguous": false
+  },
+  "Fascículo longitudinal medial": {
+    "concept_ids": [
+      "C0519"
+    ],
+    "is_ambiguous": false
+  },
+  "Fatiga ocular": {
+    "concept_ids": [
+      "C0272"
+    ],
+    "is_ambiguous": false
+  },
+  "Fenilefrina": {
+    "concept_ids": [
+      "C0071"
+    ],
+    "is_ambiguous": false
+  },
+  "Fenómeno de Bell": {
+    "concept_ids": [
+      "C0356"
+    ],
+    "is_ambiguous": false
+  },
+  "Fibra del cristalino": {
+    "concept_ids": [
+      "C0267"
+    ],
+    "is_ambiguous": false
+  },
+  "Fijación central estable y mantenida": {
+    "concept_ids": [
+      "C0514"
+    ],
+    "is_ambiguous": false
+  },
+  "Fijación excéntrica": {
+    "concept_ids": [
+      "C0074"
+    ],
+    "is_ambiguous": false
+  },
+  "Film lagrimal": {
+    "concept_ids": [
+      "C0273"
+    ],
+    "is_ambiguous": false
+  },
+  "Filtro anerita": {
+    "concept_ids": [
+      "C0268"
+    ],
+    "is_ambiguous": false
+  },
+  "Filtro polarizado": {
+    "concept_ids": [
+      "C0333"
+    ],
+    "is_ambiguous": false
+  },
+  "Filtro polarizador": {
+    "concept_ids": [
+      "C0293"
+    ],
+    "is_ambiguous": false
+  },
+  "Filtro ultravioleta": {
+    "concept_ids": [
+      "C0269"
+    ],
+    "is_ambiguous": false
+  },
+  "Filtro verde": {
+    "concept_ids": [
+      "C0268"
+    ],
+    "is_ambiguous": false
+  },
+  "Fisura orbitaria superior": {
+    "concept_ids": [
+      "C0274"
+    ],
+    "is_ambiguous": false
+  },
+  "Fisura palpebral": {
+    "concept_ids": [
+      "C0521"
+    ],
+    "is_ambiguous": false
+  },
+  "Flexibilidad acomodativa": {
+    "concept_ids": [
+      "C0511"
+    ],
+    "is_ambiguous": false
+  },
+  "Fluido intrarretiniano": {
+    "concept_ids": [
+      "C0517"
+    ],
+    "is_ambiguous": false
+  },
+  "Fluido sub-epitelio pigmentario de la retina": {
+    "concept_ids": [
+      "C0524"
+    ],
+    "is_ambiguous": false
+  },
+  "Fluido subretiniano": {
+    "concept_ids": [
+      "C0525"
+    ],
+    "is_ambiguous": false
+  },
+  "Fluoresceína": {
+    "concept_ids": [
+      "C0518"
+    ],
+    "is_ambiguous": false
+  },
+  "Flóculos vítreos": {
+    "concept_ids": [
+      "C0270"
+    ],
+    "is_ambiguous": false
+  },
+  "Foco de una lente": {
+    "concept_ids": [
+      "C0275"
+    ],
+    "is_ambiguous": false
+  },
+  "Fondo de ojo": {
+    "concept_ids": [
+      "C0520"
+    ],
+    "is_ambiguous": false
+  },
+  "Fondo de saco conjuntival": {
+    "concept_ids": [
+      "C0276"
+    ],
+    "is_ambiguous": false
+  },
+  "Forópter": {
+    "concept_ids": [
+      "C0271"
+    ],
+    "is_ambiguous": false
+  },
+  "Foróptero": {
+    "concept_ids": [
+      "C0271"
+    ],
+    "is_ambiguous": false
+  },
+  "Fotocoagulación láser": {
+    "concept_ids": [
+      "C0515"
+    ],
+    "is_ambiguous": false
+  },
+  "Fotocoagulación panrretiniana con láser argón": {
+    "concept_ids": [
+      "C0522"
+    ],
+    "is_ambiguous": false
+  },
+  "Fotorreceptor": {
+    "concept_ids": [
+      "C0221"
+    ],
+    "is_ambiguous": false
+  },
+  "Fractura por estallido con ojo blanco": {
+    "concept_ids": [
+      "C0516"
+    ],
+    "is_ambiguous": false
+  },
+  "Frontofocómetro": {
+    "concept_ids": [
+      "C0279"
+    ],
+    "is_ambiguous": false
+  },
+  "Función del elevador": {
+    "concept_ids": [
+      "C0073"
+    ],
+    "is_ambiguous": false
+  },
+  "Fundus flavimaculatus": {
+    "concept_ids": [
+      "C0075"
+    ],
+    "is_ambiguous": false
+  },
+  "Fístula carótido-cavernosa": {
+    "concept_ids": [
+      "C0513"
+    ],
+    "is_ambiguous": false
+  },
+  "Fórnix conjuntival": {
+    "concept_ids": [
+      "C0276"
+    ],
+    "is_ambiguous": false
+  },
+  "GC": {
+    "concept_ids": [
+      "C0526"
+    ],
+    "is_ambiguous": false
+  },
+  "GCAA": {
+    "concept_ids": [
+      "C0527"
+    ],
+    "is_ambiguous": false
+  },
+  "GCAC": {
+    "concept_ids": [
+      "C0528"
+    ],
+    "is_ambiguous": false
+  },
+  "GCAP": {
+    "concept_ids": [
+      "C0529"
+    ],
+    "is_ambiguous": false
+  },
+  "GCC": {
+    "concept_ids": [
+      "C0530"
+    ],
+    "is_ambiguous": false
+  },
+  "GCS": {
+    "concept_ids": [
+      "C0531"
+    ],
+    "is_ambiguous": false
+  },
+  "GDX": {
+    "concept_ids": [
+      "C0076"
+    ],
+    "is_ambiguous": false
+  },
+  "GNT": {
+    "concept_ids": [
+      "C0533"
+    ],
+    "is_ambiguous": false
+  },
+  "GNV": {
+    "concept_ids": [
+      "C0532"
+    ],
+    "is_ambiguous": false
+  },
+  "GONIO": {
+    "concept_ids": [
+      "C0535"
+    ],
+    "is_ambiguous": false
+  },
+  "GP": {
+    "concept_ids": [
+      "C0077"
+    ],
+    "is_ambiguous": false
+  },
+  "GPAA": {
+    "concept_ids": [
+      "C0534"
+    ],
+    "is_ambiguous": false
+  },
+  "GPEX": {
+    "concept_ids": [
+      "C0078"
+    ],
+    "is_ambiguous": false
+  },
+  "GPG": {
+    "concept_ids": [
+      "C0077"
+    ],
+    "is_ambiguous": false
+  },
+  "GPSX": {
+    "concept_ids": [
+      "C0078"
+    ],
+    "is_ambiguous": false
+  },
+  "Gafas": {
+    "concept_ids": [
+      "C0278"
+    ],
+    "is_ambiguous": false
+  },
+  "Gerontoxon": {
+    "concept_ids": [
+      "C0277"
+    ],
+    "is_ambiguous": false
+  },
+  "Glaucoma crónico de ángulo abierto": {
+    "concept_ids": [
+      "C0527"
+    ],
+    "is_ambiguous": false
+  },
+  "Glaucoma crónico de ángulo cerrado": {
+    "concept_ids": [
+      "C0528"
+    ],
+    "is_ambiguous": false
+  },
+  "Glaucoma crónico simple": {
+    "concept_ids": [
+      "C0531"
+    ],
+    "is_ambiguous": false
+  },
+  "Glaucoma neovascular": {
+    "concept_ids": [
+      "C0532"
+    ],
+    "is_ambiguous": false
+  },
+  "Glaucoma normotensivo": {
+    "concept_ids": [
+      "C0533"
+    ],
+    "is_ambiguous": false
+  },
+  "Glaucoma pigmentario": {
+    "concept_ids": [
+      "C0077"
+    ],
+    "is_ambiguous": false
+  },
+  "Glaucoma por cierre angular primario": {
+    "concept_ids": [
+      "C0529"
+    ],
+    "is_ambiguous": false
+  },
+  "Glaucoma primario de ángulo abierto": {
+    "concept_ids": [
+      "C0534"
+    ],
+    "is_ambiguous": false
+  },
+  "Glaucoma pseudoexfoliativo": {
+    "concept_ids": [
+      "C0078"
+    ],
+    "is_ambiguous": false
+  },
+  "Globo ocular": {
+    "concept_ids": [
+      "C0214"
+    ],
+    "is_ambiguous": false
+  },
+  "Glucocorticoide": {
+    "concept_ids": [
+      "C0282"
+    ],
+    "is_ambiguous": false
+  },
+  "Glucocorticoides": {
+    "concept_ids": [
+      "C0210"
+    ],
+    "is_ambiguous": false
+  },
+  "Glándula tarsal": {
+    "concept_ids": [
+      "C0280"
+    ],
+    "is_ambiguous": false
+  },
+  "Glándulas ciliares": {
+    "concept_ids": [
+      "C0281"
+    ],
+    "is_ambiguous": false
+  },
+  "Glándulas de Meibomio": {
+    "concept_ids": [
+      "C0280"
+    ],
+    "is_ambiguous": false
+  },
+  "Glándulas de Zeiss": {
+    "concept_ids": [
+      "C0281"
+    ],
+    "is_ambiguous": false
+  },
+  "Gonioscopio": {
+    "concept_ids": [
+      "C0296"
+    ],
+    "is_ambiguous": false
+  },
+  "Gonioscopía": {
+    "concept_ids": [
+      "C0535"
+    ],
+    "is_ambiguous": false
+  },
+  "Grosor corneal central": {
+    "concept_ids": [
+      "C0530"
+    ],
+    "is_ambiguous": false
+  },
+  "Grosor coroideo": {
+    "concept_ids": [
+      "C0526"
+    ],
+    "is_ambiguous": false
+  },
+  "H(T)": {
+    "concept_ids": [
+      "C0540"
+    ],
+    "is_ambiguous": false
+  },
+  "H/HF": {
+    "concept_ids": [
+      "C0537"
+    ],
+    "is_ambiguous": false
+  },
+  "HCEPR": {
+    "concept_ids": [
+      "C0536"
+    ],
+    "is_ambiguous": false
+  },
+  "HLN": {
+    "concept_ids": [
+      "C0543"
+    ],
+    "is_ambiguous": false
+  },
+  "HOI": {
+    "concept_ids": [
+      "C0546"
+    ],
+    "is_ambiguous": false
+  },
+  "HOS": {
+    "concept_ids": [
+      "C0548"
+    ],
+    "is_ambiguous": false
+  },
+  "HP": {
+    "concept_ids": [
+      "C0212"
+    ],
+    "is_ambiguous": false
+  },
+  "HPM": {
+    "concept_ids": [
+      "C0544"
+    ],
+    "is_ambiguous": false
+  },
+  "HRT": {
+    "concept_ids": [
+      "C0079"
+    ],
+    "is_ambiguous": false
+  },
+  "HS": {
+    "concept_ids": [
+      "C0080"
+    ],
+    "is_ambiguous": false
+  },
+  "HSC": {
+    "concept_ids": [
+      "C0545"
+    ],
+    "is_ambiguous": false
+  },
+  "HSV": {
+    "concept_ids": [
+      "C0081"
+    ],
+    "is_ambiguous": false
+  },
+  "HT": {
+    "concept_ids": [
+      "C0539"
+    ],
+    "is_ambiguous": false
+  },
+  "HTO": {
+    "concept_ids": [
+      "C0549"
+    ],
+    "is_ambiguous": false
+  },
+  "HV": {
+    "concept_ids": [
+      "C0284"
+    ],
+    "is_ambiguous": false
+  },
+  "HZO": {
+    "concept_ids": [
+      "C0550"
+    ],
+    "is_ambiguous": false
+  },
+  "Hasta la nariz": {
+    "concept_ids": [
+      "C0543"
+    ],
+    "is_ambiguous": false
+  },
+  "Haz papilomacular": {
+    "concept_ids": [
+      "C0544"
+    ],
+    "is_ambiguous": false
+  },
+  "Heidelberg Retina Tomograph": {
+    "concept_ids": [
+      "C0079"
+    ],
+    "is_ambiguous": false
+  },
+  "Hemorragia retiniana": {
+    "concept_ids": [
+      "C0284"
+    ],
+    "is_ambiguous": false
+  },
+  "Hemorragia subconjuntival": {
+    "concept_ids": [
+      "C0545"
+    ],
+    "is_ambiguous": false
+  },
+  "Hemovítreo": {
+    "concept_ids": [
+      "C0284"
+    ],
+    "is_ambiguous": false
+  },
+  "Hendidura esfenoidal": {
+    "concept_ids": [
+      "C0274"
+    ],
+    "is_ambiguous": false
+  },
+  "Hendidura palpebral": {
+    "concept_ids": [
+      "C0212"
+    ],
+    "is_ambiguous": false
+  },
+  "Herpes simple": {
+    "concept_ids": [
+      "C0080"
+    ],
+    "is_ambiguous": false
+  },
+  "Herpes simple virus": {
+    "concept_ids": [
+      "C0081"
+    ],
+    "is_ambiguous": false
+  },
+  "Herpes zóster oftálmico": {
+    "concept_ids": [
+      "C0550"
+    ],
+    "is_ambiguous": false
+  },
+  "Hexafluoruro de azufre": {
+    "concept_ids": [
+      "C0711"
+    ],
+    "is_ambiguous": false
+  },
+  "Hiperactividad del músculo oblicuo inferior": {
+    "concept_ids": [
+      "C0546"
+    ],
+    "is_ambiguous": false
+  },
+  "Hiperactividad del músculo oblicuo superior": {
+    "concept_ids": [
+      "C0548"
+    ],
+    "is_ambiguous": false
+  },
+  "Hiperforia": {
+    "concept_ids": [
+      "C0537"
+    ],
+    "is_ambiguous": false
+  },
+  "Hipertensión ocular": {
+    "concept_ids": [
+      "C0549"
+    ],
+    "is_ambiguous": false
+  },
+  "Hipertrofia congénita del epitelio pigmentario de la retina": {
+    "concept_ids": [
+      "C0536"
+    ],
+    "is_ambiguous": false
+  },
+  "Hipertropia": {
+    "concept_ids": [
+      "C0539"
+    ],
+    "is_ambiguous": false
+  },
+  "Hipertropia intermitente": {
+    "concept_ids": [
+      "C0540"
+    ],
+    "is_ambiguous": false
+  },
+  "Hipoactividad del músculo oblicuo inferior": {
+    "concept_ids": [
+      "C0547"
+    ],
+    "is_ambiguous": false
+  },
+  "Hipoforia": {
+    "concept_ids": [
+      "C0538"
+    ],
+    "is_ambiguous": false
+  },
+  "Hipotropia": {
+    "concept_ids": [
+      "C0541"
+    ],
+    "is_ambiguous": false
+  },
+  "Hipotropia intermitente": {
+    "concept_ids": [
+      "C0542"
+    ],
+    "is_ambiguous": false
+  },
+  "Hippus": {
+    "concept_ids": [
+      "C0283"
+    ],
+    "is_ambiguous": false
+  },
+  "Hippus fisiológico": {
+    "concept_ids": [
+      "C0261"
+    ],
+    "is_ambiguous": false
+  },
+  "IA": {
+    "concept_ids": [
+      "C0551"
+    ],
+    "is_ambiguous": false
+  },
+  "IC": {
+    "concept_ids": [
+      "C0082",
+      "C0083"
+    ],
+    "is_ambiguous": true
+  },
+  "ICE": {
+    "concept_ids": [
+      "C0084"
+    ],
+    "is_ambiguous": false
+  },
+  "ICG": {
+    "concept_ids": [
+      "C0085"
+    ],
+    "is_ambiguous": false
+  },
+  "ICHF": {
+    "concept_ids": [
+      "C0552"
+    ],
+    "is_ambiguous": false
+  },
+  "ICL": {
+    "concept_ids": [
+      "C0086"
+    ],
+    "is_ambiguous": false
+  },
+  "ICV": {
+    "concept_ids": [
+      "C0087"
+    ],
+    "is_ambiguous": false
+  },
+  "IDG": {
+    "concept_ids": [
+      "C0553"
+    ],
+    "is_ambiguous": false
+  },
+  "IFIS": {
+    "concept_ids": [
+      "C0088"
+    ],
+    "is_ambiguous": false
+  },
+  "IGAL": {
+    "concept_ids": [
+      "C0554"
+    ],
+    "is_ambiguous": false
+  },
+  "IOL": {
+    "concept_ids": [
+      "C0089"
+    ],
+    "is_ambiguous": false
+  },
+  "IP": {
+    "concept_ids": [
+      "C0555"
+    ],
+    "is_ambiguous": false
+  },
+  "IPCL": {
+    "concept_ids": [
+      "C0090"
+    ],
+    "is_ambiguous": false
+  },
+  "IRMA": {
+    "concept_ids": [
+      "C0091"
+    ],
+    "is_ambiguous": false
+  },
+  "IRVAN": {
+    "concept_ids": [
+      "C0197"
+    ],
+    "is_ambiguous": false
+  },
+  "ISE": {
+    "concept_ids": [
+      "C0556"
+    ],
+    "is_ambiguous": false
+  },
+  "IVT": {
+    "concept_ids": [
+      "C0092"
+    ],
+    "is_ambiguous": false
+  },
+  "Iluminación": {
+    "concept_ids": [
+      "C0287"
+    ],
+    "is_ambiguous": false
+  },
+  "Implantable collamer lens": {
+    "concept_ids": [
+      "C0086"
+    ],
+    "is_ambiguous": false
+  },
+  "Implantable phakic contact lens": {
+    "concept_ids": [
+      "C0090"
+    ],
+    "is_ambiguous": false
+  },
+  "Incomitancia": {
+    "concept_ids": [
+      "C0289"
+    ],
+    "is_ambiguous": false
+  },
+  "Indocyanine green": {
+    "concept_ids": [
+      "C0085"
+    ],
+    "is_ambiguous": false
+  },
+  "Infiltrado subepitelial": {
+    "concept_ids": [
+      "C0556"
+    ],
+    "is_ambiguous": false
+  },
+  "Inhibidor de la anhidrasa carbónica": {
+    "concept_ids": [
+      "C0285"
+    ],
+    "is_ambiguous": false
+  },
+  "Inhibidores de la acetilcolinesterasa": {
+    "concept_ids": [
+      "C0286"
+    ],
+    "is_ambiguous": false
+  },
+  "Injerto dermograso": {
+    "concept_ids": [
+      "C0553"
+    ],
+    "is_ambiguous": false
+  },
+  "Insuficiencia acomodativa": {
+    "concept_ids": [
+      "C0551"
+    ],
+    "is_ambiguous": false
+  },
+  "Insuficiencia de convergencia": {
+    "concept_ids": [
+      "C0082"
+    ],
+    "is_ambiguous": false
+  },
+  "Intensidad luminosa": {
+    "concept_ids": [
+      "C0287"
+    ],
+    "is_ambiguous": false
+  },
+  "Intercambio gaseoso aire-líquido": {
+    "concept_ids": [
+      "C0554"
+    ],
+    "is_ambiguous": false
+  },
+  "Interno": {
+    "concept_ids": [
+      "C0311"
+    ],
+    "is_ambiguous": false
+  },
+  "Intraocular lens": {
+    "concept_ids": [
+      "C0089"
+    ],
+    "is_ambiguous": false
+  },
+  "Intraoperative floppy iris syndrome": {
+    "concept_ids": [
+      "C0088"
+    ],
+    "is_ambiguous": false
+  },
+  "Intraretinal microvascular abnormality": {
+    "concept_ids": [
+      "C0091"
+    ],
+    "is_ambiguous": false
+  },
+  "Intravítreo or Inyección intravítrea": {
+    "concept_ids": [
+      "C0092"
+    ],
+    "is_ambiguous": false
+  },
+  "Iodopsina": {
+    "concept_ids": [
+      "C0369"
+    ],
+    "is_ambiguous": false
+  },
+  "Iridociclectomía": {
+    "concept_ids": [
+      "C0083"
+    ],
+    "is_ambiguous": false
+  },
+  "Iridociclitis heterocrómica de Fuchs": {
+    "concept_ids": [
+      "C0552"
+    ],
+    "is_ambiguous": false
+  },
+  "Iridocorneal endothelial syndrome": {
+    "concept_ids": [
+      "C0084"
+    ],
+    "is_ambiguous": false
+  },
+  "Iridoparalisis": {
+    "concept_ids": [
+      "C0288"
+    ],
+    "is_ambiguous": false
+  },
+  "Iridoplejia": {
+    "concept_ids": [
+      "C0288"
+    ],
+    "is_ambiguous": false
+  },
+  "Iridotomía periférica": {
+    "concept_ids": [
+      "C0555"
+    ],
+    "is_ambiguous": false
+  },
+  "KC": {
+    "concept_ids": [
+      "C0093"
+    ],
+    "is_ambiguous": false
+  },
+  "KR": {
+    "concept_ids": [
+      "C0094"
+    ],
+    "is_ambiguous": false
+  },
+  "Keratoconus": {
+    "concept_ids": [
+      "C0093"
+    ],
+    "is_ambiguous": false
+  },
+  "LA": {
+    "concept_ids": [
+      "C0557"
+    ],
+    "is_ambiguous": false
+  },
+  "LASEK": {
+    "concept_ids": [
+      "C0095"
+    ],
+    "is_ambiguous": false
+  },
+  "LASIK": {
+    "concept_ids": [
+      "C0096"
+    ],
+    "is_ambiguous": false
+  },
+  "LAX": {
+    "concept_ids": [
+      "C0558"
+    ],
+    "is_ambiguous": false
+  },
+  "LC": {
+    "concept_ids": [
+      "C0560"
+    ],
+    "is_ambiguous": false
+  },
+  "LCB": {
+    "concept_ids": [
+      "C0561"
+    ],
+    "is_ambiguous": false
+  },
+  "LCD": {
+    "concept_ids": [
+      "C0562"
+    ],
+    "is_ambiguous": false
+  },
+  "LCRGP": {
+    "concept_ids": [
+      "C0097"
+    ],
+    "is_ambiguous": false
+  },
+  "LCRPG": {
+    "concept_ids": [
+      "C0097"
+    ],
+    "is_ambiguous": false
+  },
+  "LCT": {
+    "concept_ids": [
+      "C0563"
+    ],
+    "is_ambiguous": false
+  },
+  "LEQ": {
+    "concept_ids": [
+      "C0559"
+    ],
+    "is_ambiguous": false
+  },
+  "LH": {
+    "concept_ids": [
+      "C0217"
+    ],
+    "is_ambiguous": false
+  },
+  "LHON": {
+    "concept_ids": [
+      "C0098"
+    ],
+    "is_ambiguous": false
+  },
+  "LIO": {
+    "concept_ids": [
+      "C0564"
+    ],
+    "is_ambiguous": false
+  },
+  "LIO CA": {
+    "concept_ids": [
+      "C0565"
+    ],
+    "is_ambiguous": false
+  },
+  "LIO CP": {
+    "concept_ids": [
+      "C0566"
+    ],
+    "is_ambiguous": false
+  },
+  "LIOMF": {
+    "concept_ids": [
+      "C0567"
+    ],
+    "is_ambiguous": false
+  },
+  "LIOP": {
+    "concept_ids": [
+      "C0568"
+    ],
+    "is_ambiguous": false
+  },
+  "LIR": {
+    "concept_ids": [
+      "C0569"
+    ],
+    "is_ambiguous": false
+  },
+  "LS": {
+    "concept_ids": [
+      "C0570"
+    ],
+    "is_ambiguous": false
+  },
+  "LSR": {
+    "concept_ids": [
+      "C0571"
+    ],
+    "is_ambiguous": false
+  },
+  "Lag acomodativo": {
+    "concept_ids": [
+      "C0291"
+    ],
+    "is_ambiguous": false
+  },
+  "Laser-assisted in situ keratomileusis": {
+    "concept_ids": [
+      "C0096"
+    ],
+    "is_ambiguous": false
+  },
+  "Laser-assisted subepithelial keratectomy": {
+    "concept_ids": [
+      "C0095"
+    ],
+    "is_ambiguous": false
+  },
+  "Leber’s hereditary optic neuropathy": {
+    "concept_ids": [
+      "C0098"
+    ],
+    "is_ambiguous": false
+  },
+  "Lensómetro": {
+    "concept_ids": [
+      "C0279"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente colimadora": {
+    "concept_ids": [
+      "C0292"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente condensadora": {
+    "concept_ids": [
+      "C0234"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente de Goldmann de tres espejos": {
+    "concept_ids": [
+      "C0296"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente de contacto": {
+    "concept_ids": [
+      "C0560"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente de contacto blanda": {
+    "concept_ids": [
+      "C0561"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente de contacto dura": {
+    "concept_ids": [
+      "C0562"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente de contacto rígida permeable al gas or gas permeable": {
+    "concept_ids": [
+      "C0097"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente de contacto terapéutica": {
+    "concept_ids": [
+      "C0563"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente esférica": {
+    "concept_ids": [
+      "C0275"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente intraocular": {
+    "concept_ids": [
+      "C0564"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente intraocular en cámara anterior": {
+    "concept_ids": [
+      "C0565"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente intraocular en cámara posterior": {
+    "concept_ids": [
+      "C0566"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente intraocular multifocal": {
+    "concept_ids": [
+      "C0567"
+    ],
+    "is_ambiguous": false
+  },
+  "Lente polarizada": {
+    "concept_ids": [
+      "C0293"
+    ],
+    "is_ambiguous": false
+  },
+  "Ley de Snell": {
+    "concept_ids": [
+      "C0300"
+    ],
+    "is_ambiguous": false
+  },
+  "Ley de inervación binocular": {
+    "concept_ids": [
+      "C0297"
+    ],
+    "is_ambiguous": false
+  },
+  "Ley de inervación de Hering": {
+    "concept_ids": [
+      "C0297"
+    ],
+    "is_ambiguous": false
+  },
+  "Ley de inervación recíproca de Sherrington": {
+    "concept_ids": [
+      "C0298"
+    ],
+    "is_ambiguous": false
+  },
+  "Ley de invervación monocular": {
+    "concept_ids": [
+      "C0298"
+    ],
+    "is_ambiguous": false
+  },
+  "Ley de la Reflexión": {
+    "concept_ids": [
+      "C0299"
+    ],
+    "is_ambiguous": false
+  },
+  "Ley de la Refracción": {
+    "concept_ids": [
+      "C0300"
+    ],
+    "is_ambiguous": false
+  },
+  "Ley de refracción": {
+    "concept_ids": [
+      "C0290"
+    ],
+    "is_ambiguous": false
+  },
+  "Linfoma intraocular primario": {
+    "concept_ids": [
+      "C0568"
+    ],
+    "is_ambiguous": false
+  },
+  "Lista de espera quirúrgica": {
+    "concept_ids": [
+      "C0559"
+    ],
+    "is_ambiguous": false
+  },
+  "Longitud axial": {
+    "concept_ids": [
+      "C0558"
+    ],
+    "is_ambiguous": false
+  },
+  "Longitud de onda": {
+    "concept_ids": [
+      "C0294"
+    ],
+    "is_ambiguous": false
+  },
+  "Luz blanca": {
+    "concept_ids": [
+      "C0258"
+    ],
+    "is_ambiguous": false
+  },
+  "Luz. Longitud de Onda de la Luz": {
+    "concept_ids": [
+      "C0294"
+    ],
+    "is_ambiguous": false
+  },
+  "Lágrima artificial": {
+    "concept_ids": [
+      "C0557"
+    ],
+    "is_ambiguous": false
+  },
+  "Lámina limitante anterior": {
+    "concept_ids": [
+      "C0302"
+    ],
+    "is_ambiguous": false
+  },
+  "Lámina limitante posterior": {
+    "concept_ids": [
+      "C0303"
+    ],
+    "is_ambiguous": false
+  },
+  "Lámpara de hendidura": {
+    "concept_ids": [
+      "C0217"
+    ],
+    "is_ambiguous": false
+  },
+  "Láser de Diodo": {
+    "concept_ids": [
+      "C0295"
+    ],
+    "is_ambiguous": false
+  },
+  "Línea de Schwalbe": {
+    "concept_ids": [
+      "C0570"
+    ],
+    "is_ambiguous": false
+  },
+  "Líquido intrarretiniano": {
+    "concept_ids": [
+      "C0569"
+    ],
+    "is_ambiguous": false
+  },
+  "Líquido subretiniano": {
+    "concept_ids": [
+      "C0571"
+    ],
+    "is_ambiguous": false
+  },
+  "MA": {
+    "concept_ids": [
+      "C0099",
+      "C0100"
+    ],
+    "is_ambiguous": true
+  },
+  "MAE": {
+    "concept_ids": [
+      "C0572"
+    ],
+    "is_ambiguous": false
+  },
+  "MAPE": {
+    "concept_ids": [
+      "C0102"
+    ],
+    "is_ambiguous": false
+  },
+  "MAR": {
+    "concept_ids": [
+      "C0573"
+    ],
+    "is_ambiguous": false
+  },
+  "MAVC": {
+    "concept_ids": [
+      "C0574"
+    ],
+    "is_ambiguous": false
+  },
+  "MEM": {
+    "concept_ids": [
+      "C0575"
+    ],
+    "is_ambiguous": false
+  },
+  "MEO": {
+    "concept_ids": [
+      "C0576"
+    ],
+    "is_ambiguous": false
+  },
+  "MER": {
+    "concept_ids": [
+      "C0577"
+    ],
+    "is_ambiguous": false
+  },
+  "MEWDS": {
+    "concept_ids": [
+      "C0170"
+    ],
+    "is_ambiguous": false
+  },
+  "MH": {
+    "concept_ids": [
+      "C0578"
+    ],
+    "is_ambiguous": false
+  },
+  "MHSR": {
+    "concept_ids": [
+      "C0579"
+    ],
+    "is_ambiguous": false
+  },
+  "MIAU": {
+    "concept_ids": [
+      "C0580"
+    ],
+    "is_ambiguous": false
+  },
+  "MIGS": {
+    "concept_ids": [
+      "C0029",
+      "C0103"
+    ],
+    "is_ambiguous": true
+  },
+  "MLE": {
+    "concept_ids": [
+      "C0581"
+    ],
+    "is_ambiguous": false
+  },
+  "MLI": {
+    "concept_ids": [
+      "C0582"
+    ],
+    "is_ambiguous": false
+  },
+  "MM": {
+    "concept_ids": [
+      "C0583"
+    ],
+    "is_ambiguous": false
+  },
+  "MMC": {
+    "concept_ids": [
+      "C0584"
+    ],
+    "is_ambiguous": false
+  },
+  "MNVC": {
+    "concept_ids": [
+      "C0586"
+    ],
+    "is_ambiguous": false
+  },
+  "MNVSR": {
+    "concept_ids": [
+      "C0587"
+    ],
+    "is_ambiguous": false
+  },
+  "MOE": {
+    "concept_ids": [
+      "C0588"
+    ],
+    "is_ambiguous": false
+  },
+  "MOEC": {
+    "concept_ids": [
+      "C0589"
+    ],
+    "is_ambiguous": false
+  },
+  "MOENC": {
+    "concept_ids": [
+      "C0590"
+    ],
+    "is_ambiguous": false
+  },
+  "MOI": {
+    "concept_ids": [
+      "C0591"
+    ],
+    "is_ambiguous": false
+  },
+  "MOIC": {
+    "concept_ids": [
+      "C0592"
+    ],
+    "is_ambiguous": false
+  },
+  "MOINC": {
+    "concept_ids": [
+      "C0593"
+    ],
+    "is_ambiguous": false
+  },
+  "MPP": {
+    "concept_ids": [
+      "C0594"
+    ],
+    "is_ambiguous": false
+  },
+  "MT": {
+    "concept_ids": [
+      "C0104",
+      "C0105"
+    ],
+    "is_ambiguous": true
+  },
+  "MacTel": {
+    "concept_ids": [
+      "C0101"
+    ],
+    "is_ambiguous": false
+  },
+  "Macroaneurisma arterial retiniano": {
+    "concept_ids": [
+      "C0573"
+    ],
+    "is_ambiguous": false
+  },
+  "Macular telangiectasia": {
+    "concept_ids": [
+      "C0101"
+    ],
+    "is_ambiguous": false
+  },
+  "Macular thickness": {
+    "concept_ids": [
+      "C0105"
+    ],
+    "is_ambiguous": false
+  },
+  "Maculopatía asociada a la edad": {
+    "concept_ids": [
+      "C0572"
+    ],
+    "is_ambiguous": false
+  },
+  "Maculopatía idiopática aguda unilateral": {
+    "concept_ids": [
+      "C0580"
+    ],
+    "is_ambiguous": false
+  },
+  "Maculopatía placoide persistente": {
+    "concept_ids": [
+      "C0594"
+    ],
+    "is_ambiguous": false
+  },
+  "Malla trabecular": {
+    "concept_ids": [
+      "C0104"
+    ],
+    "is_ambiguous": false
+  },
+  "Mancha ciega de Mariotte": {
+    "concept_ids": [
+      "C0263"
+    ],
+    "is_ambiguous": false
+  },
+  "Material hiperreflectivo subretiniano": {
+    "concept_ids": [
+      "C0579"
+    ],
+    "is_ambiguous": false
+  },
+  "Meibomitis": {
+    "concept_ids": [
+      "C0301"
+    ],
+    "is_ambiguous": false
+  },
+  "Mejor agudeza visual corregida": {
+    "concept_ids": [
+      "C0574"
+    ],
+    "is_ambiguous": false
+  },
+  "Membrana amniótica": {
+    "concept_ids": [
+      "C0099"
+    ],
+    "is_ambiguous": false
+  },
+  "Membrana de Bowmann": {
+    "concept_ids": [
+      "C0302"
+    ],
+    "is_ambiguous": false
+  },
+  "Membrana de Descemet": {
+    "concept_ids": [
+      "C0303"
+    ],
+    "is_ambiguous": false
+  },
+  "Membrana epimacular": {
+    "concept_ids": [
+      "C0575"
+    ],
+    "is_ambiguous": false
+  },
+  "Membrana epirretiniana": {
+    "concept_ids": [
+      "C0577"
+    ],
+    "is_ambiguous": false
+  },
+  "Membrana limitante externa": {
+    "concept_ids": [
+      "C0581"
+    ],
+    "is_ambiguous": false
+  },
+  "Membrana limitante interna": {
+    "concept_ids": [
+      "C0582"
+    ],
+    "is_ambiguous": false
+  },
+  "Membrana neovascular coroidea": {
+    "concept_ids": [
+      "C0586"
+    ],
+    "is_ambiguous": false
+  },
+  "Membrana neovascular subretiniana": {
+    "concept_ids": [
+      "C0587"
+    ],
+    "is_ambiguous": false
+  },
+  "Microaneurisma": {
+    "concept_ids": [
+      "C0100"
+    ],
+    "is_ambiguous": false
+  },
+  "Microhemorragia": {
+    "concept_ids": [
+      "C0578"
+    ],
+    "is_ambiguous": false
+  },
+  "Milímetro de mercurio": {
+    "concept_ids": [
+      "C0585"
+    ],
+    "is_ambiguous": false
+  },
+  "Minimally invasive glaucoma surgery": {
+    "concept_ids": [
+      "C0103"
+    ],
+    "is_ambiguous": false
+  },
+  "Miodesopsias": {
+    "concept_ids": [
+      "C0270"
+    ],
+    "is_ambiguous": false
+  },
+  "Miopía degenerativa": {
+    "concept_ids": [
+      "C0304"
+    ],
+    "is_ambiguous": false
+  },
+  "Miopía magna": {
+    "concept_ids": [
+      "C0304"
+    ],
+    "is_ambiguous": false
+  },
+  "Mitomicina C": {
+    "concept_ids": [
+      "C0584"
+    ],
+    "is_ambiguous": false
+  },
+  "Monocromatismo": {
+    "concept_ids": [
+      "C0199"
+    ],
+    "is_ambiguous": false
+  },
+  "Monocromatismo atípico": {
+    "concept_ids": [
+      "C0305"
+    ],
+    "is_ambiguous": false
+  },
+  "Monocromatismo de bastones": {
+    "concept_ids": [
+      "C0306"
+    ],
+    "is_ambiguous": false
+  },
+  "Monocromatismo de cono azul y bastones": {
+    "concept_ids": [
+      "C0305"
+    ],
+    "is_ambiguous": false
+  },
+  "Monocromatismo típico": {
+    "concept_ids": [
+      "C0306"
+    ],
+    "is_ambiguous": false
+  },
+  "Montura": {
+    "concept_ids": [
+      "C0215"
+    ],
+    "is_ambiguous": false
+  },
+  "Moscas volantes": {
+    "concept_ids": [
+      "C0270"
+    ],
+    "is_ambiguous": false
+  },
+  "Motilidad ocular extrínseca": {
+    "concept_ids": [
+      "C0588"
+    ],
+    "is_ambiguous": false
+  },
+  "Motilidad ocular extrínseca conservada": {
+    "concept_ids": [
+      "C0589"
+    ],
+    "is_ambiguous": false
+  },
+  "Motilidad ocular extrínseca no conservada": {
+    "concept_ids": [
+      "C0590"
+    ],
+    "is_ambiguous": false
+  },
+  "Motilidad ocular intrínseca": {
+    "concept_ids": [
+      "C0591"
+    ],
+    "is_ambiguous": false
+  },
+  "Motilidad ocular intrínseca conservada": {
+    "concept_ids": [
+      "C0592"
+    ],
+    "is_ambiguous": false
+  },
+  "Motilidad ocular intrínseca no conservada": {
+    "concept_ids": [
+      "C0593"
+    ],
+    "is_ambiguous": false
+  },
+  "Motor ocular externo": {
+    "concept_ids": [
+      "C0312"
+    ],
+    "is_ambiguous": false
+  },
+  "Movimientos de manos": {
+    "concept_ids": [
+      "C0583"
+    ],
+    "is_ambiguous": false
+  },
+  "Myopic acquired progressive esotropia": {
+    "concept_ids": [
+      "C0102"
+    ],
+    "is_ambiguous": false
+  },
+  "Músculo acomodador distante": {
+    "concept_ids": [
+      "C0307"
+    ],
+    "is_ambiguous": false
+  },
+  "Músculo acomodador próximo": {
+    "concept_ids": [
+      "C0308"
+    ],
+    "is_ambiguous": false
+  },
+  "Músculo antagonista": {
+    "concept_ids": [
+      "C0213"
+    ],
+    "is_ambiguous": false
+  },
+  "Músculo de Brücke": {
+    "concept_ids": [
+      "C0307"
+    ],
+    "is_ambiguous": false
+  },
+  "Músculo de Müller Rouget": {
+    "concept_ids": [
+      "C0308"
+    ],
+    "is_ambiguous": false
+  },
+  "Músculo extraocular": {
+    "concept_ids": [
+      "C0576"
+    ],
+    "is_ambiguous": false
+  },
+  "Músculo oblicuo mayor": {
+    "concept_ids": [
+      "C0309"
+    ],
+    "is_ambiguous": false
+  },
+  "Músculo oblicuo superior": {
+    "concept_ids": [
+      "C0309"
+    ],
+    "is_ambiguous": false
+  },
+  "Músculo recto lateral": {
+    "concept_ids": [
+      "C0310"
+    ],
+    "is_ambiguous": false
+  },
+  "Músculo recto medial": {
+    "concept_ids": [
+      "C0311"
+    ],
+    "is_ambiguous": false
+  },
+  "NAMC": {
+    "concept_ids": [
+      "C0595"
+    ],
+    "is_ambiguous": false
+  },
+  "NI": {
+    "concept_ids": [
+      "C0596"
+    ],
+    "is_ambiguous": false
+  },
+  "NIC": {
+    "concept_ids": [
+      "C0106"
+    ],
+    "is_ambiguous": false
+  },
+  "NIKBUT": {
+    "concept_ids": [
+      "C0107"
+    ],
+    "is_ambiguous": false
+  },
+  "NL": {
+    "concept_ids": [
+      "C0597"
+    ],
+    "is_ambiguous": false
+  },
+  "NM": {
+    "concept_ids": [
+      "C0108",
+      "C0109"
+    ],
+    "is_ambiguous": true
+  },
+  "NMA": {
+    "concept_ids": [
+      "C0598"
+    ],
+    "is_ambiguous": false
+  },
+  "NO": {
+    "concept_ids": [
+      "C0110",
+      "C0111"
+    ],
+    "is_ambiguous": true
+  },
+  "NOC": {
+    "concept_ids": [
+      "C0599"
+    ],
+    "is_ambiguous": false
+  },
+  "NOG": {
+    "concept_ids": [
+      "C0600"
+    ],
+    "is_ambiguous": false
+  },
+  "NOHL": {
+    "concept_ids": [
+      "C0601"
+    ],
+    "is_ambiguous": false
+  },
+  "NOIA": {
+    "concept_ids": [
+      "C0602"
+    ],
+    "is_ambiguous": false
+  },
+  "NOIA-A": {
+    "concept_ids": [
+      "C0603"
+    ],
+    "is_ambiguous": false
+  },
+  "NOIA-NA": {
+    "concept_ids": [
+      "C0604"
+    ],
+    "is_ambiguous": false
+  },
+  "NOIP": {
+    "concept_ids": [
+      "C0605"
+    ],
+    "is_ambiguous": false
+  },
+  "NPL": {
+    "concept_ids": [
+      "C0606"
+    ],
+    "is_ambiguous": false
+  },
+  "NRA": {
+    "concept_ids": [
+      "C0607"
+    ],
+    "is_ambiguous": false
+  },
+  "NREP": {
+    "concept_ids": [
+      "C0608"
+    ],
+    "is_ambiguous": false
+  },
+  "NS": {
+    "concept_ids": [
+      "C0609"
+    ],
+    "is_ambiguous": false
+  },
+  "NV": {
+    "concept_ids": [
+      "C0610"
+    ],
+    "is_ambiguous": false
+  },
+  "NVC": {
+    "concept_ids": [
+      "C0611"
+    ],
+    "is_ambiguous": false
+  },
+  "NVD": {
+    "concept_ids": [
+      "C0613"
+    ],
+    "is_ambiguous": false
+  },
+  "NVE": {
+    "concept_ids": [
+      "C0614"
+    ],
+    "is_ambiguous": false
+  },
+  "NVM": {
+    "concept_ids": [
+      "C0615"
+    ],
+    "is_ambiguous": false
+  },
+  "NVMne": {
+    "concept_ids": [
+      "C0616"
+    ],
+    "is_ambiguous": false
+  },
+  "NVP": {
+    "concept_ids": [
+      "C0617"
+    ],
+    "is_ambiguous": false
+  },
+  "NVR": {
+    "concept_ids": [
+      "C0612"
+    ],
+    "is_ambiguous": false
+  },
+  "NVSR": {
+    "concept_ids": [
+      "C0618"
+    ],
+    "is_ambiguous": false
+  },
+  "Nasal inferior": {
+    "concept_ids": [
+      "C0596"
+    ],
+    "is_ambiguous": false
+  },
+  "Nasal superior": {
+    "concept_ids": [
+      "C0609"
+    ],
+    "is_ambiguous": false
+  },
+  "NdYAG": {
+    "concept_ids": [
+      "C0368"
+    ],
+    "is_ambiguous": false
+  },
+  "Necrosis retiniana aguda": {
+    "concept_ids": [
+      "C0607"
+    ],
+    "is_ambiguous": false
+  },
+  "Necrosis retiniana externa progresiva": {
+    "concept_ids": [
+      "C0608"
+    ],
+    "is_ambiguous": false
+  },
+  "Neoplasia intraepitelial conjuntival": {
+    "concept_ids": [
+      "C0106"
+    ],
+    "is_ambiguous": false
+  },
+  "Neovascularización": {
+    "concept_ids": [
+      "C0610"
+    ],
+    "is_ambiguous": false
+  },
+  "Neovascularización coroidea": {
+    "concept_ids": [
+      "C0611"
+    ],
+    "is_ambiguous": false
+  },
+  "Neovascularización en disco": {
+    "concept_ids": [
+      "C0613"
+    ],
+    "is_ambiguous": false
+  },
+  "Neovascularización extrapapilar": {
+    "concept_ids": [
+      "C0614"
+    ],
+    "is_ambiguous": false
+  },
+  "Neovascularización macular": {
+    "concept_ids": [
+      "C0615"
+    ],
+    "is_ambiguous": false
+  },
+  "Neovascularización macular no exudativa": {
+    "concept_ids": [
+      "C0616"
+    ],
+    "is_ambiguous": false
+  },
+  "Neovascularización papilar": {
+    "concept_ids": [
+      "C0617"
+    ],
+    "is_ambiguous": false
+  },
+  "Neovascularización retiniana": {
+    "concept_ids": [
+      "C0612"
+    ],
+    "is_ambiguous": false
+  },
+  "Neovascularización subretiniana": {
+    "concept_ids": [
+      "C0618"
+    ],
+    "is_ambiguous": false
+  },
+  "Nervio Troclear": {
+    "concept_ids": [
+      "C0315"
+    ],
+    "is_ambiguous": false
+  },
+  "Nervio abducens": {
+    "concept_ids": [
+      "C0312"
+    ],
+    "is_ambiguous": false
+  },
+  "Nervio craneal II": {
+    "concept_ids": [
+      "C0110"
+    ],
+    "is_ambiguous": false
+  },
+  "Nervio craneal III": {
+    "concept_ids": [
+      "C0313"
+    ],
+    "is_ambiguous": false
+  },
+  "Nervio craneal IV": {
+    "concept_ids": [
+      "C0315"
+    ],
+    "is_ambiguous": false
+  },
+  "Nervio craneal V": {
+    "concept_ids": [
+      "C0314"
+    ],
+    "is_ambiguous": false
+  },
+  "Nervio craneal VI": {
+    "concept_ids": [
+      "C0312"
+    ],
+    "is_ambiguous": false
+  },
+  "Nervio motor ocular común": {
+    "concept_ids": [
+      "C0313"
+    ],
+    "is_ambiguous": false
+  },
+  "Nervio trigémino": {
+    "concept_ids": [
+      "C0314"
+    ],
+    "is_ambiguous": false
+  },
+  "Nervio óptico": {
+    "concept_ids": [
+      "C0110"
+    ],
+    "is_ambiguous": false
+  },
+  "Neuritis or neuropatía óptica": {
+    "concept_ids": [
+      "C0111"
+    ],
+    "is_ambiguous": false
+  },
+  "Neurona bipolar de la retina": {
+    "concept_ids": [
+      "C0226"
+    ],
+    "is_ambiguous": false
+  },
+  "Neuropatía óptica glaucomatosa": {
+    "concept_ids": [
+      "C0600"
+    ],
+    "is_ambiguous": false
+  },
+  "Neuropatía óptica hereditaria de Leber": {
+    "concept_ids": [
+      "C0601"
+    ],
+    "is_ambiguous": false
+  },
+  "Neuropatía óptica isquémica anterior": {
+    "concept_ids": [
+      "C0602"
+    ],
+    "is_ambiguous": false
+  },
+  "Neuropatía óptica isquémica anterior arterítica": {
+    "concept_ids": [
+      "C0603"
+    ],
+    "is_ambiguous": false
+  },
+  "Neuropatía óptica isquémica anterior no arterítica": {
+    "concept_ids": [
+      "C0604"
+    ],
+    "is_ambiguous": false
+  },
+  "Neuropatía óptica isquémica posterior": {
+    "concept_ids": [
+      "C0605"
+    ],
+    "is_ambiguous": false
+  },
+  "Neurorretinopatía macular aguda": {
+    "concept_ids": [
+      "C0598"
+    ],
+    "is_ambiguous": false
+  },
+  "Neurólisis alcohólica": {
+    "concept_ids": [
+      "C0202"
+    ],
+    "is_ambiguous": false
+  },
+  "Nigtasmo latente": {
+    "concept_ids": [
+      "C0597"
+    ],
+    "is_ambiguous": false
+  },
+  "Nistagmo": {
+    "concept_ids": [
+      "C0316"
+    ],
+    "is_ambiguous": false
+  },
+  "Nistagmo optocinético": {
+    "concept_ids": [
+      "C0599"
+    ],
+    "is_ambiguous": false
+  },
+  "Nistagmus": {
+    "concept_ids": [
+      "C0316"
+    ],
+    "is_ambiguous": false
+  },
+  "Nistagmus manifiesto": {
+    "concept_ids": [
+      "C0109"
+    ],
+    "is_ambiguous": false
+  },
+  "No alergias medicamentosas conocidas": {
+    "concept_ids": [
+      "C0595"
+    ],
+    "is_ambiguous": false
+  },
+  "No mejora": {
+    "concept_ids": [
+      "C0108"
+    ],
+    "is_ambiguous": false
+  },
+  "No percepción de luz": {
+    "concept_ids": [
+      "C0606"
+    ],
+    "is_ambiguous": false
+  },
+  "No se toma agudeza visual": {
+    "concept_ids": [
+      "C0401"
+    ],
+    "is_ambiguous": false
+  },
+  "Non invasive Keratograph break-up time": {
+    "concept_ids": [
+      "C0107"
+    ],
+    "is_ambiguous": false
+  },
+  "Núcleo de Edinger–Westphal": {
+    "concept_ids": [
+      "C0317"
+    ],
+    "is_ambiguous": false
+  },
+  "Núcleo geniculado lateral": {
+    "concept_ids": [
+      "C0238"
+    ],
+    "is_ambiguous": false
+  },
+  "Núcleo motor accesorio del Nervio craneal III": {
+    "concept_ids": [
+      "C0317"
+    ],
+    "is_ambiguous": false
+  },
+  "Número de Abbe": {
+    "concept_ids": [
+      "C0318"
+    ],
+    "is_ambiguous": false
+  },
+  "OACR": {
+    "concept_ids": [
+      "C0619"
+    ],
+    "is_ambiguous": false
+  },
+  "OAR": {
+    "concept_ids": [
+      "C0620"
+    ],
+    "is_ambiguous": false
+  },
+  "OBI": {
+    "concept_ids": [
+      "C0621"
+    ],
+    "is_ambiguous": false
+  },
+  "OC": {
+    "concept_ids": [
+      "C0625"
+    ],
+    "is_ambiguous": false
+  },
+  "OCA": {
+    "concept_ids": [
+      "C0622"
+    ],
+    "is_ambiguous": false
+  },
+  "OCP": {
+    "concept_ids": [
+      "C0623"
+    ],
+    "is_ambiguous": false
+  },
+  "OCPE": {
+    "concept_ids": [
+      "C0624"
+    ],
+    "is_ambiguous": false
+  },
+  "OCT": {
+    "concept_ids": [
+      "C0112",
+      "C0180"
+    ],
+    "is_ambiguous": true
+  },
+  "OCTA": {
+    "concept_ids": [
+      "C0113"
+    ],
+    "is_ambiguous": false
+  },
+  "OD": {
+    "concept_ids": [
+      "C0114"
+    ],
+    "is_ambiguous": false
+  },
+  "OEPC": {
+    "concept_ids": [
+      "C0626"
+    ],
+    "is_ambiguous": false
+  },
+  "OG": {
+    "concept_ids": [
+      "C0627"
+    ],
+    "is_ambiguous": false
+  },
+  "OI": {
+    "concept_ids": [
+      "C0115",
+      "C0116"
+    ],
+    "is_ambiguous": true
+  },
+  "OII": {
+    "concept_ids": [
+      "C0628"
+    ],
+    "is_ambiguous": false
+  },
+  "OIN": {
+    "concept_ids": [
+      "C0629"
+    ],
+    "is_ambiguous": false
+  },
+  "ORAR": {
+    "concept_ids": [
+      "C0630"
+    ],
+    "is_ambiguous": false
+  },
+  "ORT": {
+    "concept_ids": [
+      "C0117"
+    ],
+    "is_ambiguous": false
+  },
+  "ORVR": {
+    "concept_ids": [
+      "C0632"
+    ],
+    "is_ambiguous": false
+  },
+  "OS": {
+    "concept_ids": [
+      "C0118",
+      "C0119",
+      "C0120"
+    ],
+    "is_ambiguous": true
+  },
+  "OT": {
+    "concept_ids": [
+      "C0633"
+    ],
+    "is_ambiguous": false
+  },
+  "OU": {
+    "concept_ids": [
+      "C0121"
+    ],
+    "is_ambiguous": false
+  },
+  "OVCR": {
+    "concept_ids": [
+      "C0634"
+    ],
+    "is_ambiguous": false
+  },
+  "OVL": {
+    "concept_ids": [
+      "C0636"
+    ],
+    "is_ambiguous": false
+  },
+  "OVLA": {
+    "concept_ids": [
+      "C0122"
+    ],
+    "is_ambiguous": false
+  },
+  "OVLB": {
+    "concept_ids": [
+      "C0123"
+    ],
+    "is_ambiguous": false
+  },
+  "OVR": {
+    "concept_ids": [
+      "C0635"
+    ],
+    "is_ambiguous": false
+  },
+  "Oblicuo inferior": {
+    "concept_ids": [
+      "C0116"
+    ],
+    "is_ambiguous": false
+  },
+  "Oblicuo superior.": {
+    "concept_ids": [
+      "C0119"
+    ],
+    "is_ambiguous": false
+  },
+  "Obstrucción de la vía lagrimal": {
+    "concept_ids": [
+      "C0636"
+    ],
+    "is_ambiguous": false
+  },
+  "Obstrucción de la vía lagrimal alta": {
+    "concept_ids": [
+      "C0122"
+    ],
+    "is_ambiguous": false
+  },
+  "Obstrucción de la vía lagrimal baja": {
+    "concept_ids": [
+      "C0123"
+    ],
+    "is_ambiguous": false
+  },
+  "Oclusión arterial retiniana": {
+    "concept_ids": [
+      "C0620"
+    ],
+    "is_ambiguous": false
+  },
+  "Oclusión de la arteria central de la retina": {
+    "concept_ids": [
+      "C0619"
+    ],
+    "is_ambiguous": false
+  },
+  "Oclusión de la vena central de la retina": {
+    "concept_ids": [
+      "C0634"
+    ],
+    "is_ambiguous": false
+  },
+  "Oclusión de rama arterial retiniana": {
+    "concept_ids": [
+      "C0630"
+    ],
+    "is_ambiguous": false
+  },
+  "Oclusión de rama venosa retiniana": {
+    "concept_ids": [
+      "C0632"
+    ],
+    "is_ambiguous": false
+  },
+  "Oclusión indirecta": {
+    "concept_ids": [
+      "C0319"
+    ],
+    "is_ambiguous": false
+  },
+  "Oclusión inversa": {
+    "concept_ids": [
+      "C0319"
+    ],
+    "is_ambiguous": false
+  },
+  "Oclusión parcial": {
+    "concept_ids": [
+      "C0320"
+    ],
+    "is_ambiguous": false
+  },
+  "Oclusión sectorial": {
+    "concept_ids": [
+      "C0320"
+    ],
+    "is_ambiguous": false
+  },
+  "Oclusión venosa retiniana": {
+    "concept_ids": [
+      "C0635"
+    ],
+    "is_ambiguous": false
+  },
+  "Oculus sinister": {
+    "concept_ids": [
+      "C0118"
+    ],
+    "is_ambiguous": false
+  },
+  "Oculus uterque en latín": {
+    "concept_ids": [
+      "C0121"
+    ],
+    "is_ambiguous": false
+  },
+  "Oftalmitis simpática": {
+    "concept_ids": [
+      "C0120"
+    ],
+    "is_ambiguous": false
+  },
+  "Oftalmopatía tiroidea": {
+    "concept_ids": [
+      "C0260"
+    ],
+    "is_ambiguous": false
+  },
+  "Oftalmoplejía externa progresiva crónica": {
+    "concept_ids": [
+      "C0626"
+    ],
+    "is_ambiguous": false
+  },
+  "Oftalmoplejía internuclear": {
+    "concept_ids": [
+      "C0629"
+    ],
+    "is_ambiguous": false
+  },
+  "Oftalmoscopio binocular indirecto": {
+    "concept_ids": [
+      "C0621"
+    ],
+    "is_ambiguous": false
+  },
+  "Oftalmía simpática": {
+    "concept_ids": [
+      "C0120"
+    ],
+    "is_ambiguous": false
+  },
+  "Oftalmómetro": {
+    "concept_ids": [
+      "C0323"
+    ],
+    "is_ambiguous": false
+  },
+  "Ojo afáquico": {
+    "concept_ids": [
+      "C0321"
+    ],
+    "is_ambiguous": false
+  },
+  "Ojo amaurótico": {
+    "concept_ids": [
+      "C0324"
+    ],
+    "is_ambiguous": false
+  },
+  "Ojo ciego": {
+    "concept_ids": [
+      "C0324"
+    ],
+    "is_ambiguous": false
+  },
+  "Ojo derecho": {
+    "concept_ids": [
+      "C0114"
+    ],
+    "is_ambiguous": false
+  },
+  "Ojo izquierdo": {
+    "concept_ids": [
+      "C0115"
+    ],
+    "is_ambiguous": false
+  },
+  "Ojo perezoso": {
+    "concept_ids": [
+      "C0325"
+    ],
+    "is_ambiguous": false
+  },
+  "Ojo sin cristalino": {
+    "concept_ids": [
+      "C0321"
+    ],
+    "is_ambiguous": false
+  },
+  "Ojo vago": {
+    "concept_ids": [
+      "C0325"
+    ],
+    "is_ambiguous": false
+  },
+  "Opacidad corneal": {
+    "concept_ids": [
+      "C0625"
+    ],
+    "is_ambiguous": false
+  },
+  "Opacidad de cápsula anterior del cristalino": {
+    "concept_ids": [
+      "C0622"
+    ],
+    "is_ambiguous": false
+  },
+  "Opacidad de cápsula posterior del cristalino": {
+    "concept_ids": [
+      "C0623"
+    ],
+    "is_ambiguous": false
+  },
+  "Optical coherence tomography": {
+    "concept_ids": [
+      "C0112"
+    ],
+    "is_ambiguous": false
+  },
+  "Optical coherence tomography angiography": {
+    "concept_ids": [
+      "C0113"
+    ],
+    "is_ambiguous": false
+  },
+  "Optometrista": {
+    "concept_ids": [
+      "C0322"
+    ],
+    "is_ambiguous": false
+  },
+  "Optometría": {
+    "concept_ids": [
+      "C0322"
+    ],
+    "is_ambiguous": false
+  },
+  "Optómetra": {
+    "concept_ids": [
+      "C0322"
+    ],
+    "is_ambiguous": false
+  },
+  "Orbitopatía de Graves": {
+    "concept_ids": [
+      "C0627"
+    ],
+    "is_ambiguous": false
+  },
+  "Orbitopatía inflamatoria idiopática": {
+    "concept_ids": [
+      "C0628"
+    ],
+    "is_ambiguous": false
+  },
+  "Orbitopatía tiroidea": {
+    "concept_ids": [
+      "C0633"
+    ],
+    "is_ambiguous": false
+  },
+  "Orto-K": {
+    "concept_ids": [
+      "C0631"
+    ],
+    "is_ambiguous": false
+  },
+  "Ortoqueratología": {
+    "concept_ids": [
+      "C0631"
+    ],
+    "is_ambiguous": false
+  },
+  "Otalmoplejia cronica progresiva externa": {
+    "concept_ids": [
+      "C0624"
+    ],
+    "is_ambiguous": false
+  },
+  "Outer retinal tubulation": {
+    "concept_ids": [
+      "C0117"
+    ],
+    "is_ambiguous": false
+  },
+  "P-F": {
+    "concept_ids": [
+      "C0637"
+    ],
+    "is_ambiguous": false
+  },
+  "PAKI": {
+    "concept_ids": [
+      "C0638"
+    ],
+    "is_ambiguous": false
+  },
+  "PAR": {
+    "concept_ids": [
+      "C0124"
+    ],
+    "is_ambiguous": false
+  },
+  "PC": {
+    "concept_ids": [
+      "C0645"
+    ],
+    "is_ambiguous": false
+  },
+  "PCA": {
+    "concept_ids": [
+      "C0646"
+    ],
+    "is_ambiguous": false
+  },
+  "PCC": {
+    "concept_ids": [
+      "C0647"
+    ],
+    "is_ambiguous": false
+  },
+  "PCV": {
+    "concept_ids": [
+      "C0186"
+    ],
+    "is_ambiguous": false
+  },
+  "PDI": {
+    "concept_ids": [
+      "C0648"
+    ],
+    "is_ambiguous": false
+  },
+  "PEV": {
+    "concept_ids": [
+      "C0649"
+    ],
+    "is_ambiguous": false
+  },
+  "PEX": {
+    "concept_ids": [
+      "C0125",
+      "C0175"
+    ],
+    "is_ambiguous": true
+  },
+  "PFC": {
+    "concept_ids": [
+      "C0126",
+      "C0127"
+    ],
+    "is_ambiguous": true
+  },
+  "PFCL": {
+    "concept_ids": [
+      "C0650"
+    ],
+    "is_ambiguous": false
+  },
+  "PFRC": {
+    "concept_ids": [
+      "C0127"
+    ],
+    "is_ambiguous": false
+  },
+  "PGF2α": {
+    "concept_ids": [
+      "C0203"
+    ],
+    "is_ambiguous": false
+  },
+  "PI": {
+    "concept_ids": [
+      "C0651"
+    ],
+    "is_ambiguous": false
+  },
+  "PIC": {
+    "concept_ids": [
+      "C0129"
+    ],
+    "is_ambiguous": false
+  },
+  "PICNR": {
+    "concept_ids": [
+      "C0652"
+    ],
+    "is_ambiguous": false
+  },
+  "PID": {
+    "concept_ids": [
+      "C0653"
+    ],
+    "is_ambiguous": false
+  },
+  "PII": {
+    "concept_ids": [
+      "C0654"
+    ],
+    "is_ambiguous": false
+  },
+  "PIIIPC": {
+    "concept_ids": [
+      "C0639"
+    ],
+    "is_ambiguous": false
+  },
+  "PILO": {
+    "concept_ids": [
+      "C0655"
+    ],
+    "is_ambiguous": false
+  },
+  "PINLA": {
+    "concept_ids": [
+      "C0656"
+    ],
+    "is_ambiguous": false
+  },
+  "PIO": {
+    "concept_ids": [
+      "C0339"
+    ],
+    "is_ambiguous": false
+  },
+  "PIOD": {
+    "concept_ids": [
+      "C0657"
+    ],
+    "is_ambiguous": false
+  },
+  "PIOI": {
+    "concept_ids": [
+      "C0658"
+    ],
+    "is_ambiguous": false
+  },
+  "PIOU": {
+    "concept_ids": [
+      "C0130"
+    ],
+    "is_ambiguous": false
+  },
+  "PIRRLA": {
+    "concept_ids": [
+      "C0659"
+    ],
+    "is_ambiguous": false
+  },
+  "PIVPC": {
+    "concept_ids": [
+      "C0641"
+    ],
+    "is_ambiguous": false
+  },
+  "PK": {
+    "concept_ids": [
+      "C0132"
+    ],
+    "is_ambiguous": false
+  },
+  "PKE": {
+    "concept_ids": [
+      "C0133"
+    ],
+    "is_ambiguous": false
+  },
+  "PKP": {
+    "concept_ids": [
+      "C0134"
+    ],
+    "is_ambiguous": false
+  },
+  "PL": {
+    "concept_ids": [
+      "C0135",
+      "C0136"
+    ],
+    "is_ambiguous": true
+  },
+  "PLC": {
+    "concept_ids": [
+      "C0660"
+    ],
+    "is_ambiguous": false
+  },
+  "PLLA": {
+    "concept_ids": [
+      "C0661"
+    ],
+    "is_ambiguous": false
+  },
+  "PMMA": {
+    "concept_ids": [
+      "C0335"
+    ],
+    "is_ambiguous": false
+  },
+  "PNR": {
+    "concept_ids": [
+      "C0662"
+    ],
+    "is_ambiguous": false
+  },
+  "POM": {
+    "concept_ids": [
+      "C0137",
+      "C0138"
+    ],
+    "is_ambiguous": true
+  },
+  "PP": {
+    "concept_ids": [
+      "C0139",
+      "C0140"
+    ],
+    "is_ambiguous": true
+  },
+  "PPC": {
+    "concept_ids": [
+      "C0344"
+    ],
+    "is_ambiguous": false
+  },
+  "PPL": {
+    "concept_ids": [
+      "C0663"
+    ],
+    "is_ambiguous": false
+  },
+  "PPM": {
+    "concept_ids": [
+      "C0336"
+    ],
+    "is_ambiguous": false
+  },
+  "PQ": {
+    "concept_ids": [
+      "C0638"
+    ],
+    "is_ambiguous": false
+  },
+  "PRFC": {
+    "concept_ids": [
+      "C0127"
+    ],
+    "is_ambiguous": false
+  },
+  "PRGF": {
+    "concept_ids": [
+      "C0141"
+    ],
+    "is_ambiguous": false
+  },
+  "PRK": {
+    "concept_ids": [
+      "C0664"
+    ],
+    "is_ambiguous": false
+  },
+  "PS": {
+    "concept_ids": [
+      "C0665"
+    ],
+    "is_ambiguous": false
+  },
+  "PSD": {
+    "concept_ids": [
+      "C0666"
+    ],
+    "is_ambiguous": false
+  },
+  "PSF": {
+    "concept_ids": [
+      "C0668"
+    ],
+    "is_ambiguous": false
+  },
+  "PSFC": {
+    "concept_ids": [
+      "C0126"
+    ],
+    "is_ambiguous": false
+  },
+  "PSI": {
+    "concept_ids": [
+      "C0667"
+    ],
+    "is_ambiguous": false
+  },
+  "PSOD": {
+    "concept_ids": [
+      "C0669"
+    ],
+    "is_ambiguous": false
+  },
+  "PSOI": {
+    "concept_ids": [
+      "C0670"
+    ],
+    "is_ambiguous": false
+  },
+  "PSOU": {
+    "concept_ids": [
+      "C0131"
+    ],
+    "is_ambiguous": false
+  },
+  "PSQ": {
+    "concept_ids": [
+      "C0668"
+    ],
+    "is_ambiguous": false
+  },
+  "PSX": {
+    "concept_ids": [
+      "C0125"
+    ],
+    "is_ambiguous": false
+  },
+  "PTK": {
+    "concept_ids": [
+      "C0142"
+    ],
+    "is_ambiguous": false
+  },
+  "PUK": {
+    "concept_ids": [
+      "C0143",
+      "C0152"
+    ],
+    "is_ambiguous": true
+  },
+  "PVE": {
+    "concept_ids": [
+      "C0144",
+      "C0145"
+    ],
+    "is_ambiguous": true
+  },
+  "PVF": {
+    "concept_ids": [
+      "C0671"
+    ],
+    "is_ambiguous": false
+  },
+  "PVIPC": {
+    "concept_ids": [
+      "C0643"
+    ],
+    "is_ambiguous": false
+  },
+  "PVR": {
+    "concept_ids": [
+      "C0672"
+    ],
+    "is_ambiguous": false
+  },
+  "Panfotorretinocoagulación or panrretinofotocoagulación con láser argón or Panfotocoagulación": {
+    "concept_ids": [
+      "C0127"
+    ],
+    "is_ambiguous": false
+  },
+  "Papila del nervio óptico": {
+    "concept_ids": [
+      "C0327"
+    ],
+    "is_ambiguous": false
+  },
+  "Papila óptica": {
+    "concept_ids": [
+      "C0327"
+    ],
+    "is_ambiguous": false
+  },
+  "Papiledema": {
+    "concept_ids": [
+      "C0326"
+    ],
+    "is_ambiguous": false
+  },
+  "Paquimetría": {
+    "concept_ids": [
+      "C0638"
+    ],
+    "is_ambiguous": false
+  },
+  "Par craneal": {
+    "concept_ids": [
+      "C0645"
+    ],
+    "is_ambiguous": false
+  },
+  "Parasimpaticolíticos": {
+    "concept_ids": [
+      "C0209"
+    ],
+    "is_ambiguous": false
+  },
+  "Paresia del III par craneal": {
+    "concept_ids": [
+      "C0640"
+    ],
+    "is_ambiguous": false
+  },
+  "Paresia del IV para craneal": {
+    "concept_ids": [
+      "C0642"
+    ],
+    "is_ambiguous": false
+  },
+  "Paresia del VI par craneal": {
+    "concept_ids": [
+      "C0644"
+    ],
+    "is_ambiguous": false
+  },
+  "Pars pigmentosa": {
+    "concept_ids": [
+      "C0222"
+    ],
+    "is_ambiguous": false
+  },
+  "Pars plana": {
+    "concept_ids": [
+      "C0140"
+    ],
+    "is_ambiguous": false
+  },
+  "Parte pigmentosa": {
+    "concept_ids": [
+      "C0222"
+    ],
+    "is_ambiguous": false
+  },
+  "Parálisis Oculomotora": {
+    "concept_ids": [
+      "C0138"
+    ],
+    "is_ambiguous": false
+  },
+  "Parálisis del III par craneal": {
+    "concept_ids": [
+      "C0639"
+    ],
+    "is_ambiguous": false
+  },
+  "Parálisis del IV par craneal": {
+    "concept_ids": [
+      "C0641"
+    ],
+    "is_ambiguous": false
+  },
+  "Parálisis del VI par craneal": {
+    "concept_ids": [
+      "C0643"
+    ],
+    "is_ambiguous": false
+  },
+  "Pedículo óptico": {
+    "concept_ids": [
+      "C0329"
+    ],
+    "is_ambiguous": false
+  },
+  "Película lagrimal": {
+    "concept_ids": [
+      "C0273"
+    ],
+    "is_ambiguous": false
+  },
+  "Penetrating keratoplasty": {
+    "concept_ids": [
+      "C0134"
+    ],
+    "is_ambiguous": false
+  },
+  "Penfigoide de las membranas mucosas": {
+    "concept_ids": [
+      "C0328"
+    ],
+    "is_ambiguous": false
+  },
+  "Percepción de luz": {
+    "concept_ids": [
+      "C0135"
+    ],
+    "is_ambiguous": false
+  },
+  "Percepción y proyección luminosa": {
+    "concept_ids": [
+      "C0663"
+    ],
+    "is_ambiguous": false
+  },
+  "Perfluorocarbono líquido": {
+    "concept_ids": [
+      "C0650"
+    ],
+    "is_ambiguous": false
+  },
+  "Perfluoropropano": {
+    "concept_ids": [
+      "C0426"
+    ],
+    "is_ambiguous": false
+  },
+  "Perimetría": {
+    "concept_ids": [
+      "C0330"
+    ],
+    "is_ambiguous": false
+  },
+  "Peripheral ulcerative keratitis": {
+    "concept_ids": [
+      "C0143"
+    ],
+    "is_ambiguous": false
+  },
+  "Permeabilidad y transmisibilidad": {
+    "concept_ids": [
+      "C0248"
+    ],
+    "is_ambiguous": false
+  },
+  "Persistencia de vasculatura fetal": {
+    "concept_ids": [
+      "C0671"
+    ],
+    "is_ambiguous": false
+  },
+  "Phototherapeutic keratectomy": {
+    "concept_ids": [
+      "C0142"
+    ],
+    "is_ambiguous": false
+  },
+  "Pilocarpina": {
+    "concept_ids": [
+      "C0655"
+    ],
+    "is_ambiguous": false
+  },
+  "Pinhole": {
+    "concept_ids": [
+      "C0128"
+    ],
+    "is_ambiguous": false
+  },
+  "Planos principales": {
+    "concept_ids": [
+      "C0331"
+    ],
+    "is_ambiguous": false
+  },
+  "Plasma rich in growth factors": {
+    "concept_ids": [
+      "C0141"
+    ],
+    "is_ambiguous": false
+  },
+  "Poder de alineamiento": {
+    "concept_ids": [
+      "C0200"
+    ],
+    "is_ambiguous": false
+  },
+  "Poder de resolución": {
+    "concept_ids": [
+      "C0332"
+    ],
+    "is_ambiguous": false
+  },
+  "Polarimetria láser": {
+    "concept_ids": [
+      "C0076"
+    ],
+    "is_ambiguous": false
+  },
+  "Polarizador": {
+    "concept_ids": [
+      "C0333"
+    ],
+    "is_ambiguous": false
+  },
+  "Polimetilmetacrilato": {
+    "concept_ids": [
+      "C0335"
+    ],
+    "is_ambiguous": false
+  },
+  "Poliopia": {
+    "concept_ids": [
+      "C0334"
+    ],
+    "is_ambiguous": false
+  },
+  "Polo posterior": {
+    "concept_ids": [
+      "C0139"
+    ],
+    "is_ambiguous": false
+  },
+  "Pomada": {
+    "concept_ids": [
+      "C0137"
+    ],
+    "is_ambiguous": false
+  },
+  "Pomada de Icol": {
+    "concept_ids": [
+      "C0648"
+    ],
+    "is_ambiguous": false
+  },
+  "Porción óptica de la retina": {
+    "concept_ids": [
+      "C0351"
+    ],
+    "is_ambiguous": false
+  },
+  "Portador de lentes de contacto": {
+    "concept_ids": [
+      "C0660"
+    ],
+    "is_ambiguous": false
+  },
+  "Posición cefálica anormal": {
+    "concept_ids": [
+      "C0646"
+    ],
+    "is_ambiguous": false
+  },
+  "Posición cefálica compensadora": {
+    "concept_ids": [
+      "C0647"
+    ],
+    "is_ambiguous": false
+  },
+  "Posición primaria de la mirada": {
+    "concept_ids": [
+      "C0336"
+    ],
+    "is_ambiguous": false
+  },
+  "Posición primaria de mirada": {
+    "concept_ids": [
+      "C0336"
+    ],
+    "is_ambiguous": false
+  },
+  "Potenciales evocados visuales": {
+    "concept_ids": [
+      "C0649"
+    ],
+    "is_ambiguous": false
+  },
+  "Potenciales visuales evocados": {
+    "concept_ids": [
+      "C0145"
+    ],
+    "is_ambiguous": false
+  },
+  "Precipitado retroquerático": {
+    "concept_ids": [
+      "C0664"
+    ],
+    "is_ambiguous": false
+  },
+  "Precipitados keratic endoteliales": {
+    "concept_ids": [
+      "C0133"
+    ],
+    "is_ambiguous": false
+  },
+  "Precipitados keratic-endoteliales": {
+    "concept_ids": [
+      "C0133"
+    ],
+    "is_ambiguous": false
+  },
+  "Precipitados querato endoteliales": {
+    "concept_ids": [
+      "C0133"
+    ],
+    "is_ambiguous": false
+  },
+  "Precipitados querato-endoteliales": {
+    "concept_ids": [
+      "C0133"
+    ],
+    "is_ambiguous": false
+  },
+  "Precipitados queráticos": {
+    "concept_ids": [
+      "C0132"
+    ],
+    "is_ambiguous": false
+  },
+  "Pred-forte": {
+    "concept_ids": [
+      "C0637"
+    ],
+    "is_ambiguous": false
+  },
+  "Presbicia": {
+    "concept_ids": [
+      "C0337"
+    ],
+    "is_ambiguous": false
+  },
+  "Presbicie": {
+    "concept_ids": [
+      "C0337"
+    ],
+    "is_ambiguous": false
+  },
+  "Prescripción optométrica": {
+    "concept_ids": [
+      "C0338"
+    ],
+    "is_ambiguous": false
+  },
+  "Prescripción óptica": {
+    "concept_ids": [
+      "C0338"
+    ],
+    "is_ambiguous": false
+  },
+  "Presión intraocular": {
+    "concept_ids": [
+      "C0339"
+    ],
+    "is_ambiguous": false
+  },
+  "Prisma de balastro": {
+    "concept_ids": [
+      "C0340"
+    ],
+    "is_ambiguous": false
+  },
+  "Prisma rotatorio de Risley": {
+    "concept_ids": [
+      "C0341"
+    ],
+    "is_ambiguous": false
+  },
+  "Proliferación angiomatosa retiniana": {
+    "concept_ids": [
+      "C0124"
+    ],
+    "is_ambiguous": false
+  },
+  "Proliferación vitreorretiniana": {
+    "concept_ids": [
+      "C0672"
+    ],
+    "is_ambiguous": false
+  },
+  "Proptosis": {
+    "concept_ids": [
+      "C0264"
+    ],
+    "is_ambiguous": false
+  },
+  "Protanope": {
+    "concept_ids": [
+      "C0342"
+    ],
+    "is_ambiguous": false
+  },
+  "Protanopia": {
+    "concept_ids": [
+      "C0239"
+    ],
+    "is_ambiguous": false
+  },
+  "Protanómalo": {
+    "concept_ids": [
+      "C0343"
+    ],
+    "is_ambiguous": false
+  },
+  "Protrusión ocular": {
+    "concept_ids": [
+      "C0264"
+    ],
+    "is_ambiguous": false
+  },
+  "Prótesis oculopalpebral": {
+    "concept_ids": [
+      "C0360"
+    ],
+    "is_ambiguous": false
+  },
+  "Pseudoexfoliación": {
+    "concept_ids": [
+      "C0125"
+    ],
+    "is_ambiguous": false
+  },
+  "Pseudofaquia": {
+    "concept_ids": [
+      "C0668"
+    ],
+    "is_ambiguous": false
+  },
+  "Pseudofaquia correcta": {
+    "concept_ids": [
+      "C0126"
+    ],
+    "is_ambiguous": false
+  },
+  "Pseudoxantoma elástico": {
+    "concept_ids": [
+      "C0175"
+    ],
+    "is_ambiguous": false
+  },
+  "Pulso venoso espontáneo": {
+    "concept_ids": [
+      "C0144"
+    ],
+    "is_ambiguous": false
+  },
+  "Punctate inner coroidopathy": {
+    "concept_ids": [
+      "C0129"
+    ],
+    "is_ambiguous": false
+  },
+  "Punto lagrimal": {
+    "concept_ids": [
+      "C0136"
+    ],
+    "is_ambiguous": false
+  },
+  "Punto próximo de convergencia": {
+    "concept_ids": [
+      "C0344"
+    ],
+    "is_ambiguous": false
+  },
+  "Puntos lagrimales limpios y abiertos": {
+    "concept_ids": [
+      "C0661"
+    ],
+    "is_ambiguous": false
+  },
+  "Puntos principales": {
+    "concept_ids": [
+      "C0331"
+    ],
+    "is_ambiguous": false
+  },
+  "Pupilas isocóricas normorreactivas": {
+    "concept_ids": [
+      "C0652"
+    ],
+    "is_ambiguous": false
+  },
+  "Pupilas isocóricas normorreactivas a la luz y la acomodación": {
+    "concept_ids": [
+      "C0656"
+    ],
+    "is_ambiguous": false
+  },
+  "Pupilas isocóricas redondas reactivas a la luz y la acomodación": {
+    "concept_ids": [
+      "C0659"
+    ],
+    "is_ambiguous": false
+  },
+  "Pupilas normorreactivas": {
+    "concept_ids": [
+      "C0662"
+    ],
+    "is_ambiguous": false
+  },
+  "Párpado inferior": {
+    "concept_ids": [
+      "C0651"
+    ],
+    "is_ambiguous": false
+  },
+  "Párpado inferior de ambos ojos": {
+    "concept_ids": [
+      "C0130"
+    ],
+    "is_ambiguous": false
+  },
+  "Párpado inferior del ojo derecho": {
+    "concept_ids": [
+      "C0657"
+    ],
+    "is_ambiguous": false
+  },
+  "Párpado inferior del ojo izquierdo": {
+    "concept_ids": [
+      "C0658"
+    ],
+    "is_ambiguous": false
+  },
+  "Párpado inferior derecho": {
+    "concept_ids": [
+      "C0653"
+    ],
+    "is_ambiguous": false
+  },
+  "Párpado inferior izquierdo": {
+    "concept_ids": [
+      "C0654"
+    ],
+    "is_ambiguous": false
+  },
+  "Párpado superior": {
+    "concept_ids": [
+      "C0665"
+    ],
+    "is_ambiguous": false
+  },
+  "Párpado superior de ambos ojos": {
+    "concept_ids": [
+      "C0131"
+    ],
+    "is_ambiguous": false
+  },
+  "Párpado superior del ojo derecho": {
+    "concept_ids": [
+      "C0669"
+    ],
+    "is_ambiguous": false
+  },
+  "Párpado superior del ojo izquierdo": {
+    "concept_ids": [
+      "C0670"
+    ],
+    "is_ambiguous": false
+  },
+  "Párpado superior derecho": {
+    "concept_ids": [
+      "C0666"
+    ],
+    "is_ambiguous": false
+  },
+  "Párpado superior izquierdo": {
+    "concept_ids": [
+      "C0667"
+    ],
+    "is_ambiguous": false
+  },
+  "Púrpura visual": {
+    "concept_ids": [
+      "C0354"
+    ],
+    "is_ambiguous": false
+  },
+  "Q": {
+    "concept_ids": [
+      "C0146"
+    ],
+    "is_ambiguous": false
+  },
+  "QA": {
+    "concept_ids": [
+      "C0673"
+    ],
+    "is_ambiguous": false
+  },
+  "QAA": {
+    "concept_ids": [
+      "C0674"
+    ],
+    "is_ambiguous": false
+  },
+  "QC": {
+    "concept_ids": [
+      "C0147",
+      "C0148"
+    ],
+    "is_ambiguous": true
+  },
+  "QCA": {
+    "concept_ids": [
+      "C0675"
+    ],
+    "is_ambiguous": false
+  },
+  "QCE": {
+    "concept_ids": [
+      "C0676"
+    ],
+    "is_ambiguous": false
+  },
+  "QCS": {
+    "concept_ids": [
+      "C0149"
+    ],
+    "is_ambiguous": false
+  },
+  "QCV": {
+    "concept_ids": [
+      "C0677"
+    ],
+    "is_ambiguous": false
+  },
+  "QI": {
+    "concept_ids": [
+      "C0678"
+    ],
+    "is_ambiguous": false
+  },
+  "QLS": {
+    "concept_ids": [
+      "C0679"
+    ],
+    "is_ambiguous": false
+  },
+  "QP": {
+    "concept_ids": [
+      "C0150"
+    ],
+    "is_ambiguous": false
+  },
+  "QPP": {
+    "concept_ids": [
+      "C0150"
+    ],
+    "is_ambiguous": false
+  },
+  "QPS": {
+    "concept_ids": [
+      "C0151"
+    ],
+    "is_ambiguous": false
+  },
+  "QUP": {
+    "concept_ids": [
+      "C0152"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratitis dendrítica": {
+    "concept_ids": [
+      "C0345"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratitis herpética": {
+    "concept_ids": [
+      "C0345"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratitis intersticial": {
+    "concept_ids": [
+      "C0678"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratitis punteada or punctata superficial": {
+    "concept_ids": [
+      "C0151"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratitis ulcerativa periférica": {
+    "concept_ids": [
+      "C0152"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratoconjuntivitis": {
+    "concept_ids": [
+      "C0148"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratoconjuntivitis atópica": {
+    "concept_ids": [
+      "C0675"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratoconjuntivitis epidémica": {
+    "concept_ids": [
+      "C0676"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratoconjuntivitis límbica superior": {
+    "concept_ids": [
+      "C0679"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratoconjuntivitis seca or sicca": {
+    "concept_ids": [
+      "C0149"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratoconjuntivitis vernal": {
+    "concept_ids": [
+      "C0677"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratocono": {
+    "concept_ids": [
+      "C0147"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratomalacia": {
+    "concept_ids": [
+      "C0347"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratopatía ampollosa afáquica": {
+    "concept_ids": [
+      "C0674"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratoplastia penetrante": {
+    "concept_ids": [
+      "C0150"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratoplastía": {
+    "concept_ids": [
+      "C0346"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratotomí radial": {
+    "concept_ids": [
+      "C0094"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratotomía astigmática": {
+    "concept_ids": [
+      "C0673"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratotoro": {
+    "concept_ids": [
+      "C0241"
+    ],
+    "is_ambiguous": false
+  },
+  "Queratómetro": {
+    "concept_ids": [
+      "C0323"
+    ],
+    "is_ambiguous": false
+  },
+  "Quiste de Meibomio": {
+    "concept_ids": [
+      "C0227"
+    ],
+    "is_ambiguous": false
+  },
+  "RAC": {
+    "concept_ids": [
+      "C0680"
+    ],
+    "is_ambiguous": false
+  },
+  "RAI": {
+    "concept_ids": [
+      "C0682"
+    ],
+    "is_ambiguous": false
+  },
+  "RAM": {
+    "concept_ids": [
+      "C0681"
+    ],
+    "is_ambiguous": false
+  },
+  "RAP": {
+    "concept_ids": [
+      "C0124",
+      "C0153"
+    ],
+    "is_ambiguous": true
+  },
+  "RB": {
+    "concept_ids": [
+      "C0154"
+    ],
+    "is_ambiguous": false
+  },
+  "RBA": {
+    "concept_ids": [
+      "C0683"
+    ],
+    "is_ambiguous": false
+  },
+  "RC": {
+    "concept_ids": [
+      "C0684"
+    ],
+    "is_ambiguous": false
+  },
+  "RCD": {
+    "concept_ids": [
+      "C0155"
+    ],
+    "is_ambiguous": false
+  },
+  "RD": {
+    "concept_ids": [
+      "C0685"
+    ],
+    "is_ambiguous": false
+  },
+  "RDNP": {
+    "concept_ids": [
+      "C0686"
+    ],
+    "is_ambiguous": false
+  },
+  "RDP": {
+    "concept_ids": [
+      "C0687"
+    ],
+    "is_ambiguous": false
+  },
+  "RDPP": {
+    "concept_ids": [
+      "C0688"
+    ],
+    "is_ambiguous": false
+  },
+  "RDQ": {
+    "concept_ids": [
+      "C0689"
+    ],
+    "is_ambiguous": false
+  },
+  "REOZA": {
+    "concept_ids": [
+      "C0156"
+    ],
+    "is_ambiguous": false
+  },
+  "REP": {
+    "concept_ids": [
+      "C0157"
+    ],
+    "is_ambiguous": false
+  },
+  "RETINO": {
+    "concept_ids": [
+      "C0690"
+    ],
+    "is_ambiguous": false
+  },
+  "REVA": {
+    "concept_ids": [
+      "C0691"
+    ],
+    "is_ambiguous": false
+  },
+  "REVP": {
+    "concept_ids": [
+      "C0692"
+    ],
+    "is_ambiguous": false
+  },
+  "RF": {
+    "concept_ids": [
+      "C0693"
+    ],
+    "is_ambiguous": false
+  },
+  "RFG": {
+    "concept_ids": [
+      "C0352"
+    ],
+    "is_ambiguous": false
+  },
+  "RI": {
+    "concept_ids": [
+      "C0694"
+    ],
+    "is_ambiguous": false
+  },
+  "RL": {
+    "concept_ids": [
+      "C0695"
+    ],
+    "is_ambiguous": false
+  },
+  "RM": {
+    "concept_ids": [
+      "C0696"
+    ],
+    "is_ambiguous": false
+  },
+  "RNFL": {
+    "concept_ids": [
+      "C0158"
+    ],
+    "is_ambiguous": false
+  },
+  "RNR": {
+    "concept_ids": [
+      "C0697"
+    ],
+    "is_ambiguous": false
+  },
+  "RNS": {
+    "concept_ids": [
+      "C0698"
+    ],
+    "is_ambiguous": false
+  },
+  "ROP": {
+    "concept_ids": [
+      "C0159"
+    ],
+    "is_ambiguous": false
+  },
+  "RP": {
+    "concept_ids": [
+      "C0699"
+    ],
+    "is_ambiguous": false
+  },
+  "RPE": {
+    "concept_ids": [
+      "C0160"
+    ],
+    "is_ambiguous": false
+  },
+  "RPE elevation": {
+    "concept_ids": [
+      "C0168"
+    ],
+    "is_ambiguous": false
+  },
+  "RS": {
+    "concept_ids": [
+      "C0161",
+      "C0162"
+    ],
+    "is_ambiguous": true
+  },
+  "RSC": {
+    "concept_ids": [
+      "C0700"
+    ],
+    "is_ambiguous": false
+  },
+  "RTG": {
+    "concept_ids": [
+      "C0701"
+    ],
+    "is_ambiguous": false
+  },
+  "RX": {
+    "concept_ids": [
+      "C0702"
+    ],
+    "is_ambiguous": false
+  },
+  "Radiacion óptica": {
+    "concept_ids": [
+      "C0348"
+    ],
+    "is_ambiguous": false
+  },
+  "Radio de curvatura": {
+    "concept_ids": [
+      "C0350"
+    ],
+    "is_ambiguous": false
+  },
+  "Rb": {
+    "concept_ids": [
+      "C0154"
+    ],
+    "is_ambiguous": false
+  },
+  "Recto inferior": {
+    "concept_ids": [
+      "C0694"
+    ],
+    "is_ambiguous": false
+  },
+  "Recto lateral": {
+    "concept_ids": [
+      "C0695"
+    ],
+    "is_ambiguous": false
+  },
+  "Recto medio": {
+    "concept_ids": [
+      "C0696"
+    ],
+    "is_ambiguous": false
+  },
+  "Recto superior": {
+    "concept_ids": [
+      "C0161"
+    ],
+    "is_ambiguous": false
+  },
+  "Reflejo foveolar": {
+    "concept_ids": [
+      "C0693"
+    ],
+    "is_ambiguous": false
+  },
+  "Reflexión Especular de la Luz": {
+    "concept_ids": [
+      "C0299"
+    ],
+    "is_ambiguous": false
+  },
+  "Refracción": {
+    "concept_ids": [
+      "C0702"
+    ],
+    "is_ambiguous": false
+  },
+  "Refracción bajo ciclopiegia": {
+    "concept_ids": [
+      "C0349"
+    ],
+    "is_ambiguous": false
+  },
+  "Refracción cicloplégica": {
+    "concept_ids": [
+      "C0349"
+    ],
+    "is_ambiguous": false
+  },
+  "Refracción ciclopléjica": {
+    "concept_ids": [
+      "C0684"
+    ],
+    "is_ambiguous": false
+  },
+  "Refracción de la Luz en una Interfaz Plana": {
+    "concept_ids": [
+      "C0300"
+    ],
+    "is_ambiguous": false
+  },
+  "Refracción subjetiva": {
+    "concept_ids": [
+      "C0162"
+    ],
+    "is_ambiguous": false
+  },
+  "Registro de demanda quirúrgica": {
+    "concept_ids": [
+      "C0689"
+    ],
+    "is_ambiguous": false
+  },
+  "Reinserción del músculo elevador del párpado superior por vía anterior": {
+    "concept_ids": [
+      "C0691"
+    ],
+    "is_ambiguous": false
+  },
+  "Reinserción del músculo elevador del párpado superior por vía posterior": {
+    "concept_ids": [
+      "C0692"
+    ],
+    "is_ambiguous": false
+  },
+  "Relación arteria-vena": {
+    "concept_ids": [
+      "C0001"
+    ],
+    "is_ambiguous": false
+  },
+  "Relación arteriola vénula": {
+    "concept_ids": [
+      "C0001"
+    ],
+    "is_ambiguous": false
+  },
+  "Relación arteriola-vénula": {
+    "concept_ids": [
+      "C0001"
+    ],
+    "is_ambiguous": false
+  },
+  "Relación arteriola/vénula": {
+    "concept_ids": [
+      "C0001"
+    ],
+    "is_ambiguous": false
+  },
+  "Relación or ratio copa-disco": {
+    "concept_ids": [
+      "C0155"
+    ],
+    "is_ambiguous": false
+  },
+  "Relación or ratio excavación-papila": {
+    "concept_ids": [
+      "C0157"
+    ],
+    "is_ambiguous": false
+  },
+  "Relación ángulo de convergencia-acomodación": {
+    "concept_ids": [
+      "C0374"
+    ],
+    "is_ambiguous": false
+  },
+  "Retina": {
+    "concept_ids": [
+      "C0351"
+    ],
+    "is_ambiguous": false
+  },
+  "Retina bien aplicada": {
+    "concept_ids": [
+      "C0683"
+    ],
+    "is_ambiguous": false
+  },
+  "Retina neurosensorial": {
+    "concept_ids": [
+      "C0698"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinal angiomatous proliferation": {
+    "concept_ids": [
+      "C0153"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinal nerve fiber layer": {
+    "concept_ids": [
+      "C0158"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinal pigment epithelium": {
+    "concept_ids": [
+      "C0160"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinoblastoma": {
+    "concept_ids": [
+      "C0154"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinofluoresceinografía": {
+    "concept_ids": [
+      "C0352"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinografía": {
+    "concept_ids": [
+      "C0690"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinografía o retinógrafo": {
+    "concept_ids": [
+      "C0701"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinopathy of prematurity": {
+    "concept_ids": [
+      "C0159"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinopatía asociada a cáncer": {
+    "concept_ids": [
+      "C0680"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinopatía asociada a melanoma": {
+    "concept_ids": [
+      "C0681"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinopatía autoinmune": {
+    "concept_ids": [
+      "C0682"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinopatía diabética": {
+    "concept_ids": [
+      "C0685"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinopatía diabética no proliferativa": {
+    "concept_ids": [
+      "C0686"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinopatía diabética preproliferativa": {
+    "concept_ids": [
+      "C0688"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinopatía diabética proliferativa": {
+    "concept_ids": [
+      "C0687"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinopatía externa oculta zonal aguda": {
+    "concept_ids": [
+      "C0156"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinopatía pigmentaria": {
+    "concept_ids": [
+      "C0353"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinopatía serosa central": {
+    "concept_ids": [
+      "C0700"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinosis": {
+    "concept_ids": [
+      "C0353"
+    ],
+    "is_ambiguous": false
+  },
+  "Retinosis pigmentaria": {
+    "concept_ids": [
+      "C0699"
+    ],
+    "is_ambiguous": false
+  },
+  "Rodete neurorretiniano": {
+    "concept_ids": [
+      "C0697"
+    ],
+    "is_ambiguous": false
+  },
+  "Rodopsina": {
+    "concept_ids": [
+      "C0354"
+    ],
+    "is_ambiguous": false
+  },
+  "SA": {
+    "concept_ids": [
+      "C0703"
+    ],
+    "is_ambiguous": false
+  },
+  "SALK": {
+    "concept_ids": [
+      "C0163"
+    ],
+    "is_ambiguous": false
+  },
+  "SAP": {
+    "concept_ids": [
+      "C0704"
+    ],
+    "is_ambiguous": false
+  },
+  "SAVM": {
+    "concept_ids": [
+      "C0705"
+    ],
+    "is_ambiguous": false
+  },
+  "SC": {
+    "concept_ids": [
+      "C0164",
+      "C0165"
+    ],
+    "is_ambiguous": true
+  },
+  "SCAP": {
+    "concept_ids": [
+      "C0708"
+    ],
+    "is_ambiguous": false
+  },
+  "SCE": {
+    "concept_ids": [
+      "C0706"
+    ],
+    "is_ambiguous": false
+  },
+  "SCO": {
+    "concept_ids": [
+      "C0707"
+    ],
+    "is_ambiguous": false
+  },
+  "SCP": {
+    "concept_ids": [
+      "C0166"
+    ],
+    "is_ambiguous": false
+  },
+  "SD": {
+    "concept_ids": [
+      "C0167"
+    ],
+    "is_ambiguous": false
+  },
+  "SD/Sd": {
+    "concept_ids": [
+      "C0167"
+    ],
+    "is_ambiguous": false
+  },
+  "SDP": {
+    "concept_ids": [
+      "C0709"
+    ],
+    "is_ambiguous": false
+  },
+  "SF6": {
+    "concept_ids": [
+      "C0711"
+    ],
+    "is_ambiguous": false
+  },
+  "SFU": {
+    "concept_ids": [
+      "C0710"
+    ],
+    "is_ambiguous": false
+  },
+  "SHP": {
+    "concept_ids": [
+      "C0712"
+    ],
+    "is_ambiguous": false
+  },
+  "SIO": {
+    "concept_ids": [
+      "C0713"
+    ],
+    "is_ambiguous": false
+  },
+  "SIRE": {
+    "concept_ids": [
+      "C0168"
+    ],
+    "is_ambiguous": false
+  },
+  "SLT": {
+    "concept_ids": [
+      "C0169",
+      "C0181"
+    ],
+    "is_ambiguous": true
+  },
+  "SMPBE": {
+    "concept_ids": [
+      "C0170"
+    ],
+    "is_ambiguous": false
+  },
+  "SOS": {
+    "concept_ids": [
+      "C0347"
+    ],
+    "is_ambiguous": false
+  },
+  "SP": {
+    "concept_ids": [
+      "C0171",
+      "C0172"
+    ],
+    "is_ambiguous": true
+  },
+  "SPF": {
+    "concept_ids": [
+      "C0173"
+    ],
+    "is_ambiguous": false
+  },
+  "SPH": {
+    "concept_ids": [
+      "C0174"
+    ],
+    "is_ambiguous": false
+  },
+  "SPHO": {
+    "concept_ids": [
+      "C0714"
+    ],
+    "is_ambiguous": false
+  },
+  "SPL": {
+    "concept_ids": [
+      "C0173"
+    ],
+    "is_ambiguous": false
+  },
+  "SS": {
+    "concept_ids": [
+      "C0715"
+    ],
+    "is_ambiguous": false
+  },
+  "ST": {
+    "concept_ids": [
+      "C0716"
+    ],
+    "is_ambiguous": false
+  },
+  "STVM": {
+    "concept_ids": [
+      "C0717"
+    ],
+    "is_ambiguous": false
+  },
+  "SXE": {
+    "concept_ids": [
+      "C0175"
+    ],
+    "is_ambiguous": false
+  },
+  "SXF": {
+    "concept_ids": [
+      "C0125"
+    ],
+    "is_ambiguous": false
+  },
+  "Sd": {
+    "concept_ids": [
+      "C0167"
+    ],
+    "is_ambiguous": false
+  },
+  "Segmento anterior": {
+    "concept_ids": [
+      "C0703"
+    ],
+    "is_ambiguous": false
+  },
+  "Segmento posterior": {
+    "concept_ids": [
+      "C0172"
+    ],
+    "is_ambiguous": false
+  },
+  "Selective laser trabeculoplasty": {
+    "concept_ids": [
+      "C0169"
+    ],
+    "is_ambiguous": false
+  },
+  "Seno venoso de la esclera": {
+    "concept_ids": [
+      "C0232"
+    ],
+    "is_ambiguous": false
+  },
+  "Sensación de cuerpo extraño": {
+    "concept_ids": [
+      "C0706"
+    ],
+    "is_ambiguous": false
+  },
+  "Shallow": {
+    "concept_ids": [
+      "C0168"
+    ],
+    "is_ambiguous": false
+  },
+  "Signo de Bell": {
+    "concept_ids": [
+      "C0356"
+    ],
+    "is_ambiguous": false
+  },
+  "Simpaticolítico": {
+    "concept_ids": [
+      "C0355"
+    ],
+    "is_ambiguous": false
+  },
+  "Simpaticolíticos": {
+    "concept_ids": [
+      "C0208"
+    ],
+    "is_ambiguous": false
+  },
+  "Sin corrección óptica": {
+    "concept_ids": [
+      "C0164"
+    ],
+    "is_ambiguous": false
+  },
+  "Sin células": {
+    "concept_ids": [
+      "C0165"
+    ],
+    "is_ambiguous": false
+  },
+  "Sin hallazgos patológicos": {
+    "concept_ids": [
+      "C0712"
+    ],
+    "is_ambiguous": false
+  },
+  "Sin tratamiento": {
+    "concept_ids": [
+      "C0716"
+    ],
+    "is_ambiguous": false
+  },
+  "Sindrome párpado flácido": {
+    "concept_ids": [
+      "C0173"
+    ],
+    "is_ambiguous": false
+  },
+  "Sindrome párpado flácido laxo": {
+    "concept_ids": [
+      "C0173"
+    ],
+    "is_ambiguous": false
+  },
+  "Sinequia anterior periférica": {
+    "concept_ids": [
+      "C0704"
+    ],
+    "is_ambiguous": false
+  },
+  "Sinequia posterior": {
+    "concept_ids": [
+      "C0171"
+    ],
+    "is_ambiguous": false
+  },
+  "Sinoptóforo": {
+    "concept_ids": [
+      "C0205"
+    ],
+    "is_ambiguous": false
+  },
+  "Somatoprótesis": {
+    "concept_ids": [
+      "C0360"
+    ],
+    "is_ambiguous": false
+  },
+  "Sospecha de cierre angular primario": {
+    "concept_ids": [
+      "C0708"
+    ],
+    "is_ambiguous": false
+  },
+  "Sphere": {
+    "concept_ids": [
+      "C0174"
+    ],
+    "is_ambiguous": false
+  },
+  "Subcapsular posterior": {
+    "concept_ids": [
+      "C0166"
+    ],
+    "is_ambiguous": false
+  },
+  "Subjetivo": {
+    "concept_ids": [
+      "C0357"
+    ],
+    "is_ambiguous": false
+  },
+  "Superficial anterior lamellar keratoplasty": {
+    "concept_ids": [
+      "C0163"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome": {
+    "concept_ids": [
+      "C0167"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome Mandíbula-parpadeo": {
+    "concept_ids": [
+      "C0359"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome compartimental orbitario": {
+    "concept_ids": [
+      "C0707"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de Duane": {
+    "concept_ids": [
+      "C0358"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de Marcus-Gunn": {
+    "concept_ids": [
+      "C0359"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de Sjögren": {
+    "concept_ids": [
+      "C0715"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de Stilling": {
+    "concept_ids": [
+      "C0358"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de Türk-Stilling": {
+    "concept_ids": [
+      "C0358"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de Vogt-Koyanagi-Harada": {
+    "concept_ids": [
+      "C0747"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de adhesión vítreo-macular": {
+    "concept_ids": [
+      "C0705"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de aumento idiopático agudo de la mancha ciega": {
+    "concept_ids": [
+      "C0385"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de dispersión pigmentaria": {
+    "concept_ids": [
+      "C0709"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de fibrosis subretiniana y uveítis": {
+    "concept_ids": [
+      "C0710"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de múltiples puntos blancos evanescentes": {
+    "concept_ids": [
+      "C0170"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de ojo seco": {
+    "concept_ids": [
+      "C0347"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de presunta histoplasmosis ocular": {
+    "concept_ids": [
+      "C0714"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de tracción vítreo-macular": {
+    "concept_ids": [
+      "C0717"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome de vasculitis retiniana idiopática": {
+    "concept_ids": [
+      "C0197"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome isquémico ocular": {
+    "concept_ids": [
+      "C0713"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome uveítis-glaucoma-hifema": {
+    "concept_ids": [
+      "C0738"
+    ],
+    "is_ambiguous": false
+  },
+  "Síndrome uveítis-nefritis tubulointersticial": {
+    "concept_ids": [
+      "C0184"
+    ],
+    "is_ambiguous": false
+  },
+  "TA": {
+    "concept_ids": [
+      "C0176"
+    ],
+    "is_ambiguous": false
+  },
+  "TACR": {
+    "concept_ids": [
+      "C0718"
+    ],
+    "is_ambiguous": false
+  },
+  "TBC": {
+    "concept_ids": [
+      "C0177",
+      "C0178"
+    ],
+    "is_ambiguous": true
+  },
+  "TBUT": {
+    "concept_ids": [
+      "C0179"
+    ],
+    "is_ambiguous": false
+  },
+  "TCO": {
+    "concept_ids": [
+      "C0180"
+    ],
+    "is_ambiguous": false
+  },
+  "TDP": {
+    "concept_ids": [
+      "C0719"
+    ],
+    "is_ambiguous": false
+  },
+  "TFD": {
+    "concept_ids": [
+      "C0720"
+    ],
+    "is_ambiguous": false
+  },
+  "TI": {
+    "concept_ids": [
+      "C0721"
+    ],
+    "is_ambiguous": false
+  },
+  "TINU": {
+    "concept_ids": [
+      "C0184"
+    ],
+    "is_ambiguous": false
+  },
+  "TLA": {
+    "concept_ids": [
+      "C0722"
+    ],
+    "is_ambiguous": false
+  },
+  "TMA": {
+    "concept_ids": [
+      "C0723"
+    ],
+    "is_ambiguous": false
+  },
+  "TNC": {
+    "concept_ids": [
+      "C0724"
+    ],
+    "is_ambiguous": false
+  },
+  "TNO": {
+    "concept_ids": [
+      "C0725"
+    ],
+    "is_ambiguous": false
+  },
+  "TO": {
+    "concept_ids": [
+      "C0726"
+    ],
+    "is_ambiguous": false
+  },
+  "TRABE": {
+    "concept_ids": [
+      "C0177"
+    ],
+    "is_ambiguous": false
+  },
+  "TRAR": {
+    "concept_ids": [
+      "C0727"
+    ],
+    "is_ambiguous": false
+  },
+  "TRE": {
+    "concept_ids": [
+      "C0728"
+    ],
+    "is_ambiguous": false
+  },
+  "TRL": {
+    "concept_ids": [
+      "C0361"
+    ],
+    "is_ambiguous": false
+  },
+  "TROPI": {
+    "concept_ids": [
+      "C0729"
+    ],
+    "is_ambiguous": false
+  },
+  "TRVR": {
+    "concept_ids": [
+      "C0730"
+    ],
+    "is_ambiguous": false
+  },
+  "TS": {
+    "concept_ids": [
+      "C0731"
+    ],
+    "is_ambiguous": false
+  },
+  "TSL": {
+    "concept_ids": [
+      "C0181"
+    ],
+    "is_ambiguous": false
+  },
+  "TTT": {
+    "concept_ids": [
+      "C0732"
+    ],
+    "is_ambiguous": false
+  },
+  "TVCR": {
+    "concept_ids": [
+      "C0733"
+    ],
+    "is_ambiguous": false
+  },
+  "TVM": {
+    "concept_ids": [
+      "C0734"
+    ],
+    "is_ambiguous": false
+  },
+  "Ta": {
+    "concept_ids": [
+      "C0176"
+    ],
+    "is_ambiguous": false
+  },
+  "Tallo óptico": {
+    "concept_ids": [
+      "C0329"
+    ],
+    "is_ambiguous": false
+  },
+  "Tear break-up time": {
+    "concept_ids": [
+      "C0179"
+    ],
+    "is_ambiguous": false
+  },
+  "Temporal inferior": {
+    "concept_ids": [
+      "C0721"
+    ],
+    "is_ambiguous": false
+  },
+  "Temporal superior": {
+    "concept_ids": [
+      "C0731"
+    ],
+    "is_ambiguous": false
+  },
+  "Tensión ocular": {
+    "concept_ids": [
+      "C0726"
+    ],
+    "is_ambiguous": false
+  },
+  "Terapia fotodinámica": {
+    "concept_ids": [
+      "C0720"
+    ],
+    "is_ambiguous": false
+  },
+  "Termoterapia transpupilar": {
+    "concept_ids": [
+      "C0732"
+    ],
+    "is_ambiguous": false
+  },
+  "Test BUT": {
+    "concept_ids": [
+      "C0361"
+    ],
+    "is_ambiguous": false
+  },
+  "Test de Marcus-Gunn": {
+    "concept_ids": [
+      "C0362"
+    ],
+    "is_ambiguous": false
+  },
+  "Test de balanceo de la luz": {
+    "concept_ids": [
+      "C0362"
+    ],
+    "is_ambiguous": false
+  },
+  "Test de ducción pasiva": {
+    "concept_ids": [
+      "C0719"
+    ],
+    "is_ambiguous": false
+  },
+  "Test de visión estereoscópica": {
+    "concept_ids": [
+      "C0725"
+    ],
+    "is_ambiguous": false
+  },
+  "Tiempo de ruptura lagrimal": {
+    "concept_ids": [
+      "C0361"
+    ],
+    "is_ambiguous": false
+  },
+  "Tirotoxicosis": {
+    "concept_ids": [
+      "C0260"
+    ],
+    "is_ambiguous": false
+  },
+  "Tomografía de coherencia óptica": {
+    "concept_ids": [
+      "C0180"
+    ],
+    "is_ambiguous": false
+  },
+  "Tonometría de aplanamiento de Goldmann": {
+    "concept_ids": [
+      "C0176"
+    ],
+    "is_ambiguous": false
+  },
+  "Tonometría de no contacto": {
+    "concept_ids": [
+      "C0724"
+    ],
+    "is_ambiguous": false
+  },
+  "Toxina botulínica": {
+    "concept_ids": [
+      "C0363"
+    ],
+    "is_ambiguous": false
+  },
+  "Trabeculectomía": {
+    "concept_ids": [
+      "C0177"
+    ],
+    "is_ambiguous": false
+  },
+  "Trabeculoplastia con láser argón": {
+    "concept_ids": [
+      "C0722"
+    ],
+    "is_ambiguous": false
+  },
+  "Trabeculoplastia selectiva láser": {
+    "concept_ids": [
+      "C0181"
+    ],
+    "is_ambiguous": false
+  },
+  "Tracción vitreomacular": {
+    "concept_ids": [
+      "C0734"
+    ],
+    "is_ambiguous": false
+  },
+  "Tracto geniculocalcarino": {
+    "concept_ids": [
+      "C0348"
+    ],
+    "is_ambiguous": false
+  },
+  "Tracto óptico": {
+    "concept_ids": [
+      "C0230"
+    ],
+    "is_ambiguous": false
+  },
+  "Trasplante de córnea": {
+    "concept_ids": [
+      "C0346"
+    ],
+    "is_ambiguous": false
+  },
+  "Trasplante de membrana amniótica": {
+    "concept_ids": [
+      "C0723"
+    ],
+    "is_ambiguous": false
+  },
+  "Tricrómatas anormales": {
+    "concept_ids": [
+      "C0343"
+    ],
+    "is_ambiguous": false
+  },
+  "Triquiasis": {
+    "concept_ids": [
+      "C0242"
+    ],
+    "is_ambiguous": false
+  },
+  "Trombosis de arteria central de la retina": {
+    "concept_ids": [
+      "C0718"
+    ],
+    "is_ambiguous": false
+  },
+  "Trombosis de rama arterial retiniana": {
+    "concept_ids": [
+      "C0727"
+    ],
+    "is_ambiguous": false
+  },
+  "Trombosis de rama venosa retiniana": {
+    "concept_ids": [
+      "C0730"
+    ],
+    "is_ambiguous": false
+  },
+  "Trombosis de vena central de la retina": {
+    "concept_ids": [
+      "C0733"
+    ],
+    "is_ambiguous": false
+  },
+  "Tropicamida": {
+    "concept_ids": [
+      "C0729"
+    ],
+    "is_ambiguous": false
+  },
+  "Tuberculosis": {
+    "concept_ids": [
+      "C0178"
+    ],
+    "is_ambiguous": false
+  },
+  "Tubulación de la retina externa": {
+    "concept_ids": [
+      "C0728"
+    ],
+    "is_ambiguous": false
+  },
+  "Túnica interna del globo ocular": {
+    "concept_ids": [
+      "C0351"
+    ],
+    "is_ambiguous": false
+  },
+  "Túnica nerviosa del globo ocular": {
+    "concept_ids": [
+      "C0351"
+    ],
+    "is_ambiguous": false
+  },
+  "Túnica vascular del globo ocular": {
+    "concept_ids": [
+      "C0364"
+    ],
+    "is_ambiguous": false
+  },
+  "UAA": {
+    "concept_ids": [
+      "C0735"
+    ],
+    "is_ambiguous": false
+  },
+  "UAARU": {
+    "concept_ids": [
+      "C0736"
+    ],
+    "is_ambiguous": false
+  },
+  "UAC": {
+    "concept_ids": [
+      "C0737"
+    ],
+    "is_ambiguous": false
+  },
+  "UDVA": {
+    "concept_ids": [
+      "C0182"
+    ],
+    "is_ambiguous": false
+  },
+  "UGH": {
+    "concept_ids": [
+      "C0738"
+    ],
+    "is_ambiguous": false
+  },
+  "UI": {
+    "concept_ids": [
+      "C0739"
+    ],
+    "is_ambiguous": false
+  },
+  "UIVA": {
+    "concept_ids": [
+      "C0183"
+    ],
+    "is_ambiguous": false
+  },
+  "UNTI": {
+    "concept_ids": [
+      "C0184"
+    ],
+    "is_ambiguous": false
+  },
+  "UNVA": {
+    "concept_ids": [
+      "C0185"
+    ],
+    "is_ambiguous": false
+  },
+  "UP": {
+    "concept_ids": [
+      "C0740"
+    ],
+    "is_ambiguous": false
+  },
+  "URI": {
+    "concept_ids": [
+      "C0741"
+    ],
+    "is_ambiguous": false
+  },
+  "UV": {
+    "concept_ids": [
+      "C0269"
+    ],
+    "is_ambiguous": false
+  },
+  "Uncorrected distance visual acuity": {
+    "concept_ids": [
+      "C0182"
+    ],
+    "is_ambiguous": false
+  },
+  "Uncorrected intermediate visual acuity": {
+    "concept_ids": [
+      "C0183"
+    ],
+    "is_ambiguous": false
+  },
+  "Uncorrected near visual acuity": {
+    "concept_ids": [
+      "C0185"
+    ],
+    "is_ambiguous": false
+  },
+  "Uveítis anterior aguda": {
+    "concept_ids": [
+      "C0735"
+    ],
+    "is_ambiguous": false
+  },
+  "Uveítis anterior aguda recidivante unilateral": {
+    "concept_ids": [
+      "C0736"
+    ],
+    "is_ambiguous": false
+  },
+  "Uveítis anterior crónica": {
+    "concept_ids": [
+      "C0737"
+    ],
+    "is_ambiguous": false
+  },
+  "Uveítis de reconstitución inmune": {
+    "concept_ids": [
+      "C0741"
+    ],
+    "is_ambiguous": false
+  },
+  "Uveítis intermedia": {
+    "concept_ids": [
+      "C0739"
+    ],
+    "is_ambiguous": false
+  },
+  "Uveítis posterior": {
+    "concept_ids": [
+      "C0740"
+    ],
+    "is_ambiguous": false
+  },
+  "VB": {
+    "concept_ids": [
+      "C0742"
+    ],
+    "is_ambiguous": false
+  },
+  "VC": {
+    "concept_ids": [
+      "C0743"
+    ],
+    "is_ambiguous": false
+  },
+  "VCP": {
+    "concept_ids": [
+      "C0186"
+    ],
+    "is_ambiguous": false
+  },
+  "VCR": {
+    "concept_ids": [
+      "C0744"
+    ],
+    "is_ambiguous": false
+  },
+  "VEGF": {
+    "concept_ids": [
+      "C0187"
+    ],
+    "is_ambiguous": false
+  },
+  "VFI": {
+    "concept_ids": [
+      "C0087",
+      "C0188"
+    ],
+    "is_ambiguous": true
+  },
+  "VFP": {
+    "concept_ids": [
+      "C0745"
+    ],
+    "is_ambiguous": false
+  },
+  "VHS": {
+    "concept_ids": [
+      "C0189"
+    ],
+    "is_ambiguous": false
+  },
+  "VHZ": {
+    "concept_ids": [
+      "C0746"
+    ],
+    "is_ambiguous": false
+  },
+  "VI": {
+    "concept_ids": [
+      "C0190",
+      "C0191"
+    ],
+    "is_ambiguous": true
+  },
+  "VKH": {
+    "concept_ids": [
+      "C0747"
+    ],
+    "is_ambiguous": false
+  },
+  "VL": {
+    "concept_ids": [
+      "C0192",
+      "C0193"
+    ],
+    "is_ambiguous": true
+  },
+  "VMA": {
+    "concept_ids": [
+      "C0194"
+    ],
+    "is_ambiguous": false
+  },
+  "VMT": {
+    "concept_ids": [
+      "C0195"
+    ],
+    "is_ambiguous": false
+  },
+  "VP": {
+    "concept_ids": [
+      "C0367"
+    ],
+    "is_ambiguous": false
+  },
+  "VPH": {
+    "concept_ids": [
+      "C0196"
+    ],
+    "is_ambiguous": false
+  },
+  "VPHP": {
+    "concept_ids": [
+      "C0196"
+    ],
+    "is_ambiguous": false
+  },
+  "VPP": {
+    "concept_ids": [
+      "C0748"
+    ],
+    "is_ambiguous": false
+  },
+  "VRE": {
+    "concept_ids": [
+      "C0749"
+    ],
+    "is_ambiguous": false
+  },
+  "VREF": {
+    "concept_ids": [
+      "C0750"
+    ],
+    "is_ambiguous": false
+  },
+  "VRIAN": {
+    "concept_ids": [
+      "C0197"
+    ],
+    "is_ambiguous": false
+  },
+  "VRP": {
+    "concept_ids": [
+      "C0751"
+    ],
+    "is_ambiguous": false
+  },
+  "VTM": {
+    "concept_ids": [
+      "C0752"
+    ],
+    "is_ambiguous": false
+  },
+  "Vaina del globo ocular": {
+    "concept_ids": [
+      "C0225"
+    ],
+    "is_ambiguous": false
+  },
+  "Vaina perineural": {
+    "concept_ids": [
+      "C0216"
+    ],
+    "is_ambiguous": false
+  },
+  "Vascular endothelial growth factor": {
+    "concept_ids": [
+      "C0187"
+    ],
+    "is_ambiguous": false
+  },
+  "Vasculatura fetal persistente": {
+    "concept_ids": [
+      "C0745"
+    ],
+    "is_ambiguous": false
+  },
+  "Vasculitis en rama escarchada": {
+    "concept_ids": [
+      "C0749"
+    ],
+    "is_ambiguous": false
+  },
+  "Vasculopatía coroidea polipoidea": {
+    "concept_ids": [
+      "C0186"
+    ],
+    "is_ambiguous": false
+  },
+  "Vena central de la retina": {
+    "concept_ids": [
+      "C0744"
+    ],
+    "is_ambiguous": false
+  },
+  "Verde indocianina": {
+    "concept_ids": [
+      "C0191"
+    ],
+    "is_ambiguous": false
+  },
+  "Vesícula cristaliniana": {
+    "concept_ids": [
+      "C0365"
+    ],
+    "is_ambiguous": false
+  },
+  "Vesícula del cristalino": {
+    "concept_ids": [
+      "C0365"
+    ],
+    "is_ambiguous": false
+  },
+  "Virus herpes simple": {
+    "concept_ids": [
+      "C0189"
+    ],
+    "is_ambiguous": false
+  },
+  "Virus herpes simplex": {
+    "concept_ids": [
+      "C0189"
+    ],
+    "is_ambiguous": false
+  },
+  "Virus herpes zóster": {
+    "concept_ids": [
+      "C0746"
+    ],
+    "is_ambiguous": false
+  },
+  "Visión cercana": {
+    "concept_ids": [
+      "C0367"
+    ],
+    "is_ambiguous": false
+  },
+  "Visión de cerca": {
+    "concept_ids": [
+      "C0743"
+    ],
+    "is_ambiguous": false
+  },
+  "Visión de lejos": {
+    "concept_ids": [
+      "C0192"
+    ],
+    "is_ambiguous": false
+  },
+  "Visión intermedia": {
+    "concept_ids": [
+      "C0190"
+    ],
+    "is_ambiguous": false
+  },
+  "Visión próxima": {
+    "concept_ids": [
+      "C0367"
+    ],
+    "is_ambiguous": false
+  },
+  "Visual field index": {
+    "concept_ids": [
+      "C0188"
+    ],
+    "is_ambiguous": false
+  },
+  "Vitrectomía mecánica": {
+    "concept_ids": [
+      "C0752"
+    ],
+    "is_ambiguous": false
+  },
+  "Vitrectomía pars plana": {
+    "concept_ids": [
+      "C0748"
+    ],
+    "is_ambiguous": false
+  },
+  "Vitreomacular adhesion": {
+    "concept_ids": [
+      "C0194"
+    ],
+    "is_ambiguous": false
+  },
+  "Vitreomacular traction": {
+    "concept_ids": [
+      "C0195"
+    ],
+    "is_ambiguous": false
+  },
+  "Vitreorretinopatía exudativa familiar": {
+    "concept_ids": [
+      "C0750"
+    ],
+    "is_ambiguous": false
+  },
+  "Vitreorretinopatía proliferativa": {
+    "concept_ids": [
+      "C0751"
+    ],
+    "is_ambiguous": false
+  },
+  "Vía lagrimal": {
+    "concept_ids": [
+      "C0193"
+    ],
+    "is_ambiguous": false
+  },
+  "Vía visual": {
+    "concept_ids": [
+      "C0366"
+    ],
+    "is_ambiguous": false
+  },
+  "Vía óptica": {
+    "concept_ids": [
+      "C0366"
+    ],
+    "is_ambiguous": false
+  },
+  "Vítreo primario hiperplásico or vítreo primario hiperplásico persistente": {
+    "concept_ids": [
+      "C0196"
+    ],
+    "is_ambiguous": false
+  },
+  "XT": {
+    "concept_ids": [
+      "C0265"
+    ],
+    "is_ambiguous": false
+  },
+  "Xeroftalmia": {
+    "concept_ids": [
+      "C0347"
+    ],
+    "is_ambiguous": false
+  },
+  "YAG láser": {
+    "concept_ids": [
+      "C0368"
+    ],
+    "is_ambiguous": false
+  },
+  "Yodopsina": {
+    "concept_ids": [
+      "C0369"
+    ],
+    "is_ambiguous": false
+  },
+  "ZAF": {
+    "concept_ids": [
+      "C0753"
+    ],
+    "is_ambiguous": false
+  },
+  "Zona avascular foveal": {
+    "concept_ids": [
+      "C0753"
+    ],
+    "is_ambiguous": false
+  },
+  "Zónula ciliar": {
+    "concept_ids": [
+      "C0370"
+    ],
+    "is_ambiguous": false
+  },
+  "Zónula de Zinn": {
+    "concept_ids": [
+      "C0370"
+    ],
+    "is_ambiguous": false
+  },
+  "acromatopsia": {
+    "concept_ids": [
+      "C0199"
+    ],
+    "is_ambiguous": false
+  },
+  "adhesión vitreomacular": {
+    "concept_ids": [
+      "C0194"
+    ],
+    "is_ambiguous": false
+  },
+  "agudeza visual cercana con corrección": {
+    "concept_ids": [
+      "C0030"
+    ],
+    "is_ambiguous": false
+  },
+  "agudeza visual cercana con la corrección lejana": {
+    "concept_ids": [
+      "C0040"
+    ],
+    "is_ambiguous": false
+  },
+  "agudeza visual cercana sin corrección": {
+    "concept_ids": [
+      "C0185"
+    ],
+    "is_ambiguous": false
+  },
+  "agudeza visual intermedia con corrección": {
+    "concept_ids": [
+      "C0028"
+    ],
+    "is_ambiguous": false
+  },
+  "agudeza visual intermedia con la corrección lejana": {
+    "concept_ids": [
+      "C0039"
+    ],
+    "is_ambiguous": false
+  },
+  "agudeza visual intermedia sin corrección": {
+    "concept_ids": [
+      "C0183"
+    ],
+    "is_ambiguous": false
+  },
+  "agudeza visual lejana con corrección": {
+    "concept_ids": [
+      "C0023"
+    ],
+    "is_ambiguous": false
+  },
+  "agudeza visual lejana sin corrección": {
+    "concept_ids": [
+      "C0182"
+    ],
+    "is_ambiguous": false
+  },
+  "agujero estenopeico": {
+    "concept_ids": [
+      "C0128"
+    ],
+    "is_ambiguous": false
+  },
+  "ambos ojos": {
+    "concept_ids": [
+      "C0121"
+    ],
+    "is_ambiguous": false
+  },
+  "aneurismas y neurorretinitis": {
+    "concept_ids": [
+      "C0197"
+    ],
+    "is_ambiguous": false
+  },
+  "angiografía por tomografía de coherencia óptica": {
+    "concept_ids": [
+      "C0113"
+    ],
+    "is_ambiguous": false
+  },
+  "anomalía microvascular intrarretiniana": {
+    "concept_ids": [
+      "C0091"
+    ],
+    "is_ambiguous": false
+  },
+  "anti-ChE": {
+    "concept_ids": [
+      "C0286"
+    ],
+    "is_ambiguous": false
+  },
+  "cada": {
+    "concept_ids": [
+      "C0146"
+    ],
+    "is_ambiguous": false
+  },
+  "canal de Schlemm": {
+    "concept_ids": [
+      "C0232"
+    ],
+    "is_ambiguous": false
+  },
+  "capa de fibras nerviosas retinianas": {
+    "concept_ids": [
+      "C0158"
+    ],
+    "is_ambiguous": false
+  },
+  "catarata": {
+    "concept_ids": [
+      "C0166"
+    ],
+    "is_ambiguous": false
+  },
+  "cirugía mínimamente invasiva de glaucoma": {
+    "concept_ids": [
+      "C0103"
+    ],
+    "is_ambiguous": false
+  },
+  "coroidopatía or coroiditis punctata interna": {
+    "concept_ids": [
+      "C0129"
+    ],
+    "is_ambiguous": false
+  },
+  "de balasto": {
+    "concept_ids": [
+      "C0340"
+    ],
+    "is_ambiguous": false
+  },
+  "defecto esférico en graduación óptica": {
+    "concept_ids": [
+      "C0174"
+    ],
+    "is_ambiguous": false
+  },
+  "descemetorrexis sin queratoplastia endotelial": {
+    "concept_ids": [
+      "C0057"
+    ],
+    "is_ambiguous": false
+  },
+  "desorganización-desestructuración de las capas internas de la retina": {
+    "concept_ids": [
+      "C0053"
+    ],
+    "is_ambiguous": false
+  },
+  "elevacion RPE": {
+    "concept_ids": [
+      "C0168"
+    ],
+    "is_ambiguous": false
+  },
+  "elevación plana e irregular del epitelio pigmentario de la retina": {
+    "concept_ids": [
+      "C0168"
+    ],
+    "is_ambiguous": false
+  },
+  "enfermedad de Stargardt": {
+    "concept_ids": [
+      "C0075"
+    ],
+    "is_ambiguous": false
+  },
+  "ensayo clínico sobre control y complicaciones de la diabetes": {
+    "concept_ids": [
+      "C0038"
+    ],
+    "is_ambiguous": false
+  },
+  "epitelio pigmentario de la retina": {
+    "concept_ids": [
+      "C0160"
+    ],
+    "is_ambiguous": false
+  },
+  "epitelitis pigmentaria retiniana aguda": {
+    "concept_ids": [
+      "C0005"
+    ],
+    "is_ambiguous": false
+  },
+  "esfera": {
+    "concept_ids": [
+      "C0174"
+    ],
+    "is_ambiguous": false
+  },
+  "esotropia progresiva adquirida miópica": {
+    "concept_ids": [
+      "C0102"
+    ],
+    "is_ambiguous": false
+  },
+  "espesor macular": {
+    "concept_ids": [
+      "C0105"
+    ],
+    "is_ambiguous": false
+  },
+  "factor de crecimiento endotelial vascular": {
+    "concept_ids": [
+      "C0187"
+    ],
+    "is_ambiguous": false
+  },
+  "grosor macular": {
+    "concept_ids": [
+      "C0105"
+    ],
+    "is_ambiguous": false
+  },
+  "h(T)": {
+    "concept_ids": [
+      "C0542"
+    ],
+    "is_ambiguous": false
+  },
+  "h/hF": {
+    "concept_ids": [
+      "C0538"
+    ],
+    "is_ambiguous": false
+  },
+  "hOI": {
+    "concept_ids": [
+      "C0547"
+    ],
+    "is_ambiguous": false
+  },
+  "hT": {
+    "concept_ids": [
+      "C0541"
+    ],
+    "is_ambiguous": false
+  },
+  "irregular retinal pigment epithelium elevation": {
+    "concept_ids": [
+      "C0168"
+    ],
+    "is_ambiguous": false
+  },
+  "keratic": {
+    "concept_ids": [
+      "C0132"
+    ],
+    "is_ambiguous": false
+  },
+  "keratotomy radial": {
+    "concept_ids": [
+      "C0094"
+    ],
+    "is_ambiguous": false
+  },
+  "lente esférica": {
+    "concept_ids": [
+      "C0350"
+    ],
+    "is_ambiguous": false
+  },
+  "lente fáquica implantable de colágeno": {
+    "concept_ids": [
+      "C0086"
+    ],
+    "is_ambiguous": false
+  },
+  "lente fáquica implantable de cámara posterior": {
+    "concept_ids": [
+      "C0090"
+    ],
+    "is_ambiguous": false
+  },
+  "lente intraocular": {
+    "concept_ids": [
+      "C0089"
+    ],
+    "is_ambiguous": false
+  },
+  "lente intraocular de profundidad de foco extendida": {
+    "concept_ids": [
+      "C0061"
+    ],
+    "is_ambiguous": false
+  },
+  "lentes de desenfoque periférico": {
+    "concept_ids": [
+      "C0044"
+    ],
+    "is_ambiguous": false
+  },
+  "longitud axial": {
+    "concept_ids": [
+      "C0006"
+    ],
+    "is_ambiguous": false
+  },
+  "láser confocal de barrido de Heidelberg Engineering GmbH": {
+    "concept_ids": [
+      "C0079"
+    ],
+    "is_ambiguous": false
+  },
+  "mmHg": {
+    "concept_ids": [
+      "C0585"
+    ],
+    "is_ambiguous": false
+  },
+  "neoplasia córneo-conjuntival intraepitelial": {
+    "concept_ids": [
+      "C0027"
+    ],
+    "is_ambiguous": false
+  },
+  "neuropatía óptica hereditaria de Leber": {
+    "concept_ids": [
+      "C0098"
+    ],
+    "is_ambiguous": false
+  },
+  "oculus dexter": {
+    "concept_ids": [
+      "C0114"
+    ],
+    "is_ambiguous": false
+  },
+  "oculus uterque": {
+    "concept_ids": [
+      "C0130",
+      "C0131"
+    ],
+    "is_ambiguous": true
+  },
+  "ojo izquierdo": {
+    "concept_ids": [
+      "C0118"
+    ],
+    "is_ambiguous": false
+  },
+  "pIIIPC": {
+    "concept_ids": [
+      "C0640"
+    ],
+    "is_ambiguous": false
+  },
+  "pIVPC": {
+    "concept_ids": [
+      "C0642"
+    ],
+    "is_ambiguous": false
+  },
+  "pVIPC": {
+    "concept_ids": [
+      "C0644"
+    ],
+    "is_ambiguous": false
+  },
+  "ph": {
+    "concept_ids": [
+      "C0128"
+    ],
+    "is_ambiguous": false
+  },
+  "plasma rico en factores de crecimiento": {
+    "concept_ids": [
+      "C0141"
+    ],
+    "is_ambiguous": false
+  },
+  "proliferación angiomatosa retiniana": {
+    "concept_ids": [
+      "C0153"
+    ],
+    "is_ambiguous": false
+  },
+  "pseudotumor inflamatorio de la órbita": {
+    "concept_ids": [
+      "C0064"
+    ],
+    "is_ambiguous": false
+  },
+  "queratectomía fototerapéutica": {
+    "concept_ids": [
+      "C0142"
+    ],
+    "is_ambiguous": false
+  },
+  "queratectomía subepitelial asistida con láser": {
+    "concept_ids": [
+      "C0095"
+    ],
+    "is_ambiguous": false
+  },
+  "queratitis ulcerativa periférica": {
+    "concept_ids": [
+      "C0143"
+    ],
+    "is_ambiguous": false
+  },
+  "queratocono": {
+    "concept_ids": [
+      "C0093"
+    ],
+    "is_ambiguous": false
+  },
+  "queratomileusis in situ asistida con láser": {
+    "concept_ids": [
+      "C0096"
+    ],
+    "is_ambiguous": false
+  },
+  "queratoplastia endotelial automatizada con pelado de membrana de Descemet": {
+    "concept_ids": [
+      "C0054"
+    ],
+    "is_ambiguous": false
+  },
+  "queratoplastia endotelial de membrana de Descemet": {
+    "concept_ids": [
+      "C0048"
+    ],
+    "is_ambiguous": false
+  },
+  "queratoplastia laminar anterior profunda": {
+    "concept_ids": [
+      "C0037"
+    ],
+    "is_ambiguous": false
+  },
+  "queratoplastia laminar anterior superficial": {
+    "concept_ids": [
+      "C0163"
+    ],
+    "is_ambiguous": false
+  },
+  "queratoplastia penetrante": {
+    "concept_ids": [
+      "C0134"
+    ],
+    "is_ambiguous": false
+  },
+  "retiniopatía de la prematuridad": {
+    "concept_ids": [
+      "C0159"
+    ],
+    "is_ambiguous": false
+  },
+  "retinopatia externa oculta zonal aguda": {
+    "concept_ids": [
+      "C0007"
+    ],
+    "is_ambiguous": false
+  },
+  "solo descemetorrexis": {
+    "concept_ids": [
+      "C0055"
+    ],
+    "is_ambiguous": false
+  },
+  "síndrome de iris flácido intraoperatorio": {
+    "concept_ids": [
+      "C0088"
+    ],
+    "is_ambiguous": false
+  },
+  "síndrome endotelial iridocorneal": {
+    "concept_ids": [
+      "C0084"
+    ],
+    "is_ambiguous": false
+  },
+  "telangiectasia macular": {
+    "concept_ids": [
+      "C0101"
+    ],
+    "is_ambiguous": false
+  },
+  "tiempo de ruptura de la película lagrimal": {
+    "concept_ids": [
+      "C0179"
+    ],
+    "is_ambiguous": false
+  },
+  "tiempo de ruptura lagrimal": {
+    "concept_ids": [
+      "C0019"
+    ],
+    "is_ambiguous": false
+  },
+  "tiempo de ruptura lagrimal no invasivo en Keratograph": {
+    "concept_ids": [
+      "C0107"
+    ],
+    "is_ambiguous": false
+  },
+  "tomografía de coherencia óptica": {
+    "concept_ids": [
+      "C0112"
+    ],
+    "is_ambiguous": false
+  },
+  "trabeculoplastia láser selectiva": {
+    "concept_ids": [
+      "C0169"
+    ],
+    "is_ambiguous": false
+  },
+  "tracción vitreomacular": {
+    "concept_ids": [
+      "C0195"
+    ],
+    "is_ambiguous": false
+  },
+  "tubulación de la retina externa": {
+    "concept_ids": [
+      "C0117"
+    ],
+    "is_ambiguous": false
+  },
+  "tyndall negativo": {
+    "concept_ids": [
+      "C0165"
+    ],
+    "is_ambiguous": false
+  },
+  "verde de indocianina": {
+    "concept_ids": [
+      "C0085"
+    ],
+    "is_ambiguous": false
+  },
+  "visión binocular": {
+    "concept_ids": [
+      "C0742"
+    ],
+    "is_ambiguous": false
+  },
+  "Índice de campo visual": {
+    "concept_ids": [
+      "C0087"
+    ],
+    "is_ambiguous": false
+  },
+  "Índice de refracción": {
+    "concept_ids": [
+      "C0290"
+    ],
+    "is_ambiguous": false
+  },
+  "Úvea": {
+    "concept_ids": [
+      "C0364"
+    ],
+    "is_ambiguous": false
+  },
+  "índice de campo visual": {
+    "concept_ids": [
+      "C0188"
+    ],
+    "is_ambiguous": false
+  }
+}

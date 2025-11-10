@@ -1,0 +1,3217 @@
+{
+  "C0001": [
+    "A/V",
+    "Relación arteria-vena",
+    "Relación arteriola vénula",
+    "Relación arteriola-vénula",
+    "Relación arteriola/vénula"
+  ],
+  "C0002": [
+    "ACR",
+    "Arteria central de la retina"
+  ],
+  "C0003": [
+    "ACR",
+    "Atrofia coriorretiniana"
+  ],
+  "C0004": [
+    "Agujero macular lamelar",
+    "Agujero macular laminar",
+    "AML"
+  ],
+  "C0005": [
+    "Acute retinal pigment epithelitis",
+    "ARPE",
+    "epitelitis pigmentaria retiniana aguda"
+  ],
+  "C0006": [
+    "Axial length",
+    "AXL",
+    "longitud axial"
+  ],
+  "C0007": [
+    "Acute zonal occult outer retinopathy",
+    "AZOOR",
+    "retinopatia externa oculta zonal aguda"
+  ],
+  "C0008": [
+    "AD",
+    "ADD",
+    "Adición"
+  ],
+  "C0009": [
+    "AAOO",
+    "Ambos ojos",
+    "AO"
+  ],
+  "C0010": [
+    "Agudeza visual Corrección",
+    "AV CC",
+    "Con su corrección óptica",
+    "Corrección de Agudeza Visual",
+    "CSC"
+  ],
+  "C0011": [
+    "Agujero macular",
+    "AM"
+  ],
+  "C0012": [
+    "AM",
+    "Astigmatismo mixto"
+  ],
+  "C0013": [
+    "AR",
+    "AUTO",
+    "Autorrefractómetro"
+  ],
+  "C0014": [
+    "AR",
+    "Artritis reumatoide"
+  ],
+  "C0015": [
+    "@",
+    "Agudeza visual con agujero estenopeico",
+    "Agujero estenopeico",
+    "AV CAE"
+  ],
+  "C0016": [
+    "@",
+    "Agudeza visual con estenopeica",
+    "AV CAE"
+  ],
+  "C0017": [
+    "Agudeza visual cercana",
+    "AVC"
+  ],
+  "C0018": [
+    "Accidente vascular cerebra",
+    "AVC"
+  ],
+  "C0019": [
+    "Break-up time",
+    "BUT",
+    "tiempo de ruptura lagrimal"
+  ],
+  "C0020": [
+    "C/D",
+    "Copa Disco",
+    "Copa-Disco",
+    "Copa/Disco"
+  ],
+  "C0021": [
+    "CC",
+    "Con corrección óptica"
+  ],
+  "C0022": [
+    "CC",
+    "Cuerpo ciliar"
+  ],
+  "C0023": [
+    "agudeza visual lejana con corrección",
+    "CDVA",
+    "Corrected distance visual acuity"
+  ],
+  "C0024": [
+    "CE",
+    "Cuerpo extraño"
+  ],
+  "C0025": [
+    "CE",
+    "Cerclaje escleral"
+  ],
+  "C0026": [
+    "CIL",
+    "Cilindro or astigmatismo",
+    "CYL"
+  ],
+  "C0027": [
+    "CIN",
+    "Corneo-conjunctival intraepithelial neoplasia",
+    "neoplasia córneo-conjuntival intraepitelial"
+  ],
+  "C0028": [
+    "agudeza visual intermedia con corrección",
+    "CIVA",
+    "Corrected intermediate visual acuity"
+  ],
+  "C0029": [
+    "Cirugía mínimamente invasiva de glaucoma",
+    "CMIG",
+    "MIGS"
+  ],
+  "C0030": [
+    "agudeza visual cercana con corrección",
+    "CNVA",
+    "Corrected near visual acuity"
+  ],
+  "C0031": [
+    "Coriorretinitis placoide incesante",
+    "CPI"
+  ],
+  "C0032": [
+    "Coroiditis punctata interna",
+    "CPI"
+  ],
+  "C0033": [
+    "Coriorretinopatía serosa central",
+    "CRSC",
+    "CSC"
+  ],
+  "C0034": [
+    "Catarata subcapsular anterior",
+    "CSA"
+  ],
+  "C0035": [
+    "Ciclosporina A",
+    "CSA"
+  ],
+  "C0036": [
+    "Cover test",
+    "CT"
+  ],
+  "C0037": [
+    "DALK",
+    "Deep anterior lamelar keratoplasty",
+    "queratoplastia laminar anterior profunda"
+  ],
+  "C0038": [
+    "DCCT",
+    "Diabetes control and complications trial",
+    "ensayo clínico sobre control y complicaciones de la diabetes"
+  ],
+  "C0039": [
+    "agudeza visual intermedia con la corrección lejana",
+    "DCIVA",
+    "Distance-corrected intermediate visual acuity"
+  ],
+  "C0040": [
+    "agudeza visual cercana con la corrección lejana",
+    "DCNVA",
+    "Distance-corrected near visual acuity"
+  ],
+  "C0041": [
+    "DCPP",
+    "DEPP",
+    "Distrofia corneal endotelial polimorfa posterior",
+    "DPMP",
+    "DPP"
+  ],
+  "C0042": [
+    "Dacriocistorrinostomía clásica",
+    "Dacriocistorrinostomía externa",
+    "DCR-C",
+    "DCR-EX"
+  ],
+  "C0043": [
+    "Dacriocistorrinostomía láser or dacriocistorrinostomía transcanalicular con láser diodo",
+    "DCR TC LD",
+    "DCR-L"
+  ],
+  "C0044": [
+    "Defocus incorporated multiple segments",
+    "DIMS",
+    "lentes de desenfoque periférico"
+  ],
+  "C0045": [
+    "Degeneración macular asociada a la edad neovascular",
+    "DMAEn",
+    "DMAEne",
+    "DMAEnv"
+  ],
+  "C0046": [
+    "Degeneración macular asociada a la edad neovascular exudativa",
+    "DMAEn",
+    "DMAEne",
+    "DMAEnv"
+  ],
+  "C0047": [
+    "Distrofia de la membrana basal anterior",
+    "Distrofia de la membrana basal epitelial de la córnea",
+    "DMBA",
+    "DMBE"
+  ],
+  "C0048": [
+    "Descemet membrane endothelial keratoplasty",
+    "DMEK",
+    "queratoplastia endotelial de membrana de Descemet"
+  ],
+  "C0049": [
+    "Desprendimiento del neuroepitelio",
+    "Desprendimiento neurosensorial de la retina",
+    "DNE",
+    "DNS"
+  ],
+  "C0050": [
+    "Dioptría prismática",
+    "DP"
+  ],
+  "C0051": [
+    "Diámetro pupilar.",
+    "DP"
+  ],
+  "C0052": [
+    "Distancia pupilar",
+    "DP"
+  ],
+  "C0053": [
+    "desorganización-desestructuración de las capas internas de la retina",
+    "Disorganization of retinal inner layers",
+    "DRIL"
+  ],
+  "C0054": [
+    "Descemet stripping with automated endothelial keratoplasty",
+    "DSAEK",
+    "queratoplastia endotelial automatizada con pelado de membrana de Descemet"
+  ],
+  "C0055": [
+    "Descemet stripping only",
+    "DSO",
+    "solo descemetorrexis"
+  ],
+  "C0056": [
+    "Desprendimiento de vítreo completo or incompleto",
+    "DVC",
+    "DVI"
+  ],
+  "C0057": [
+    "Descemetorhexis without endothelial keratoplasty",
+    "descemetorrexis sin queratoplastia endotelial",
+    "DWEK"
+  ],
+  "C0058": [
+    "Agujero estenopeico",
+    "E",
+    "Efecto estenopeico",
+    "EST"
+  ],
+  "C0059": [
+    "EA",
+    "Exudado algodonoso"
+  ],
+  "C0060": [
+    "EA",
+    "Exploración con anestesia"
+  ],
+  "C0061": [
+    "EDOF IOL",
+    "Extended depth of focus intraocular lens",
+    "lente intraocular de profundidad de foco extendida"
+  ],
+  "C0062": [
+    "EE",
+    "Espolón escleral"
+  ],
+  "C0063": [
+    "EE",
+    "Equivalente esférico"
+  ],
+  "C0064": [
+    "EIOI",
+    "Enfermedad inflamatoria orbitaria idiopática",
+    "pseudotumor inflamatorio de la órbita"
+  ],
+  "C0065": [
+    "EL",
+    "Endoláser"
+  ],
+  "C0066": [
+    "EL",
+    "Exploración con linterna"
+  ],
+  "C0067": [
+    "Edema macular",
+    "EM"
+  ],
+  "C0068": [
+    "EM",
+    "Esclerosis múltiple"
+  ],
+  "C0069": [
+    "Edema macular cistoide",
+    "Edema macular quístico",
+    "EMC",
+    "EMQ"
+  ],
+  "C0070": [
+    "Cociente excavación-papila",
+    "E/P",
+    "Embriotoxon posterior",
+    "EP",
+    "Excavación papilar or cociente excavación-papila"
+  ],
+  "C0071": [
+    "F",
+    "FENI",
+    "Fenilefrina"
+  ],
+  "C0072": [
+    "FACO",
+    "Facoemulsificación",
+    "FE"
+  ],
+  "C0073": [
+    "FE",
+    "Función del elevador"
+  ],
+  "C0074": [
+    "FE",
+    "Fijación excéntrica"
+  ],
+  "C0075": [
+    "enfermedad de Stargardt",
+    "FFM",
+    "Fundus flavimaculatus"
+  ],
+  "C0076": [
+    "Carl Zeiss Meditec AG",
+    "GDX",
+    "Polarimetria láser"
+  ],
+  "C0077": [
+    "Glaucoma pigmentario",
+    "GP",
+    "GPG"
+  ],
+  "C0078": [
+    "Glaucoma pseudoexfoliativo",
+    "GPEX",
+    "GPSX"
+  ],
+  "C0079": [
+    "Heidelberg Retina Tomograph",
+    "HRT",
+    "láser confocal de barrido de Heidelberg Engineering GmbH"
+  ],
+  "C0080": [
+    "Herpes simple",
+    "HS"
+  ],
+  "C0081": [
+    "Herpes simple virus",
+    "HSV"
+  ],
+  "C0082": [
+    "IC",
+    "Insuficiencia de convergencia"
+  ],
+  "C0083": [
+    "IC",
+    "Iridociclectomía"
+  ],
+  "C0084": [
+    "ICE",
+    "Iridocorneal endothelial syndrome",
+    "síndrome endotelial iridocorneal"
+  ],
+  "C0085": [
+    "ICG",
+    "Indocyanine green",
+    "verde de indocianina"
+  ],
+  "C0086": [
+    "ICL",
+    "Implantable collamer lens",
+    "lente fáquica implantable de colágeno"
+  ],
+  "C0087": [
+    "ICV",
+    "VFI",
+    "Índice de campo visual"
+  ],
+  "C0088": [
+    "IFIS",
+    "Intraoperative floppy iris syndrome",
+    "síndrome de iris flácido intraoperatorio"
+  ],
+  "C0089": [
+    "Intraocular lens",
+    "IOL",
+    "lente intraocular"
+  ],
+  "C0090": [
+    "Implantable phakic contact lens",
+    "IPCL",
+    "lente fáquica implantable de cámara posterior"
+  ],
+  "C0091": [
+    "anomalía microvascular intrarretiniana",
+    "Intraretinal microvascular abnormality",
+    "IRMA"
+  ],
+  "C0092": [
+    "Intravítreo or Inyección intravítrea",
+    "IVT"
+  ],
+  "C0093": [
+    "KC",
+    "Keratoconus",
+    "queratocono"
+  ],
+  "C0094": [
+    "keratotomy radial",
+    "KR",
+    "Queratotomí radial"
+  ],
+  "C0095": [
+    "LASEK",
+    "Laser-assisted subepithelial keratectomy",
+    "queratectomía subepitelial asistida con láser"
+  ],
+  "C0096": [
+    "Laser-assisted in situ keratomileusis",
+    "LASIK",
+    "queratomileusis in situ asistida con láser"
+  ],
+  "C0097": [
+    "LCRGP",
+    "LCRPG",
+    "Lente de contacto rígida permeable al gas or gas permeable"
+  ],
+  "C0098": [
+    "Leber’s hereditary optic neuropathy",
+    "LHON",
+    "neuropatía óptica hereditaria de Leber"
+  ],
+  "C0099": [
+    "MA",
+    "Membrana amniótica"
+  ],
+  "C0100": [
+    "MA",
+    "Microaneurisma"
+  ],
+  "C0101": [
+    "MacTel",
+    "Macular telangiectasia",
+    "telangiectasia macular"
+  ],
+  "C0102": [
+    "esotropia progresiva adquirida miópica",
+    "MAPE",
+    "Myopic acquired progressive esotropia"
+  ],
+  "C0103": [
+    "cirugía mínimamente invasiva de glaucoma",
+    "MIGS",
+    "Minimally invasive glaucoma surgery"
+  ],
+  "C0104": [
+    "Malla trabecular",
+    "MT"
+  ],
+  "C0105": [
+    "espesor macular",
+    "grosor macular",
+    "Macular thickness",
+    "MT"
+  ],
+  "C0106": [
+    "CIN",
+    "Neoplasia intraepitelial conjuntival",
+    "NIC"
+  ],
+  "C0107": [
+    "NIKBUT",
+    "Non invasive Keratograph break-up time",
+    "tiempo de ruptura lagrimal no invasivo en Keratograph"
+  ],
+  "C0108": [
+    "NM",
+    "No mejora"
+  ],
+  "C0109": [
+    "Nistagmus manifiesto",
+    "NM"
+  ],
+  "C0110": [
+    "Nervio craneal II",
+    "Nervio óptico",
+    "NO"
+  ],
+  "C0111": [
+    "Neuritis or neuropatía óptica",
+    "NO"
+  ],
+  "C0112": [
+    "OCT",
+    "Optical coherence tomography",
+    "tomografía de coherencia óptica"
+  ],
+  "C0113": [
+    "angiografía por tomografía de coherencia óptica",
+    "OCTA",
+    "Optical coherence tomography angiography"
+  ],
+  "C0114": [
+    "oculus dexter",
+    "OD",
+    "Ojo derecho"
+  ],
+  "C0115": [
+    "OI",
+    "Ojo izquierdo"
+  ],
+  "C0116": [
+    "Oblicuo inferior",
+    "OI"
+  ],
+  "C0117": [
+    "ORT",
+    "Outer retinal tubulation",
+    "tubulación de la retina externa"
+  ],
+  "C0118": [
+    "Oculus sinister",
+    "ojo izquierdo",
+    "OS"
+  ],
+  "C0119": [
+    "Oblicuo superior.",
+    "OS"
+  ],
+  "C0120": [
+    "Oftalmitis simpática",
+    "Oftalmía simpática",
+    "OS"
+  ],
+  "C0121": [
+    "ambos ojos",
+    "Oculus uterque en latín",
+    "OU"
+  ],
+  "C0122": [
+    "Obstrucción de la vía lagrimal alta",
+    "OVLA"
+  ],
+  "C0123": [
+    "Obstrucción de la vía lagrimal baja",
+    "OVLB"
+  ],
+  "C0124": [
+    "PAR",
+    "Proliferación angiomatosa retiniana",
+    "RAP"
+  ],
+  "C0125": [
+    "PEX",
+    "Pseudoexfoliación",
+    "PSX",
+    "SXF"
+  ],
+  "C0126": [
+    "PFC",
+    "Pseudofaquia correcta",
+    "PSFC"
+  ],
+  "C0127": [
+    "Panfotorretinocoagulación or panrretinofotocoagulación con láser argón or Panfotocoagulación",
+    "PFC",
+    "PFRC",
+    "PRFC"
+  ],
+  "C0128": [
+    "agujero estenopeico",
+    "ph",
+    "Pinhole"
+  ],
+  "C0129": [
+    "coroidopatía or coroiditis punctata interna",
+    "PIC",
+    "Punctate inner coroidopathy"
+  ],
+  "C0130": [
+    "oculus uterque",
+    "PIOU",
+    "Párpado inferior de ambos ojos"
+  ],
+  "C0131": [
+    "oculus uterque",
+    "PSOU",
+    "Párpado superior de ambos ojos"
+  ],
+  "C0132": [
+    "keratic",
+    "PK",
+    "Precipitados queráticos"
+  ],
+  "C0133": [
+    "PKE",
+    "Precipitados keratic endoteliales",
+    "Precipitados keratic-endoteliales",
+    "Precipitados querato endoteliales",
+    "Precipitados querato-endoteliales"
+  ],
+  "C0134": [
+    "Penetrating keratoplasty",
+    "PKP",
+    "queratoplastia penetrante"
+  ],
+  "C0135": [
+    "Percepción de luz",
+    "PL"
+  ],
+  "C0136": [
+    "PL",
+    "Punto lagrimal"
+  ],
+  "C0137": [
+    "POM",
+    "Pomada"
+  ],
+  "C0138": [
+    "Parálisis Oculomotora",
+    "POM"
+  ],
+  "C0139": [
+    "Polo posterior",
+    "PP"
+  ],
+  "C0140": [
+    "Pars plana",
+    "PP"
+  ],
+  "C0141": [
+    "Plasma rich in growth factors",
+    "plasma rico en factores de crecimiento",
+    "PRGF"
+  ],
+  "C0142": [
+    "Phototherapeutic keratectomy",
+    "PTK",
+    "queratectomía fototerapéutica"
+  ],
+  "C0143": [
+    "Peripheral ulcerative keratitis",
+    "PUK",
+    "queratitis ulcerativa periférica"
+  ],
+  "C0144": [
+    "Pulso venoso espontáneo",
+    "PVE"
+  ],
+  "C0145": [
+    "Potenciales visuales evocados",
+    "PVE"
+  ],
+  "C0146": [
+    "cada",
+    "Q"
+  ],
+  "C0147": [
+    "QC",
+    "Queratocono"
+  ],
+  "C0148": [
+    "QC",
+    "Queratoconjuntivitis"
+  ],
+  "C0149": [
+    "QCS",
+    "Queratoconjuntivitis seca or sicca"
+  ],
+  "C0150": [
+    "QP",
+    "QPP",
+    "Queratoplastia penetrante"
+  ],
+  "C0151": [
+    "QPS",
+    "Queratitis punteada or punctata superficial"
+  ],
+  "C0152": [
+    "PUK",
+    "Queratitis ulcerativa periférica",
+    "QUP"
+  ],
+  "C0153": [
+    "proliferación angiomatosa retiniana",
+    "RAP",
+    "Retinal angiomatous proliferation"
+  ],
+  "C0154": [
+    "RB",
+    "Rb",
+    "Retinoblastoma"
+  ],
+  "C0155": [
+    "RCD",
+    "Relación or ratio copa-disco"
+  ],
+  "C0156": [
+    "AZOOR",
+    "REOZA",
+    "Retinopatía externa oculta zonal aguda"
+  ],
+  "C0157": [
+    "Relación or ratio excavación-papila",
+    "REP"
+  ],
+  "C0158": [
+    "capa de fibras nerviosas retinianas",
+    "Retinal nerve fiber layer",
+    "RNFL"
+  ],
+  "C0159": [
+    "retiniopatía de la prematuridad",
+    "Retinopathy of prematurity",
+    "ROP"
+  ],
+  "C0160": [
+    "epitelio pigmentario de la retina",
+    "Retinal pigment epithelium",
+    "RPE"
+  ],
+  "C0161": [
+    "Recto superior",
+    "RS"
+  ],
+  "C0162": [
+    "Refracción subjetiva",
+    "RS"
+  ],
+  "C0163": [
+    "queratoplastia laminar anterior superficial",
+    "SALK",
+    "Superficial anterior lamellar keratoplasty"
+  ],
+  "C0164": [
+    "SC",
+    "Sin corrección óptica"
+  ],
+  "C0165": [
+    "SC",
+    "Sin células",
+    "tyndall negativo"
+  ],
+  "C0166": [
+    "catarata",
+    "SCP",
+    "Subcapsular posterior"
+  ],
+  "C0167": [
+    "Sd",
+    "SD",
+    "SD/Sd",
+    "Síndrome"
+  ],
+  "C0168": [
+    "elevacion RPE",
+    "elevación plana e irregular del epitelio pigmentario de la retina",
+    "irregular retinal pigment epithelium elevation",
+    "RPE elevation",
+    "Shallow",
+    "SIRE"
+  ],
+  "C0169": [
+    "Selective laser trabeculoplasty",
+    "SLT",
+    "trabeculoplastia láser selectiva"
+  ],
+  "C0170": [
+    "MEWDS",
+    "SMPBE",
+    "Síndrome de múltiples puntos blancos evanescentes"
+  ],
+  "C0171": [
+    "Sinequia posterior",
+    "SP"
+  ],
+  "C0172": [
+    "Segmento posterior",
+    "SP"
+  ],
+  "C0173": [
+    "Sindrome párpado flácido",
+    "Sindrome párpado flácido laxo",
+    "SPF",
+    "SPL"
+  ],
+  "C0174": [
+    "defecto esférico en graduación óptica",
+    "esfera",
+    "SPH",
+    "Sphere"
+  ],
+  "C0175": [
+    "PEX",
+    "Pseudoxantoma elástico",
+    "SXE"
+  ],
+  "C0176": [
+    "Ta",
+    "TA",
+    "Tonometría de aplanamiento de Goldmann"
+  ],
+  "C0177": [
+    "TBC",
+    "TRABE",
+    "Trabeculectomía"
+  ],
+  "C0178": [
+    "TBC",
+    "Tuberculosis"
+  ],
+  "C0179": [
+    "TBUT",
+    "Tear break-up time",
+    "tiempo de ruptura de la película lagrimal"
+  ],
+  "C0180": [
+    "OCT",
+    "TCO",
+    "Tomografía de coherencia óptica"
+  ],
+  "C0181": [
+    "SLT",
+    "Trabeculoplastia selectiva láser",
+    "TSL"
+  ],
+  "C0182": [
+    "agudeza visual lejana sin corrección",
+    "UDVA",
+    "Uncorrected distance visual acuity"
+  ],
+  "C0183": [
+    "agudeza visual intermedia sin corrección",
+    "UIVA",
+    "Uncorrected intermediate visual acuity"
+  ],
+  "C0184": [
+    "Síndrome uveítis-nefritis tubulointersticial",
+    "TINU",
+    "UNTI"
+  ],
+  "C0185": [
+    "agudeza visual cercana sin corrección",
+    "Uncorrected near visual acuity",
+    "UNVA"
+  ],
+  "C0186": [
+    "PCV",
+    "Vasculopatía coroidea polipoidea",
+    "VCP"
+  ],
+  "C0187": [
+    "factor de crecimiento endotelial vascular",
+    "Vascular endothelial growth factor",
+    "VEGF"
+  ],
+  "C0188": [
+    "VFI",
+    "Visual field index",
+    "índice de campo visual"
+  ],
+  "C0189": [
+    "VHS",
+    "Virus herpes simple",
+    "Virus herpes simplex"
+  ],
+  "C0190": [
+    "VI",
+    "Visión intermedia"
+  ],
+  "C0191": [
+    "Verde indocianina",
+    "VI"
+  ],
+  "C0192": [
+    "Visión de lejos",
+    "VL"
+  ],
+  "C0193": [
+    "VL",
+    "Vía lagrimal"
+  ],
+  "C0194": [
+    "adhesión vitreomacular",
+    "Vitreomacular adhesion",
+    "VMA"
+  ],
+  "C0195": [
+    "tracción vitreomacular",
+    "Vitreomacular traction",
+    "VMT"
+  ],
+  "C0196": [
+    "VPH",
+    "VPHP",
+    "Vítreo primario hiperplásico or vítreo primario hiperplásico persistente"
+  ],
+  "C0197": [
+    "aneurismas y neurorretinitis",
+    "IRVAN",
+    "Síndrome de vasculitis retiniana idiopática",
+    "VRIAN"
+  ],
+  "C0198": [
+    "Ablefaria",
+    "Criptoftalmos"
+  ],
+  "C0199": [
+    "Acromatopsia",
+    "acromatopsia",
+    "Monocromatismo"
+  ],
+  "C0200": [
+    "Agudeza visual Vernier",
+    "Alineamiento Vernier",
+    "Poder de alineamiento"
+  ],
+  "C0201": [
+    "AINES",
+    "Antiinflamatorios no esteroideos"
+  ],
+  "C0202": [
+    "Alcoholización",
+    "Neurólisis alcohólica"
+  ],
+  "C0203": [
+    "Análogos de prostaglandinas",
+    "PGF2α"
+  ],
+  "C0204": [
+    "Ambliopía por deprivación sensorial",
+    "Ambliopía por exanopsia"
+  ],
+  "C0205": [
+    "Amblioscopio",
+    "Sinoptóforo"
+  ],
+  "C0206": [
+    "Anillo de Zinn",
+    "Anillo tendinoso común"
+  ],
+  "C0207": [
+    "Antagonistas muscarínicos",
+    "Antimuscarínicos"
+  ],
+  "C0208": [
+    "Antiadrenérgicos",
+    "Simpaticolíticos"
+  ],
+  "C0209": [
+    "Anticolinérgico",
+    "Anticolinérgicos",
+    "Parasimpaticolíticos"
+  ],
+  "C0210": [
+    "Antiinflamatorios esteroides",
+    "Glucocorticoides"
+  ],
+  "C0211": [
+    "Antibióticos",
+    "Antimetabolitos"
+  ],
+  "C0212": [
+    "Apertura palpebral",
+    "Hendidura palpebral",
+    "HP"
+  ],
+  "C0213": [
+    "Antagonista muscular",
+    "Músculo antagonista"
+  ],
+  "C0214": [
+    "Bulbo ocular",
+    "Globo ocular"
+  ],
+  "C0215": [
+    "Armazón",
+    "Montura"
+  ],
+  "C0216": [
+    "Barrera hematoneural",
+    "Vaina perineural"
+  ],
+  "C0217": [
+    "Biomicroscopio",
+    "LH",
+    "Lámpara de hendidura"
+  ],
+  "C0218": [
+    "Blefarocalasia",
+    "Blefarochalasis"
+  ],
+  "C0219": [
+    "Canal de Cloquet",
+    "Canal hialoideo",
+    "Conducto hialoideo"
+  ],
+  "C0220": [
+    "Capa de fibras del nervio óptico",
+    "Capa de fibras nerviosas"
+  ],
+  "C0221": [
+    "Bastón",
+    "Capa de conos y bastones",
+    "Capa de fotorreceptores",
+    "Capa ganglionar y Cono",
+    "Fotorreceptor"
+  ],
+  "C0222": [
+    "Capa del epitelio pigmentario",
+    "Epitelio pigmentario de la retina",
+    "EPR",
+    "Pars pigmentosa",
+    "Parte pigmentosa"
+  ],
+  "C0223": [
+    "Capa de células ganglionares",
+    "Capa ganglionar",
+    "CCG"
+  ],
+  "C0224": [
+    "Capa granulosa externa",
+    "Capa nuclear externa"
+  ],
+  "C0225": [
+    "Aponeurosis orbitoocular",
+    "Cápsula de Tenon",
+    "Vaina del globo ocular"
+  ],
+  "C0226": [
+    "Célula bipolar",
+    "Neurona bipolar de la retina"
+  ],
+  "C0227": [
+    "Chalazión",
+    "Quiste de Meibomio"
+  ],
+  "C0228": [
+    "Bastón",
+    "Célula bastón"
+  ],
+  "C0229": [
+    "Cono",
+    "Célula cono"
+  ],
+  "C0230": [
+    "Cintilla óptica",
+    "Tracto óptico"
+  ],
+  "C0231": [
+    "Aberración por curvatura de campo",
+    "Curvatura de campo"
+  ],
+  "C0232": [
+    "canal de Schlemm",
+    "Canal de Schlemm",
+    "Conducto de Schlemm",
+    "Seno venoso de la esclera"
+  ],
+  "C0233": [
+    "Cilosis",
+    "Fasciculaciones del párpado"
+  ],
+  "C0234": [
+    "Condensador",
+    "Lente condensadora"
+  ],
+  "C0235": [
+    "Conjuntiva palpebral",
+    "Conjuntiva tarsa"
+  ],
+  "C0236": [
+    "Coloboma de Fuchs",
+    "Cono miópico",
+    "Creciente escleral",
+    "Creciente miópico",
+    "Creciente temporal"
+  ],
+  "C0237": [
+    "Cruz de Maddox",
+    "Escala tangente de Maddox"
+  ],
+  "C0238": [
+    "Cuerpo geniculado lateral",
+    "Núcleo geniculado lateral"
+  ],
+  "C0239": [
+    "Daltonismo",
+    "Protanopia"
+  ],
+  "C0240": [
+    "Degeneración macular asociada a la edad",
+    "Degeneración macular asociada con la edad",
+    "Degeneración macular senil",
+    "DMAE"
+  ],
+  "C0241": [
+    "Degeneración marginal pelúcida",
+    "Queratotoro"
+  ],
+  "C0242": [
+    "Distiquiasis",
+    "Triquiasis"
+  ],
+  "C0243": [
+    "Dermatocalasia",
+    "Dermatochalasis"
+  ],
+  "C0244": [
+    "Desviación horizontal disociada",
+    "DHD"
+  ],
+  "C0245": [
+    "Desviación vertical disociada",
+    "DVD"
+  ],
+  "C0246": [
+    "Aberración por distorsión",
+    "Distorsión de la imagen"
+  ],
+  "C0247": [
+    "Deuteranopsia",
+    "Deuteranopía"
+  ],
+  "C0248": [
+    "DK/t",
+    "Permeabilidad y transmisibilidad"
+  ],
+  "C0249": [
+    "Corrimiento de Purkinje",
+    "Efecto Purkinje"
+  ],
+  "C0250": [
+    "Electromiograma",
+    "EMG"
+  ],
+  "C0251": [
+    "Electronistagmografía",
+    "ENG"
+  ],
+  "C0252": [
+    "Electrooculograma",
+    "EOG"
+  ],
+  "C0253": [
+    "Electrorretinograma",
+    "ERG"
+  ],
+  "C0254": [
+    "Endotropia",
+    "ET"
+  ],
+  "C0255": [
+    "Distrofia macular juvenil",
+    "Enfermedad de Stargardt"
+  ],
+  "C0256": [
+    "Enoftalmia",
+    "Enoftalmo"
+  ],
+  "C0257": [
+    "Endotelio corneal",
+    "Epitelio posterior de la córnea"
+  ],
+  "C0258": [
+    "Espectro visible",
+    "Luz blanca"
+  ],
+  "C0259": [
+    "Epicanto",
+    "Epicantus"
+  ],
+  "C0260": [
+    "Enfermedad de Graves",
+    "Oftalmopatía tiroidea",
+    "Tirotoxicosis"
+  ],
+  "C0261": [
+    "Escape pupilar",
+    "Hippus fisiológico"
+  ],
+  "C0262": [
+    "Esclera",
+    "Esclerótica"
+  ],
+  "C0263": [
+    "Escotoma fisiológico",
+    "Mancha ciega de Mariotte"
+  ],
+  "C0264": [
+    "Exoftalmo",
+    "Exoftalmos",
+    "Proptosis",
+    "Protrusión ocular"
+  ],
+  "C0265": [
+    "Exotropia",
+    "EXT",
+    "XT"
+  ],
+  "C0266": [
+    "Factor de Coddington",
+    "Factor de forma"
+  ],
+  "C0267": [
+    "Célula del cristalino",
+    "Fibra del cristalino"
+  ],
+  "C0268": [
+    "Filtro anerita",
+    "Filtro verde"
+  ],
+  "C0269": [
+    "Filtro ultravioleta",
+    "UV"
+  ],
+  "C0270": [
+    "Flóculos vítreos",
+    "Miodesopsias",
+    "Moscas volantes"
+  ],
+  "C0271": [
+    "Forópter",
+    "Foróptero"
+  ],
+  "C0272": [
+    "Astenopia",
+    "Fatiga ocular"
+  ],
+  "C0273": [
+    "Film lagrimal",
+    "Película lagrimal"
+  ],
+  "C0274": [
+    "Fisura orbitaria superior",
+    "Hendidura esfenoidal"
+  ],
+  "C0275": [
+    "Foco de una lente",
+    "Lente esférica"
+  ],
+  "C0276": [
+    "Fondo de saco conjuntival",
+    "Fórnix conjuntival"
+  ],
+  "C0277": [
+    "Arco senil",
+    "Gerontoxon"
+  ],
+  "C0278": [
+    "Anteojos",
+    "Gafas"
+  ],
+  "C0279": [
+    "Frontofocómetro",
+    "Lensómetro"
+  ],
+  "C0280": [
+    "Glándula tarsal",
+    "Glándulas de Meibomio"
+  ],
+  "C0281": [
+    "Glándulas ciliares",
+    "Glándulas de Zeiss"
+  ],
+  "C0282": [
+    "Antiinflamatorio esteroideo",
+    "Glucocorticoide"
+  ],
+  "C0283": [
+    "Atetosis pupilar",
+    "Hippus"
+  ],
+  "C0284": [
+    "Hemorragia retiniana",
+    "Hemovítreo",
+    "HV"
+  ],
+  "C0285": [
+    "ACI",
+    "Inhibidor de la anhidrasa carbónica"
+  ],
+  "C0286": [
+    "anti-ChE",
+    "Inhibidores de la acetilcolinesterasa"
+  ],
+  "C0287": [
+    "Iluminación",
+    "Intensidad luminosa"
+  ],
+  "C0288": [
+    "Iridoparalisis",
+    "Iridoplejia"
+  ],
+  "C0289": [
+    "Estrabismo incomitante y Concomitancia",
+    "Incomitancia"
+  ],
+  "C0290": [
+    "Ley de refracción",
+    "Índice de refracción"
+  ],
+  "C0291": [
+    "Demora acomodativa",
+    "Lag acomodativo"
+  ],
+  "C0292": [
+    "Colimador",
+    "Lente colimadora"
+  ],
+  "C0293": [
+    "Filtro polarizador",
+    "Lente polarizada"
+  ],
+  "C0294": [
+    "Longitud de onda",
+    "Luz. Longitud de Onda de la Luz"
+  ],
+  "C0295": [
+    "Diodo láser",
+    "Láser de Diodo"
+  ],
+  "C0296": [
+    "Gonioscopio",
+    "Lente de Goldmann de tres espejos"
+  ],
+  "C0297": [
+    "Ley de inervación binocular",
+    "Ley de inervación de Hering"
+  ],
+  "C0298": [
+    "Ley de inervación recíproca de Sherrington",
+    "Ley de invervación monocular"
+  ],
+  "C0299": [
+    "Ley de la Reflexión",
+    "Reflexión Especular de la Luz"
+  ],
+  "C0300": [
+    "Ley de la Refracción",
+    "Ley de Snell",
+    "Refracción de la Luz en una Interfaz Plana"
+  ],
+  "C0301": [
+    "Blefaritis Posterior",
+    "Meibomitis"
+  ],
+  "C0302": [
+    "Lámina limitante anterior",
+    "Membrana de Bowmann"
+  ],
+  "C0303": [
+    "Lámina limitante posterior",
+    "Membrana de Descemet"
+  ],
+  "C0304": [
+    "Miopía degenerativa",
+    "Miopía magna"
+  ],
+  "C0305": [
+    "Acromatopsia ligada al cromosoma X",
+    "Monocromatismo atípico",
+    "Monocromatismo de cono azul y bastones"
+  ],
+  "C0306": [
+    "Monocromatismo de bastones",
+    "Monocromatismo típico"
+  ],
+  "C0307": [
+    "Músculo acomodador distante",
+    "Músculo de Brücke"
+  ],
+  "C0308": [
+    "Músculo acomodador próximo",
+    "Músculo de Müller Rouget"
+  ],
+  "C0309": [
+    "Músculo oblicuo mayor",
+    "Músculo oblicuo superior"
+  ],
+  "C0310": [
+    "Externo",
+    "Músculo recto lateral"
+  ],
+  "C0311": [
+    "Interno",
+    "Músculo recto medial"
+  ],
+  "C0312": [
+    "Motor ocular externo",
+    "Nervio abducens",
+    "Nervio craneal VI"
+  ],
+  "C0313": [
+    "Nervio craneal III",
+    "Nervio motor ocular común"
+  ],
+  "C0314": [
+    "Nervio craneal V",
+    "Nervio trigémino"
+  ],
+  "C0315": [
+    "Nervio craneal IV",
+    "Nervio Troclear"
+  ],
+  "C0316": [
+    "Nistagmo",
+    "Nistagmus"
+  ],
+  "C0317": [
+    "Núcleo de Edinger–Westphal",
+    "Núcleo motor accesorio del Nervio craneal III"
+  ],
+  "C0318": [
+    "Dispersión espectral relativa de la luz",
+    "Número de Abbe"
+  ],
+  "C0319": [
+    "Oclusión indirecta",
+    "Oclusión inversa"
+  ],
+  "C0320": [
+    "Oclusión parcial",
+    "Oclusión sectorial"
+  ],
+  "C0321": [
+    "Ojo afáquico",
+    "Ojo sin cristalino"
+  ],
+  "C0322": [
+    "Optometrista",
+    "Optometría",
+    "Optómetra"
+  ],
+  "C0323": [
+    "Oftalmómetro",
+    "Queratómetro"
+  ],
+  "C0324": [
+    "Ojo amaurótico",
+    "Ojo ciego"
+  ],
+  "C0325": [
+    "Ambliopía",
+    "Ojo perezoso",
+    "Ojo vago"
+  ],
+  "C0326": [
+    "Edema de papila",
+    "Papiledema"
+  ],
+  "C0327": [
+    "Papila del nervio óptico",
+    "Papila óptica"
+  ],
+  "C0328": [
+    "Cicatricial ocular",
+    "Penfigoide de las membranas mucosas"
+  ],
+  "C0329": [
+    "Pedículo óptico",
+    "Tallo óptico"
+  ],
+  "C0330": [
+    "Campimetría",
+    "Perimetría"
+  ],
+  "C0331": [
+    "Planos principales",
+    "Puntos principales"
+  ],
+  "C0332": [
+    "Agudeza Visual",
+    "Poder de resolución"
+  ],
+  "C0333": [
+    "Filtro polarizado",
+    "Polarizador"
+  ],
+  "C0334": [
+    "Diplopía",
+    "Poliopia"
+  ],
+  "C0335": [
+    "PMMA",
+    "Polimetilmetacrilato"
+  ],
+  "C0336": [
+    "Posición primaria de la mirada",
+    "Posición primaria de mirada",
+    "PPM"
+  ],
+  "C0337": [
+    "Presbicia",
+    "Presbicie"
+  ],
+  "C0338": [
+    "Prescripción optométrica",
+    "Prescripción óptica"
+  ],
+  "C0339": [
+    "PIO",
+    "Presión intraocular"
+  ],
+  "C0340": [
+    "de balasto",
+    "Prisma de balastro"
+  ],
+  "C0341": [
+    "Diasporámetro",
+    "Prisma rotatorio de Risley"
+  ],
+  "C0342": [
+    "Dicrómatas",
+    "Protanope"
+  ],
+  "C0343": [
+    "Protanómalo",
+    "Tricrómatas anormales"
+  ],
+  "C0344": [
+    "PPC",
+    "Punto próximo de convergencia"
+  ],
+  "C0345": [
+    "Queratitis dendrítica",
+    "Queratitis herpética"
+  ],
+  "C0346": [
+    "Queratoplastía",
+    "Trasplante de córnea"
+  ],
+  "C0347": [
+    "Queratomalacia",
+    "SOS",
+    "Síndrome de ojo seco",
+    "Xeroftalmia"
+  ],
+  "C0348": [
+    "Radiacion óptica",
+    "Tracto geniculocalcarino"
+  ],
+  "C0349": [
+    "Refracción bajo ciclopiegia",
+    "Refracción cicloplégica"
+  ],
+  "C0350": [
+    "lente esférica",
+    "Radio de curvatura"
+  ],
+  "C0351": [
+    "Porción óptica de la retina",
+    "Retina",
+    "Túnica interna del globo ocular",
+    "Túnica nerviosa del globo ocular"
+  ],
+  "C0352": [
+    "Retinofluoresceinografía",
+    "RFG"
+  ],
+  "C0353": [
+    "Retinopatía pigmentaria",
+    "Retinosis"
+  ],
+  "C0354": [
+    "Púrpura visual",
+    "Rodopsina"
+  ],
+  "C0355": [
+    "Antiadrenérgico",
+    "Simpaticolítico"
+  ],
+  "C0356": [
+    "Fenómeno de Bell",
+    "Signo de Bell"
+  ],
+  "C0357": [
+    "Examen subjetivo",
+    "Subjetivo"
+  ],
+  "C0358": [
+    "Síndrome de Duane",
+    "Síndrome de Stilling",
+    "Síndrome de Türk-Stilling"
+  ],
+  "C0359": [
+    "Síndrome de Marcus-Gunn",
+    "Síndrome Mandíbula-parpadeo"
+  ],
+  "C0360": [
+    "Prótesis oculopalpebral",
+    "Somatoprótesis"
+  ],
+  "C0361": [
+    "Break up time",
+    "Test BUT",
+    "Tiempo de ruptura lagrimal",
+    "TRL"
+  ],
+  "C0362": [
+    "Test de balanceo de la luz",
+    "Test de Marcus-Gunn"
+  ],
+  "C0363": [
+    "Botox",
+    "Toxina botulínica"
+  ],
+  "C0364": [
+    "Túnica vascular del globo ocular",
+    "Úvea"
+  ],
+  "C0365": [
+    "Vesícula cristaliniana",
+    "Vesícula del cristalino"
+  ],
+  "C0366": [
+    "Vía visual",
+    "Vía óptica"
+  ],
+  "C0367": [
+    "Visión cercana",
+    "Visión próxima",
+    "VP"
+  ],
+  "C0368": [
+    "NdYAG",
+    "YAG láser"
+  ],
+  "C0369": [
+    "Iodopsina",
+    "Yodopsina"
+  ],
+  "C0370": [
+    "Aparato suspensorio",
+    "Zónula ciliar",
+    "Zónula de Zinn"
+  ],
+  "C0371": [
+    "5-Fluorouracilo",
+    "5FU"
+  ],
+  "C0372": [
+    "AA",
+    "Amplitud de acomodación"
+  ],
+  "C0373": [
+    "AAF",
+    "Aspiración con aguja fina"
+  ],
+  "C0374": [
+    "AC/A",
+    "Relación ángulo de convergencia-acomodación"
+  ],
+  "C0375": [
+    "ACG",
+    "Arteritis de células gigantes"
+  ],
+  "C0376": [
+    "Accidente cerebrovascular",
+    "ACV"
+  ],
+  "C0377": [
+    "ADO",
+    "Antidiabético oral"
+  ],
+  "C0378": [
+    "AF",
+    "AUTOFLUO",
+    "Autofluorescencia"
+  ],
+  "C0379": [
+    "AFB",
+    "Aflibercept"
+  ],
+  "C0380": [
+    "AFG",
+    "Angiofluoresceingrafía"
+  ],
+  "C0381": [
+    "AG",
+    "Atrofia geográfica"
+  ],
+  "C0382": [
+    "AGF",
+    "Angiografía fluoresceínica"
+  ],
+  "C0383": [
+    "AHC",
+    "Astigmatismo hipermetrópico compuesto"
+  ],
+  "C0384": [
+    "AHS",
+    "Astigmatismo hipermetrópico simple"
+  ],
+  "C0385": [
+    "AIAMC",
+    "Síndrome de aumento idiopático agudo de la mancha ciega"
+  ],
+  "C0386": [
+    "AII",
+    "Artritis idiopática infantil"
+  ],
+  "C0387": [
+    "AIJ",
+    "Artritis idiopática juvenil"
+  ],
+  "C0388": [
+    "Accidente isquémico transitorio",
+    "AIT"
+  ],
+  "C0389": [
+    "AL",
+    "Anestésico local"
+  ],
+  "C0390": [
+    "AMC",
+    "Astigmatismo miópico compuesto"
+  ],
+  "C0391": [
+    "Agujero macular de espesor completo",
+    "AMEC"
+  ],
+  "C0392": [
+    "AMIR",
+    "Anomalía microvascular intrarretiniana"
+  ],
+  "C0393": [
+    "AMS",
+    "Astigmatismo miópico simple"
+  ],
+  "C0394": [
+    "Anillo neurorretiniano",
+    "ANR"
+  ],
+  "C0395": [
+    "APL",
+    "Ausencia de percepción de luz"
+  ],
+  "C0396": [
+    "Age-Related Eye Disease Study",
+    "AREDS"
+  ],
+  "C0397": [
+    "Aceite de silicona",
+    "AS"
+  ],
+  "C0398": [
+    "Anillo de tensión capsular",
+    "ATC"
+  ],
+  "C0399": [
+    "Agudeza visual",
+    "AV"
+  ],
+  "C0400": [
+    "Agudeza visual mejor corregida",
+    "AV MC",
+    "AVMC"
+  ],
+  "C0401": [
+    "AV NST",
+    "No se toma agudeza visual"
+  ],
+  "C0402": [
+    "Agudeza visual sin corrección",
+    "AV SC"
+  ],
+  "C0403": [
+    "Agudeza visual cercana con corrección",
+    "AVCcc"
+  ],
+  "C0404": [
+    "Agudeza visual cercana con la corrección lejana",
+    "AVCccl"
+  ],
+  "C0405": [
+    "Agudeza visual cercana sin correción",
+    "AVCsc"
+  ],
+  "C0406": [
+    "Angiografía con verde indocianina",
+    "AVI"
+  ],
+  "C0407": [
+    "Agudeza visual intermedia con corrección",
+    "AVIcc"
+  ],
+  "C0408": [
+    "Agudeza visual intermedia con la corrección lejana",
+    "AVIccl"
+  ],
+  "C0409": [
+    "Agudeza visual intermedia sin corrección",
+    "AVIsc"
+  ],
+  "C0410": [
+    "Agudeza visual lejana",
+    "AVL"
+  ],
+  "C0411": [
+    "Agudeza visual lejana con corrección",
+    "AVLcc"
+  ],
+  "C0412": [
+    "Agudeza visual lejana sin corrección",
+    "AVLsc"
+  ],
+  "C0413": [
+    "Adhesión vitreomacular",
+    "AVM"
+  ],
+  "C0414": [
+    "BAG",
+    "Bajo anestesia general"
+  ],
+  "C0415": [
+    "Base prismática inferior",
+    "BI"
+  ],
+  "C0416": [
+    "Biomicroscopía",
+    "BMC"
+  ],
+  "C0417": [
+    "Biomicroscopía de polo anterior",
+    "BMPA",
+    "BPA"
+  ],
+  "C0418": [
+    "Biomicroscopía de polo posterior",
+    "BMPP"
+  ],
+  "C0419": [
+    "Biomicroscopía ultrasónica",
+    "BMU"
+  ],
+  "C0420": [
+    "Base prismática nasal",
+    "BN"
+  ],
+  "C0421": [
+    "BPCA",
+    "Buena profundidad de cámara anterior"
+  ],
+  "C0422": [
+    "BRFM",
+    "Buen reflejo fotomotor"
+  ],
+  "C0423": [
+    "Base prismática superior",
+    "BS"
+  ],
+  "C0424": [
+    "Base prismática temporal",
+    "BT"
+  ],
+  "C0425": [
+    "Biopsia",
+    "BX"
+  ],
+  "C0426": [
+    "C3F8",
+    "Perfluoropropano"
+  ],
+  "C0427": [
+    "CA",
+    "Cámara anterior"
+  ],
+  "C0428": [
+    "CABP",
+    "Cámara anterior de buena profundidad"
+  ],
+  "C0429": [
+    "CAE",
+    "Con agujero estenopeico"
+  ],
+  "C0430": [
+    "CAF",
+    "Cámara anterior formada"
+  ],
+  "C0431": [
+    "CAP",
+    "Cierre angular primario"
+  ],
+  "C0432": [
+    "CAPA",
+    "Cierre angular primario agudo"
+  ],
+  "C0433": [
+    "CAV",
+    "Cruce arteriovenoso"
+  ],
+  "C0434": [
+    "Carcinoma de células basales",
+    "CCB"
+  ],
+  "C0435": [
+    "Carcinoma de células escamosas",
+    "CCE"
+  ],
+  "C0436": [
+    "CCS",
+    "Coriorretinopatía central serosa"
+  ],
+  "C0437": [
+    "CD",
+    "Cuenta dedos"
+  ],
+  "C0438": [
+    "CEIO",
+    "Cuerpo extraño intraocular"
+  ],
+  "C0439": [
+    "Capa de fibras nerviosas de la retina",
+    "CFNR"
+  ],
+  "C0440": [
+    "Cavitación intracoroidea",
+    "CIC"
+  ],
+  "C0441": [
+    "CICLO",
+    "Cicloplejía"
+  ],
+  "C0442": [
+    "CIP",
+    "Coroiditis interna punteada"
+  ],
+  "C0443": [
+    "CIT",
+    "Contacto iridotrabecular"
+  ],
+  "C0444": [
+    "CMP",
+    "Coroiditis multifocal con panuveítis"
+  ],
+  "C0445": [
+    "CN",
+    "Corticonuclear"
+  ],
+  "C0446": [
+    "Ceguera nocturna estacionaria congénita",
+    "CNEC"
+  ],
+  "C0447": [
+    "CP",
+    "Cámara posterior"
+  ],
+  "C0448": [
+    "Conjuntivitis papilar gigante",
+    "CPG"
+  ],
+  "C0449": [
+    "Capsulotomía posterior con láser YAG",
+    "CPY"
+  ],
+  "C0450": [
+    "Coriorretiniano",
+    "CR"
+  ],
+  "C0451": [
+    "Correspondencia retiniana anómala",
+    "CRA"
+  ],
+  "C0452": [
+    "Coriorretinopatía hemorrágica exudativa periférica",
+    "CRHEP"
+  ],
+  "C0453": [
+    "Correspondencia retiniana normal",
+    "CRN"
+  ],
+  "C0454": [
+    "CRNM",
+    "Cámara de retinografía no midriática"
+  ],
+  "C0455": [
+    "Coroiditis serpiginosa",
+    "CS"
+  ],
+  "C0456": [
+    "Con su gafa",
+    "CSG"
+  ],
+  "C0457": [
+    "Catarata subcapsular posterior",
+    "CSP"
+  ],
+  "C0458": [
+    "Campo visual",
+    "CV"
+  ],
+  "C0459": [
+    "Crosslinking",
+    "CXL"
+  ],
+  "C0460": [
+    "D",
+    "Dioptría"
+  ],
+  "C0461": [
+    "Dacriocistorrinostomía",
+    "DCR"
+  ],
+  "C0462": [
+    "Dacriocistorrinostomía endoscópica",
+    "DCR-EN"
+  ],
+  "C0463": [
+    "DD",
+    "Diámetro de disco"
+  ],
+  "C0464": [
+    "DDS",
+    "Depósitos densos subretinianos"
+  ],
+  "C0465": [
+    "DEF",
+    "Distrofia endotelial de Fuchs"
+  ],
+  "C0466": [
+    "DEHC",
+    "Distrofia endotelial hereditaria congénita"
+  ],
+  "C0467": [
+    "DEP",
+    "Desprendimiento de epitelio pigmentario retiniano"
+  ],
+  "C0468": [
+    "Depresión foveal",
+    "DF"
+  ],
+  "C0469": [
+    "DGM",
+    "Disfunción de glándulas de Meibomio"
+  ],
+  "C0470": [
+    "DIP",
+    "Distancia interpupilar"
+  ],
+  "C0471": [
+    "Distancia margen-reflejo",
+    "DMR"
+  ],
+  "C0472": [
+    "Disco óptico",
+    "DO"
+  ],
+  "C0473": [
+    "Defecto pupilar aferente relativo",
+    "DPAR"
+  ],
+  "C0474": [
+    "Desprendimiento posterior de vítreo",
+    "DPV"
+  ],
+  "C0475": [
+    "Desprendimiento de retina",
+    "DR"
+  ],
+  "C0476": [
+    "DRE",
+    "Drespendimiento de retina exudativo"
+  ],
+  "C0477": [
+    "Depósitos retroqueráticos",
+    "DRK"
+  ],
+  "C0478": [
+    "Desprendimiento de retina regmatógeno",
+    "DRR"
+  ],
+  "C0479": [
+    "Desprendimiento de retina traccional",
+    "DRT"
+  ],
+  "C0480": [
+    "Desprendimiento seroso del neuroepitelio retiniano",
+    "DSNE"
+  ],
+  "C0481": [
+    "Defecto de transiluminación",
+    "DTI"
+  ],
+  "C0482": [
+    "Desprendimiento de vítreo posterior",
+    "DVP"
+  ],
+  "C0483": [
+    "EBD",
+    "Ecografía bidimensional"
+  ],
+  "C0484": [
+    "EC",
+    "Extracción de catarata"
+  ],
+  "C0485": [
+    "EDI",
+    "Estrabismo divergente intermitente"
+  ],
+  "C0486": [
+    "EECC",
+    "Extracción extracapsular de cristalino o catarata"
+  ],
+  "C0487": [
+    "ECC",
+    "Espesor corneal central"
+  ],
+  "C0488": [
+    "E/EF",
+    "Endoforia"
+  ],
+  "C0489": [
+    "EFC",
+    "Excavación focal coroidea"
+  ],
+  "C0490": [
+    "EFD",
+    "Exploración de fondo de ojo con dilatación"
+  ],
+  "C0491": [
+    "EICC",
+    "Extracción intracapsular de cristalino o catarata"
+  ],
+  "C0492": [
+    "EICH",
+    "Enfermedad injerto contra huésped"
+  ],
+  "C0493": [
+    "ELH",
+    "Exploración con lámpara de hendidura"
+  ],
+  "C0494": [
+    "Edema macular clínicamente significativo",
+    "EMCS"
+  ],
+  "C0495": [
+    "Edema macular diabético",
+    "EMD"
+  ],
+  "C0496": [
+    "Edema macular microquístico",
+    "EMM"
+  ],
+  "C0497": [
+    "EN",
+    "Esclerosis nuclear de cristalino"
+  ],
+  "C0498": [
+    "Enfermedad ocular tiroidea",
+    "EOT"
+  ],
+  "C0499": [
+    "Epiteliopatía pigmentaria placoide multifocal posterior aguda",
+    "EPPMPA"
+  ],
+  "C0500": [
+    "Epitelitis pigmentaria retiniana aguda",
+    "EPRA"
+  ],
+  "C0501": [
+    "EPNP",
+    "Esclerectomía profunda no perforante"
+  ],
+  "C0502": [
+    "Elevador del párpado superior",
+    "EPS"
+  ],
+  "C0503": [
+    "ESC",
+    "Escotoma de supresión central"
+  ],
+  "C0504": [
+    "ESF",
+    "Esfera o defecto esférico en graduación óptica"
+  ],
+  "C0505": [
+    "Defecto refractivo esférico miópico",
+    "ESF-"
+  ],
+  "C0506": [
+    "Defecto refractivo esférico hipermetrópico",
+    "ESF+"
+  ],
+  "C0507": [
+    "Esclerouvectomía",
+    "ESV"
+  ],
+  "C0508": [
+    "E(T)",
+    "Endotropia intermitente"
+  ],
+  "C0509": [
+    "Esotropia asociada del adulto",
+    "ETAE"
+  ],
+  "C0510": [
+    "EXF",
+    "Exoforia"
+  ],
+  "C0511": [
+    "FA",
+    "Flexibilidad acomodativa"
+  ],
+  "C0512": [
+    "Facoemulsificación combinada con vitrectomía pars plana",
+    "FACOVPP"
+  ],
+  "C0513": [
+    "FCC",
+    "Fístula carótido-cavernosa"
+  ],
+  "C0514": [
+    "FCEM",
+    "Fijación central estable y mantenida"
+  ],
+  "C0515": [
+    "FCL",
+    "Fotocoagulación láser"
+  ],
+  "C0516": [
+    "FEOB",
+    "Fractura por estallido con ojo blanco"
+  ],
+  "C0517": [
+    "FIR",
+    "Fluido intrarretiniano"
+  ],
+  "C0518": [
+    "FL",
+    "Fluoresceína"
+  ],
+  "C0519": [
+    "Fascículo longitudinal medial",
+    "FLM"
+  ],
+  "C0520": [
+    "FO",
+    "Fondo de ojo"
+  ],
+  "C0521": [
+    "Fisura palpebral",
+    "FP"
+  ],
+  "C0522": [
+    "Fotocoagulación panrretiniana con láser argón",
+    "FPR"
+  ],
+  "C0523": [
+    "Factores de riesgo cardiovascular",
+    "FRCV"
+  ],
+  "C0524": [
+    "Fluido sub-epitelio pigmentario de la retina",
+    "FSEPR"
+  ],
+  "C0525": [
+    "Fluido subretiniano",
+    "FSR"
+  ],
+  "C0526": [
+    "GC",
+    "Grosor coroideo"
+  ],
+  "C0527": [
+    "GCAA",
+    "Glaucoma crónico de ángulo abierto"
+  ],
+  "C0528": [
+    "GCAC",
+    "Glaucoma crónico de ángulo cerrado"
+  ],
+  "C0529": [
+    "GCAP",
+    "Glaucoma por cierre angular primario"
+  ],
+  "C0530": [
+    "GCC",
+    "Grosor corneal central"
+  ],
+  "C0531": [
+    "GCS",
+    "Glaucoma crónico simple"
+  ],
+  "C0532": [
+    "Glaucoma neovascular",
+    "GNV"
+  ],
+  "C0533": [
+    "Glaucoma normotensivo",
+    "GNT"
+  ],
+  "C0534": [
+    "Glaucoma primario de ángulo abierto",
+    "GPAA"
+  ],
+  "C0535": [
+    "GONIO",
+    "Gonioscopía"
+  ],
+  "C0536": [
+    "HCEPR",
+    "Hipertrofia congénita del epitelio pigmentario de la retina"
+  ],
+  "C0537": [
+    "H/HF",
+    "Hiperforia"
+  ],
+  "C0538": [
+    "h/hF",
+    "Hipoforia"
+  ],
+  "C0539": [
+    "Hipertropia",
+    "HT"
+  ],
+  "C0540": [
+    "H(T)",
+    "Hipertropia intermitente"
+  ],
+  "C0541": [
+    "Hipotropia",
+    "hT"
+  ],
+  "C0542": [
+    "h(T)",
+    "Hipotropia intermitente"
+  ],
+  "C0543": [
+    "Hasta la nariz",
+    "HLN"
+  ],
+  "C0544": [
+    "Haz papilomacular",
+    "HPM"
+  ],
+  "C0545": [
+    "Hemorragia subconjuntival",
+    "HSC"
+  ],
+  "C0546": [
+    "Hiperactividad del músculo oblicuo inferior",
+    "HOI"
+  ],
+  "C0547": [
+    "Hipoactividad del músculo oblicuo inferior",
+    "hOI"
+  ],
+  "C0548": [
+    "Hiperactividad del músculo oblicuo superior",
+    "HOS"
+  ],
+  "C0549": [
+    "Hipertensión ocular",
+    "HTO"
+  ],
+  "C0550": [
+    "Herpes zóster oftálmico",
+    "HZO"
+  ],
+  "C0551": [
+    "IA",
+    "Insuficiencia acomodativa"
+  ],
+  "C0552": [
+    "ICHF",
+    "Iridociclitis heterocrómica de Fuchs"
+  ],
+  "C0553": [
+    "IDG",
+    "Injerto dermograso"
+  ],
+  "C0554": [
+    "IGAL",
+    "Intercambio gaseoso aire-líquido"
+  ],
+  "C0555": [
+    "IP",
+    "Iridotomía periférica"
+  ],
+  "C0556": [
+    "Infiltrado subepitelial",
+    "ISE"
+  ],
+  "C0557": [
+    "LA",
+    "Lágrima artificial"
+  ],
+  "C0558": [
+    "LAX",
+    "Longitud axial"
+  ],
+  "C0559": [
+    "LEQ",
+    "Lista de espera quirúrgica"
+  ],
+  "C0560": [
+    "LC",
+    "Lente de contacto"
+  ],
+  "C0561": [
+    "LCB",
+    "Lente de contacto blanda"
+  ],
+  "C0562": [
+    "LCD",
+    "Lente de contacto dura"
+  ],
+  "C0563": [
+    "LCT",
+    "Lente de contacto terapéutica"
+  ],
+  "C0564": [
+    "Lente intraocular",
+    "LIO"
+  ],
+  "C0565": [
+    "Lente intraocular en cámara anterior",
+    "LIO CA"
+  ],
+  "C0566": [
+    "Lente intraocular en cámara posterior",
+    "LIO CP"
+  ],
+  "C0567": [
+    "Lente intraocular multifocal",
+    "LIOMF"
+  ],
+  "C0568": [
+    "Linfoma intraocular primario",
+    "LIOP"
+  ],
+  "C0569": [
+    "LIR",
+    "Líquido intrarretiniano"
+  ],
+  "C0570": [
+    "LS",
+    "Línea de Schwalbe"
+  ],
+  "C0571": [
+    "LSR",
+    "Líquido subretiniano"
+  ],
+  "C0572": [
+    "Maculopatía asociada a la edad",
+    "MAE"
+  ],
+  "C0573": [
+    "Macroaneurisma arterial retiniano",
+    "MAR"
+  ],
+  "C0574": [
+    "MAVC",
+    "Mejor agudeza visual corregida"
+  ],
+  "C0575": [
+    "MEM",
+    "Membrana epimacular"
+  ],
+  "C0576": [
+    "MEO",
+    "Músculo extraocular"
+  ],
+  "C0577": [
+    "Membrana epirretiniana",
+    "MER"
+  ],
+  "C0578": [
+    "MH",
+    "Microhemorragia"
+  ],
+  "C0579": [
+    "Material hiperreflectivo subretiniano",
+    "MHSR"
+  ],
+  "C0580": [
+    "Maculopatía idiopática aguda unilateral",
+    "MIAU"
+  ],
+  "C0581": [
+    "Membrana limitante externa",
+    "MLE"
+  ],
+  "C0582": [
+    "Membrana limitante interna",
+    "MLI"
+  ],
+  "C0583": [
+    "MM",
+    "Movimientos de manos"
+  ],
+  "C0584": [
+    "Mitomicina C",
+    "MMC"
+  ],
+  "C0585": [
+    "Milímetro de mercurio",
+    "mmHg"
+  ],
+  "C0586": [
+    "Membrana neovascular coroidea",
+    "MNVC"
+  ],
+  "C0587": [
+    "Membrana neovascular subretiniana",
+    "MNVSR"
+  ],
+  "C0588": [
+    "MOE",
+    "Motilidad ocular extrínseca"
+  ],
+  "C0589": [
+    "MOEC",
+    "Motilidad ocular extrínseca conservada"
+  ],
+  "C0590": [
+    "MOENC",
+    "Motilidad ocular extrínseca no conservada"
+  ],
+  "C0591": [
+    "MOI",
+    "Motilidad ocular intrínseca"
+  ],
+  "C0592": [
+    "MOIC",
+    "Motilidad ocular intrínseca conservada"
+  ],
+  "C0593": [
+    "MOINC",
+    "Motilidad ocular intrínseca no conservada"
+  ],
+  "C0594": [
+    "Maculopatía placoide persistente",
+    "MPP"
+  ],
+  "C0595": [
+    "NAMC",
+    "No alergias medicamentosas conocidas"
+  ],
+  "C0596": [
+    "Nasal inferior",
+    "NI"
+  ],
+  "C0597": [
+    "Nigtasmo latente",
+    "NL"
+  ],
+  "C0598": [
+    "Neurorretinopatía macular aguda",
+    "NMA"
+  ],
+  "C0599": [
+    "Nistagmo optocinético",
+    "NOC"
+  ],
+  "C0600": [
+    "Neuropatía óptica glaucomatosa",
+    "NOG"
+  ],
+  "C0601": [
+    "Neuropatía óptica hereditaria de Leber",
+    "NOHL"
+  ],
+  "C0602": [
+    "Neuropatía óptica isquémica anterior",
+    "NOIA"
+  ],
+  "C0603": [
+    "Neuropatía óptica isquémica anterior arterítica",
+    "NOIA-A"
+  ],
+  "C0604": [
+    "Neuropatía óptica isquémica anterior no arterítica",
+    "NOIA-NA"
+  ],
+  "C0605": [
+    "Neuropatía óptica isquémica posterior",
+    "NOIP"
+  ],
+  "C0606": [
+    "No percepción de luz",
+    "NPL"
+  ],
+  "C0607": [
+    "Necrosis retiniana aguda",
+    "NRA"
+  ],
+  "C0608": [
+    "Necrosis retiniana externa progresiva",
+    "NREP"
+  ],
+  "C0609": [
+    "Nasal superior",
+    "NS"
+  ],
+  "C0610": [
+    "Neovascularización",
+    "NV"
+  ],
+  "C0611": [
+    "Neovascularización coroidea",
+    "NVC"
+  ],
+  "C0612": [
+    "Neovascularización retiniana",
+    "NVR"
+  ],
+  "C0613": [
+    "Neovascularización en disco",
+    "NVD"
+  ],
+  "C0614": [
+    "Neovascularización extrapapilar",
+    "NVE"
+  ],
+  "C0615": [
+    "Neovascularización macular",
+    "NVM"
+  ],
+  "C0616": [
+    "Neovascularización macular no exudativa",
+    "NVMne"
+  ],
+  "C0617": [
+    "Neovascularización papilar",
+    "NVP"
+  ],
+  "C0618": [
+    "Neovascularización subretiniana",
+    "NVSR"
+  ],
+  "C0619": [
+    "OACR",
+    "Oclusión de la arteria central de la retina"
+  ],
+  "C0620": [
+    "OAR",
+    "Oclusión arterial retiniana"
+  ],
+  "C0621": [
+    "OBI",
+    "Oftalmoscopio binocular indirecto"
+  ],
+  "C0622": [
+    "OCA",
+    "Opacidad de cápsula anterior del cristalino"
+  ],
+  "C0623": [
+    "OCP",
+    "Opacidad de cápsula posterior del cristalino"
+  ],
+  "C0624": [
+    "OCPE",
+    "Otalmoplejia cronica progresiva externa"
+  ],
+  "C0625": [
+    "OC",
+    "Opacidad corneal"
+  ],
+  "C0626": [
+    "OEPC",
+    "Oftalmoplejía externa progresiva crónica"
+  ],
+  "C0627": [
+    "OG",
+    "Orbitopatía de Graves"
+  ],
+  "C0628": [
+    "OII",
+    "Orbitopatía inflamatoria idiopática"
+  ],
+  "C0629": [
+    "Oftalmoplejía internuclear",
+    "OIN"
+  ],
+  "C0630": [
+    "Oclusión de rama arterial retiniana",
+    "ORAR"
+  ],
+  "C0631": [
+    "Orto-K",
+    "Ortoqueratología"
+  ],
+  "C0632": [
+    "Oclusión de rama venosa retiniana",
+    "ORVR"
+  ],
+  "C0633": [
+    "Orbitopatía tiroidea",
+    "OT"
+  ],
+  "C0634": [
+    "Oclusión de la vena central de la retina",
+    "OVCR"
+  ],
+  "C0635": [
+    "Oclusión venosa retiniana",
+    "OVR"
+  ],
+  "C0636": [
+    "Obstrucción de la vía lagrimal",
+    "OVL"
+  ],
+  "C0637": [
+    "P-F",
+    "Pred-forte"
+  ],
+  "C0638": [
+    "PAKI",
+    "Paquimetría",
+    "PQ"
+  ],
+  "C0639": [
+    "Parálisis del III par craneal",
+    "PIIIPC"
+  ],
+  "C0640": [
+    "Paresia del III par craneal",
+    "pIIIPC"
+  ],
+  "C0641": [
+    "Parálisis del IV par craneal",
+    "PIVPC"
+  ],
+  "C0642": [
+    "Paresia del IV para craneal",
+    "pIVPC"
+  ],
+  "C0643": [
+    "Parálisis del VI par craneal",
+    "PVIPC"
+  ],
+  "C0644": [
+    "Paresia del VI par craneal",
+    "pVIPC"
+  ],
+  "C0645": [
+    "Par craneal",
+    "PC"
+  ],
+  "C0646": [
+    "PCA",
+    "Posición cefálica anormal"
+  ],
+  "C0647": [
+    "PCC",
+    "Posición cefálica compensadora"
+  ],
+  "C0648": [
+    "PDI",
+    "Pomada de Icol"
+  ],
+  "C0649": [
+    "PEV",
+    "Potenciales evocados visuales"
+  ],
+  "C0650": [
+    "Perfluorocarbono líquido",
+    "PFCL"
+  ],
+  "C0651": [
+    "PI",
+    "Párpado inferior"
+  ],
+  "C0652": [
+    "PICNR",
+    "Pupilas isocóricas normorreactivas"
+  ],
+  "C0653": [
+    "PID",
+    "Párpado inferior derecho"
+  ],
+  "C0654": [
+    "PII",
+    "Párpado inferior izquierdo"
+  ],
+  "C0655": [
+    "PILO",
+    "Pilocarpina"
+  ],
+  "C0656": [
+    "PINLA",
+    "Pupilas isocóricas normorreactivas a la luz y la acomodación"
+  ],
+  "C0657": [
+    "PIOD",
+    "Párpado inferior del ojo derecho"
+  ],
+  "C0658": [
+    "PIOI",
+    "Párpado inferior del ojo izquierdo"
+  ],
+  "C0659": [
+    "PIRRLA",
+    "Pupilas isocóricas redondas reactivas a la luz y la acomodación"
+  ],
+  "C0660": [
+    "PLC",
+    "Portador de lentes de contacto"
+  ],
+  "C0661": [
+    "PLLA",
+    "Puntos lagrimales limpios y abiertos"
+  ],
+  "C0662": [
+    "PNR",
+    "Pupilas normorreactivas"
+  ],
+  "C0663": [
+    "Percepción y proyección luminosa",
+    "PPL"
+  ],
+  "C0664": [
+    "Precipitado retroquerático",
+    "PRK"
+  ],
+  "C0665": [
+    "PS",
+    "Párpado superior"
+  ],
+  "C0666": [
+    "PSD",
+    "Párpado superior derecho"
+  ],
+  "C0667": [
+    "PSI",
+    "Párpado superior izquierdo"
+  ],
+  "C0668": [
+    "Pseudofaquia",
+    "PSF",
+    "PSQ"
+  ],
+  "C0669": [
+    "PSOD",
+    "Párpado superior del ojo derecho"
+  ],
+  "C0670": [
+    "PSOI",
+    "Párpado superior del ojo izquierdo"
+  ],
+  "C0671": [
+    "Persistencia de vasculatura fetal",
+    "PVF"
+  ],
+  "C0672": [
+    "Proliferación vitreorretiniana",
+    "PVR"
+  ],
+  "C0673": [
+    "QA",
+    "Queratotomía astigmática"
+  ],
+  "C0674": [
+    "QAA",
+    "Queratopatía ampollosa afáquica"
+  ],
+  "C0675": [
+    "QCA",
+    "Queratoconjuntivitis atópica"
+  ],
+  "C0676": [
+    "QCE",
+    "Queratoconjuntivitis epidémica"
+  ],
+  "C0677": [
+    "QCV",
+    "Queratoconjuntivitis vernal"
+  ],
+  "C0678": [
+    "QI",
+    "Queratitis intersticial"
+  ],
+  "C0679": [
+    "QLS",
+    "Queratoconjuntivitis límbica superior"
+  ],
+  "C0680": [
+    "RAC",
+    "Retinopatía asociada a cáncer"
+  ],
+  "C0681": [
+    "RAM",
+    "Retinopatía asociada a melanoma"
+  ],
+  "C0682": [
+    "RAI",
+    "Retinopatía autoinmune"
+  ],
+  "C0683": [
+    "RBA",
+    "Retina bien aplicada"
+  ],
+  "C0684": [
+    "RC",
+    "Refracción ciclopléjica"
+  ],
+  "C0685": [
+    "RD",
+    "Retinopatía diabética"
+  ],
+  "C0686": [
+    "RDNP",
+    "Retinopatía diabética no proliferativa"
+  ],
+  "C0687": [
+    "RDP",
+    "Retinopatía diabética proliferativa"
+  ],
+  "C0688": [
+    "RDPP",
+    "Retinopatía diabética preproliferativa"
+  ],
+  "C0689": [
+    "RDQ",
+    "Registro de demanda quirúrgica"
+  ],
+  "C0690": [
+    "RETINO",
+    "Retinografía"
+  ],
+  "C0691": [
+    "Reinserción del músculo elevador del párpado superior por vía anterior",
+    "REVA"
+  ],
+  "C0692": [
+    "Reinserción del músculo elevador del párpado superior por vía posterior",
+    "REVP"
+  ],
+  "C0693": [
+    "Reflejo foveolar",
+    "RF"
+  ],
+  "C0694": [
+    "Recto inferior",
+    "RI"
+  ],
+  "C0695": [
+    "Recto lateral",
+    "RL"
+  ],
+  "C0696": [
+    "Recto medio",
+    "RM"
+  ],
+  "C0697": [
+    "RNR",
+    "Rodete neurorretiniano"
+  ],
+  "C0698": [
+    "Retina neurosensorial",
+    "RNS"
+  ],
+  "C0699": [
+    "Retinosis pigmentaria",
+    "RP"
+  ],
+  "C0700": [
+    "Retinopatía serosa central",
+    "RSC"
+  ],
+  "C0701": [
+    "Retinografía o retinógrafo",
+    "RTG"
+  ],
+  "C0702": [
+    "Refracción",
+    "RX"
+  ],
+  "C0703": [
+    "SA",
+    "Segmento anterior"
+  ],
+  "C0704": [
+    "SAP",
+    "Sinequia anterior periférica"
+  ],
+  "C0705": [
+    "SAVM",
+    "Síndrome de adhesión vítreo-macular"
+  ],
+  "C0706": [
+    "SCE",
+    "Sensación de cuerpo extraño"
+  ],
+  "C0707": [
+    "SCO",
+    "Síndrome compartimental orbitario"
+  ],
+  "C0708": [
+    "SCAP",
+    "Sospecha de cierre angular primario"
+  ],
+  "C0709": [
+    "SDP",
+    "Síndrome de dispersión pigmentaria"
+  ],
+  "C0710": [
+    "SFU",
+    "Síndrome de fibrosis subretiniana y uveítis"
+  ],
+  "C0711": [
+    "Hexafluoruro de azufre",
+    "SF6"
+  ],
+  "C0712": [
+    "SHP",
+    "Sin hallazgos patológicos"
+  ],
+  "C0713": [
+    "SIO",
+    "Síndrome isquémico ocular"
+  ],
+  "C0714": [
+    "SPHO",
+    "Síndrome de presunta histoplasmosis ocular"
+  ],
+  "C0715": [
+    "SS",
+    "Síndrome de Sjögren"
+  ],
+  "C0716": [
+    "Sin tratamiento",
+    "ST"
+  ],
+  "C0717": [
+    "STVM",
+    "Síndrome de tracción vítreo-macular"
+  ],
+  "C0718": [
+    "TACR",
+    "Trombosis de arteria central de la retina"
+  ],
+  "C0719": [
+    "TDP",
+    "Test de ducción pasiva"
+  ],
+  "C0720": [
+    "Terapia fotodinámica",
+    "TFD"
+  ],
+  "C0721": [
+    "Temporal inferior",
+    "TI"
+  ],
+  "C0722": [
+    "TLA",
+    "Trabeculoplastia con láser argón"
+  ],
+  "C0723": [
+    "TMA",
+    "Trasplante de membrana amniótica"
+  ],
+  "C0724": [
+    "TNC",
+    "Tonometría de no contacto"
+  ],
+  "C0725": [
+    "Test de visión estereoscópica",
+    "TNO"
+  ],
+  "C0726": [
+    "Tensión ocular",
+    "TO"
+  ],
+  "C0727": [
+    "TRAR",
+    "Trombosis de rama arterial retiniana"
+  ],
+  "C0728": [
+    "TRE",
+    "Tubulación de la retina externa"
+  ],
+  "C0729": [
+    "TROPI",
+    "Tropicamida"
+  ],
+  "C0730": [
+    "Trombosis de rama venosa retiniana",
+    "TRVR"
+  ],
+  "C0731": [
+    "Temporal superior",
+    "TS"
+  ],
+  "C0732": [
+    "Termoterapia transpupilar",
+    "TTT"
+  ],
+  "C0733": [
+    "Trombosis de vena central de la retina",
+    "TVCR"
+  ],
+  "C0734": [
+    "Tracción vitreomacular",
+    "TVM"
+  ],
+  "C0735": [
+    "UAA",
+    "Uveítis anterior aguda"
+  ],
+  "C0736": [
+    "UAARU",
+    "Uveítis anterior aguda recidivante unilateral"
+  ],
+  "C0737": [
+    "UAC",
+    "Uveítis anterior crónica"
+  ],
+  "C0738": [
+    "Síndrome uveítis-glaucoma-hifema",
+    "UGH"
+  ],
+  "C0739": [
+    "UI",
+    "Uveítis intermedia"
+  ],
+  "C0740": [
+    "UP",
+    "Uveítis posterior"
+  ],
+  "C0741": [
+    "URI",
+    "Uveítis de reconstitución inmune"
+  ],
+  "C0742": [
+    "VB",
+    "visión binocular"
+  ],
+  "C0743": [
+    "VC",
+    "Visión de cerca"
+  ],
+  "C0744": [
+    "VCR",
+    "Vena central de la retina"
+  ],
+  "C0745": [
+    "Vasculatura fetal persistente",
+    "VFP"
+  ],
+  "C0746": [
+    "VHZ",
+    "Virus herpes zóster"
+  ],
+  "C0747": [
+    "Síndrome de Vogt-Koyanagi-Harada",
+    "VKH"
+  ],
+  "C0748": [
+    "Vitrectomía pars plana",
+    "VPP"
+  ],
+  "C0749": [
+    "Vasculitis en rama escarchada",
+    "VRE"
+  ],
+  "C0750": [
+    "Vitreorretinopatía exudativa familiar",
+    "VREF"
+  ],
+  "C0751": [
+    "Vitreorretinopatía proliferativa",
+    "VRP"
+  ],
+  "C0752": [
+    "Vitrectomía mecánica",
+    "VTM"
+  ],
+  "C0753": [
+    "ZAF",
+    "Zona avascular foveal"
+  ]
+}
