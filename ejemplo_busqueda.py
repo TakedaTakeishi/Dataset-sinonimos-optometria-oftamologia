@@ -147,7 +147,7 @@ class SynonymExpander:
 def main():
     # Rutas de archivos
     base_dir = Path(__file__).parent
-    synonyms_file = base_dir / "lista_sinónimos.json"
+    synonyms_file = base_dir / "lista_sinónimos_id.json"
     inverted_index_file = base_dir / "indice_invertido.json"
     
     # Crear expansor
