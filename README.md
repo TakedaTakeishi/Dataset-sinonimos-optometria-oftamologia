@@ -28,9 +28,9 @@ dataset-terminologia-oftalmologia/
 ├── LICENSE                            # Licencia GPL-3.0
 ├── lista_sinonimos_id.json           # Tesauro maestro con IDs de concepto
 ├── indice_invertido.json             # Índice invertido término→conceptos
-├── siglas_múltiples.json             # Siglas médicas procesadas
-├── siglas_optometría.csv             # Base de datos de siglas optométricas
-├── sinónimos.yml                     # Grupos de sinónimos validados
+├── siglas_múltiples.json             # Siglas con distintos significados.
+├── siglas_optometría.csv             # Base de datos de siglas no ambiguas
+├── sinónimos.yml                     # Grupos de sinónimos
 └── ejemplo_busqueda.py               # Script de ejemplo de uso
 
 ```
@@ -38,7 +38,7 @@ dataset-terminologia-oftalmologia/
 ### Descripción de Archivos
 
 #### 1. `lista_sinonimos_id.json` (Archivo Principal)
-Tesauro maestro que mapea **Concept IDs** a listas de términos sinónimos.
+Tesauro maestro que mapea **Concept IDs** a listas de términos sinónimos. Resultado de la unión de los archivos `siglas_múltiples.json`, `siglas_optometría.csv` y `sinónimos.yml`, que tienen distintos conceptos.
 
 **Estructura:**
 ```json
@@ -292,9 +292,7 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 ### Lineamientos para Contribuciones
 
-- **Validación clínica**: Los términos deben ser validados por profesionales médicos
 - **Fuentes**: Proporcionar referencias de fuentes confiables
-- **Formato**: Mantener la estructura JSON/CSV/YML existente
 - **Documentación**: Actualizar el README con cambios significativos
 
 ## 📜 Licencia
@@ -328,12 +326,6 @@ Ver [LICENSE](LICENSE) para más detalles.
 1. Oftalmoseo. (2024). *Siglas y Acrónimos en Oftalmología*. Recuperado de https://www.oftalmoseo.com/siglas-y-acronimos/
 
 2. UNLP Editorial. *Diccionario de Términos Oftalmológicos*. Universidad Nacional de La Plata. Recuperado de https://libros.unlp.edu.ar/index.php/unlp/catalog/download/1313/1297/4251-1
-
-## 🔗 Enlaces Relacionados
-
-- [Documentación de la API de búsqueda](docs/API.md) *(próximamente)*
-- [Casos de estudio clínicos](docs/CASOS_ESTUDIO.md) *(próximamente)*
-- [Guía de contribución](CONTRIBUTING.md) *(próximamente)*
 
 ## 📧 Contacto
 
