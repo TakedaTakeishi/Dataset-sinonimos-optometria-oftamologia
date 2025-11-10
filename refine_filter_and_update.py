@@ -31,8 +31,8 @@ def main():
 
         # Criterios de filtrado
         is_multiple_def = '1)' in expansion or '2)' in expansion
-        is_multiple_sigla = '/' in sigla
-        is_translation = 'en inglés' in expansion
+        is_multiple_sigla = ' / ' in sigla or '/' in expansion
+        is_translation = 'inglés' in expansion
         has_parenthesis = '(' in expansion or ')' in expansion
 
         if is_multiple_def or is_multiple_sigla or is_translation or has_parenthesis:
